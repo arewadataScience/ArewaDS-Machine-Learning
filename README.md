@@ -12,7 +12,7 @@
 
 > 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
 
-Arewa Datascience presents this 10-week online course, as part of the Arewa Datascience Fellowship. The contents of the course are adopted from Microsoft's ['ML-For-Beginners'](https://github.com/microsoft/ML-For-Beginners) and ['DS-For Beginners'](https://github.com/microsoft/Data-Science-For-Beginners) courses. In this curriculum, you will learn about **data manipulation (preprocessing and visualization)** and **classical machine learning**, using pandas and Scikit-learn libraries. The curriculum does not include deep-learning, as it is anticipated to be covered in the future (during the second cohort).
+Arewa Datascience presents this 10-week online course, as part of the Arewa Datascience Fellowship. The curriculum for this course were adapted from Microsoft's ['ML-For-Beginners'](https://github.com/microsoft/ML-For-Beginners) and ['DS-For Beginners'](https://github.com/microsoft/Data-Science-For-Beginners) curricula. In this curriculum, you will learn about **data manipulation (preprocessing and visualization)** and **classical machine learning**, using pandas and Scikit-learn libraries. The curriculum does not include deep-learning, as it is anticipated to be covered in the future (during the second cohort).
 
 We acknowledge the content creators in [THANKS.md](THANKS.md)
 
