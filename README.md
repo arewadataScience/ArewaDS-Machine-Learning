@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arewadataScience/ML-4-Beginners-Arewa-Datascience&left_color=red&right_color=green) 
 [![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
 [![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/graphs/contributors/)
