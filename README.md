@@ -1,12 +1,12 @@
 [![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/pulls/)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ML-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ML-For-Beginners/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg?style=social&label=Watch)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg?style=social&label=Fork)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/network/)
+[![GitHub stars](https://img.shields.io/github/stars/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg?style=social&label=Star)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/stargazers/)
 
 # Machine Learning for Beginners - A Curriculum
 
@@ -78,7 +78,3 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 ## PDFs
 
 Find a pdf of the curriculum with links [here](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf).
-
-## Help Wanted!
-
-Would you like to contribute a translation? Please read our [translation guidelines](TRANSLATIONS.md) and add a templated issue to manage the workload [here](https://github.com/microsoft/ML-For-Beginners/issues).
