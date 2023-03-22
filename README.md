@@ -57,8 +57,8 @@ By ensuring that the content aligns with projects, the process is made more enga
 
 > **A note about quizzes**: All quizzes are contained [in this app](https://gray-sand-07a10f403.1.azurestaticapps.net/), for 52 total quizzes of three questions each. They are linked from within the lessons but the quiz app can be run locally; follow the instruction in the `quiz-app` folder.
 
-| Week Number | Topic | Lesson Grouping | Learning Objectives | Linked Lesson | Author |
-| ------- | ------------- | --------------- | -------------------- | ---------------- | ------------------ |
+| Week | Topic | Lesson Grouping | Learning Objectives | Linked Lesson | Author |
+| :-------: | ------------- | --------------- | -------------------- | --------------------- | ------------------ |
 |      01       |                Introduction to machine learning                |      [Introduction](1-Introduction/README.md)       | Learn the basic concepts behind machine learning                                                                                |                                             <ul> <li>[Lesson 1](1-Introduction/1-intro-to-ML/README.md)</li> <li>[Lesson 2](1-Introduction/2-history-of-ML/README.md)</li> <li>[Lesson 3](1-Introduction/3-fairness/README.md)</li> <li>[Lesson 4](1-Introduction/4-techniques-of-ML/README.md)</li> </ul>                                      |                       <ul><li>Muhammad</li><li>Jen and Amy</li><li>Tomomi</li><li>Chris and Jen</li></ul>                       |
 |02|Data Preprocessing|||||
 |03|Data Visualization|||||
