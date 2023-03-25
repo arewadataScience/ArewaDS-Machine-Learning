@@ -20,8 +20,3 @@ In this section, you will build on your earlier study of Regression and learn ab
 3. [Yet other classifiers](3-Classifiers-2/README.md)
 4. [Applied ML: build a web app](4-Applied/README.md)
 
-## Credits
-
-"Getting started with classification" was written with ♥️ by [Cassie Breviu](https://www.twitter.com/cassiebreviu) and [Jen Looper](https://www.twitter.com/jenlooper)
-
-The delicious cuisines dataset was sourced from [Kaggle](https://www.kaggle.com/hoandan/asian-and-indian-cuisines).
