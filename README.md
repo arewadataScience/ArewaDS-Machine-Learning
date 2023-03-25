@@ -1,3 +1,7 @@
+<p align="center">
+<img src="images/arewadsimage.png">
+</p>
+
 # Arewa Datascience Machine Learning for Beginners
 
 Arewa Datascience presents this 10-week online course, as part of the Arewa Datascience Fellowship. In this curriculum, you will learn about **data manipulation (preprocessing and visualization)** and **classical machine learning**, using pandas and Scikit-learn libraries. The curriculum does not include deep-learning, as it is anticipated to be covered in the future (during the second cohort).
