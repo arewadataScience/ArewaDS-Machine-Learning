@@ -11,7 +11,7 @@ Arewa Datascience presents this 10-week online course, as part of the Arewa Data
 
 ## Prerequisite:
 
-> Our fellows have completed the Python-30 Day challenge that we prepared. If you are following this curriculum, we expect you to have a basic understanding of Python.
+> Our fellows have completed the [Python-30 Day challenge](https://github.com/arewadataScience/30-Days-of-Python) that we prepared. If you are following this curriculum, we expect you to have a basic understanding of Python.
 
 
 **[Fellows](https://arewadatascience.org/fellows.html)**, to use this curriculum, fork the entire repo to your own GitHub account and complete the exercises on your own or with a group:
