@@ -1,17 +1,3 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arewadataScience/ML-4-Beginners-Arewa-Datascience&left_color=red&right_color=green) 
-[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
-[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/pulls/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub watchers](https://img.shields.io/github/watchers/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg?style=social&label=Watch)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg?style=social&label=Fork)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/network/)
-[![GitHub stars](https://img.shields.io/github/stars/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg?style=social&label=Star)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/stargazers/)
-<p align="center">
-<img src="images/arewadsimage.png">
-</p>
-
 # Arewa Datascience Machine Learning for Beginners
 
 Arewa Datascience presents this 10-week online course, as part of the Arewa Datascience Fellowship. In this curriculum, you will learn about **data manipulation (preprocessing and visualization)** and **classical machine learning**, using pandas and Scikit-learn libraries. The curriculum does not include deep-learning, as it is anticipated to be covered in the future (during the second cohort).
