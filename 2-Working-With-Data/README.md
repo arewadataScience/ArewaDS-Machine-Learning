@@ -11,6 +11,3 @@ In these lessons, you will learn some of the ways that data can be managed, mani
 3. [Working with Python](07-python/README.md)
 4. [Preparing data](08-data-preparation/README.md)
 
-### Credits
-
-These lessons were written with ❤️ by [Christopher Harrison](https://twitter.com/geektrainer), [Dmitry Soshnikov](https://twitter.com/shwars) and [Jasmine Greenaway](https://twitter.com/paladique)
