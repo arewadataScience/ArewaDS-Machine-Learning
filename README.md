@@ -10,7 +10,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/arewadataScience/ML-4-Beginners-Arewa-Datascience.svg?style=social&label=Star)](https://GitHub.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/stargazers/)
 
 <p align="center">
-<img src="/images/arewadsimage.png">
+<img src="images/arewadsimage.png">
 </p>
 
 # Arewa Datascience Machine Learning for Beginners
