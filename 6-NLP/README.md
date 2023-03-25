@@ -18,7 +18,3 @@ In these lessons we'll learn the basics of NLP by building small conversational 
 3. [Translation and sentiment analysis with machine learning](3-Translation-Sentiment/README.md)
 4. [Preparing your data](4-Hotel-Reviews-1/README.md)
 5. [NLTK for Sentiment Analysis](5-Hotel-Reviews-2/README.md)
-
-## Credits 
-
-These natural language processing lessons were written with ☕ by [Stephen Howell](https://twitter.com/Howell_MSFT)
