@@ -11,9 +11,7 @@
 
 # Machine Learning for Beginners - A Curriculum
 
-> 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
-
-Arewa Datascience presents this 10-week online course, as part of the Arewa Datascience Fellowship. The curriculum for this course were adapted from Microsoft's ['ML-For-Beginners'](https://github.com/microsoft/ML-For-Beginners) and ['DS-For Beginners'](https://github.com/microsoft/Data-Science-For-Beginners) curricula. In this curriculum, you will learn about **data manipulation (preprocessing and visualization)** and **classical machine learning**, using pandas and Scikit-learn libraries. The curriculum does not include deep-learning, as it is anticipated to be covered in the future (during the second cohort).
+Arewa Datascience presents this 10-week online course, as part of the Arewa Datascience Fellowship. In this curriculum, you will learn about **data manipulation (preprocessing and visualization)** and **classical machine learning**, using pandas and Scikit-learn libraries. The curriculum does not include deep-learning, as it is anticipated to be covered in the future (during the second cohort).
 
 # Getting Started
 
@@ -27,8 +25,6 @@ Arewa Datascience presents this 10-week online course, as part of the Arewa Data
 - Complete the assignment.
 - After completing a lesson group, visit the [Telegram Group](https://t.me/c/1892169859/1) and "learn out loud" by writing about the new knowledge you gained. Don't forget to write a [medium](https://medium.com) blog post about what you learn each week.
 
-**Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum.
-
 ---
 
 ## Pedagogy
@@ -36,8 +32,6 @@ Arewa Datascience presents this 10-week online course, as part of the Arewa Data
 We have chosen two pedagogical tenets while building this curriculum: ensuring that it is hands-on **project-based** and that it includes **frequent quizzes**. In addition, this curriculum has a common **theme** to give it cohesion.
 
 By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented. In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12-week cycle. This curriculum also includes a postscript on real-world applications of ML, which can be used as extra credit or as a basis for discussion.
-
-> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), and [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
 
 ## Each lesson includes:
 
@@ -53,8 +47,6 @@ By ensuring that the content aligns with projects, the process is made more enga
 - post-lecture quiz
 
 > **A note about languages**: These lessons are primarily written in Python, but many are also available in R. To complete an R lesson, go to the `/solution` folder and look for R lessons. They include an .rmd extension that represents an **R Markdown** file which can be simply defined as an embedding of `code chunks` (of R or other languages) and a `YAML header` (that guides how to format outputs such as PDF) in a `Markdown document`. As such, it serves as an exemplary authoring framework for data science since it allows you to combine your code, its output, and your thoughts by allowing you to write them down in Markdown. Moreover, R Markdown documents can be rendered to output formats such as PDF, HTML, or Word.
-
-> **A note about quizzes**: All quizzes are contained [in this app](https://gray-sand-07a10f403.1.azurestaticapps.net/), for 52 total quizzes of three questions each. They are linked from within the lessons but the quiz app can be run locally; follow the instruction in the `quiz-app` folder.
 
 | Week | Topic | Lesson Grouping | Learning Objectives | Linked Lesson | Mentors |
 | :-------: | ------------- | --------------- | -------------------- | --------------------- | ------------------ |
@@ -74,6 +66,6 @@ By ensuring that the content aligns with projects, the process is made more enga
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
 
-## PDFs
+## Source
 
-Find a pdf of the curriculum with links [here](https://microsoft.github.io/ML-For-Beginners/pdf/readme.pdf).
+The curriculum for this course were adapted from Microsoft's ['ML-For-Beginners'](https://github.com/microsoft/ML-For-Beginners) and ['DS-For Beginners'](https://github.com/microsoft/Data-Science-For-Beginners) curricula. 
