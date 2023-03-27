@@ -8,8 +8,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/microsoft/ML-For-Beginners.git"
-	},
+		 "url": "git+https://github.com/arewadataScience/ML-4-Beginners-Arewa-Datascience.git"
+
+			},
 	"keywords": [
 		"machine",
 		"learning",
@@ -20,9 +21,12 @@
 	"author": "Jen Looper and team",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/microsoft/ML-For-Beginners/issues"
+		"url": "https://github.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/issues"
+
 	},
 	"homepage": "https://github.com/microsoft/ML-For-Beginners#readme",
+	"homepage": "https://github.com/arewadataScience/ML-4-Beginners-Arewa-Datascience#readme",
+
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
 	}
