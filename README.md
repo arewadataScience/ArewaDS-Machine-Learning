@@ -1,7 +1,7 @@
 <p align="center">
 <img src="images/arewadsimage.png">
 </p>
-
+https://arewadatascience.github.io
 
 # Arewa Datascience Machine Learning for Beginners
 
