@@ -1,70 +1,197 @@
 <p align="center">
-<img src="images/arewadsimage.png">
+<img src="arewadsimage.png">
 </p>
-visit our website here: https://arewadatascience.github.io
 
-# Arewa Datascience Machine Learning for Beginners
-
-Arewa Datascience presents this 10-week online course, as part of the Arewa Datascience Fellowship. In this curriculum, you will learn about  **classical machine learning**, using pandas and Scikit-learn libraries. The curriculum does not include deep-learning, as it is anticipated to be covered in the future (second cohort).
-
-# Getting Started
-
-## Prerequisite:
-
-> Our fellows have completed the [Python-30 Day challenge](https://github.com/arewadataScience/30-Days-of-Python) that we prepared. If you are following this curriculum, we expect you to have a basic understanding of Python.
+ArewaDS website: https://arewadatascience.github.io
 
 
-**[Fellows](https://arewadatascience.org/fellows.html)**, to use this curriculum, fork the entire repo to your own GitHub account and complete the exercises on your own or with a group:
+# Table of Contents
 
-- Start with a pre-lecture quiz.
-- Read the lecture and complete the activities, pausing and reflecting at each knowledge check.
-- Try to create the projects by comprehending the lessons rather than running the solution code; however that code is available in the `/solution` folders in each project-oriented lesson.
-- Take the post-lecture quiz.
-- Complete the challenge.
-- Complete the assignment.
-- After completing a lesson group, visit the [Telegram Group](https://t.me/c/1892169859/1) and "learn out loud" by writing about the new knowledge you gained. Don't forget to write a [medium](https://medium.com) blog post about what you learn each week.
+- [Welcome to Arewa Data Science Fellowship](#Arewa-Data-Science-and-Machine-Learning-Curriculum)
+- [Key Features](#key-features)
+- [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
+- [Contact & Community](#contact--community)
+- [Welcome to Cohort 2.0 ArewaDS Fellowship](#welcome-to-cohort-20-arewads-fellowship)
+- [Graduation Requirements](#graduation-requirements)
+- [Fellowship Kickoff](#fellowship-kickoff)
+- [Stage 1: Getting Started](#stage-1-getting-started)
+  - [Learning How to Learn](#learning-how-to-learn)
+  - [VSCode Setup, Git, and GitHub](#vscode-setup-git-and-github)
+  - [30 Days of Python Challenge](#30-days-of-python-challenge)
+- [Stage 2: Data Science Curriculum](#stage-2-data-science-curriculum)
+- [Stage 3: Machine Learning Curriculum](#stage-3-machine-learning-curriculum)
+- [Career Services](#career-services)
 
----
 
-## Pedagogy
+#  Arewa Data Science and Machine Learning Curriculum!
 
-We have chosen two pedagogical tenets while building this curriculum: ensuring that it is hands-on **project-based** and that it includes **frequent quizzes**. In addition, this curriculum has a common **theme** to give it cohesion.
+The Arewa Data Science and Machine Learning Fellowship is a comprehensive, free program aimed at equipping aspiring data scientists and machine learning engineers with the skills and knowledge needed to excel in the field. 
 
-By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented. In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and should be taken in whole. The projects start small and become increasingly complex by the end of the 10-week cycle. This curriculum also includes a postscript on real-world applications of ML, which can be used as extra credit or as a basis for discussion.
+Our curriculum is carefully designed to guide participants through the basics of programming and data analysis to the more complex concepts of machine learning algorithms and applications. With a blend of theory and practical assignments, fellows engage in a hands-on learning experience that prepares them for real-world data science challenges.
 
-## Each lesson includes:
+### Key Features:
+- Structured curriculum covering Python, Data Science, and Machine Learning.
+- Hands-on projects and challenges to apply learning in practical scenarios.
+- Access to a community of mentors and peers for collaborative learning.
+- Opportunities for real-world application through capstone projects.
 
-- optional sketchnote
-- optional supplemental video
-- pre-lecture warmup quiz
-- written lesson
-- for project-based lessons, step-by-step guides on how to build the project
-- knowledge checks
-- a challenge
-- supplemental reading
-- assignment
-- post-lecture quiz
+### Interested in Joining the Fellowship?
 
-> **A note about languages**: These lessons are primarily written in Python, but many are also available in R. To complete an R lesson, go to the `/solution` folder and look for R lessons. They include an .rmd extension that represents an **R Markdown** file which can be simply defined as an embedding of `code chunks` (of R or other languages) and a `YAML header` (that guides how to format outputs such as PDF) in a `Markdown document`. As such, it serves as an exemplary authoring framework for data science since it allows you to combine your code, its output, and your thoughts by allowing you to write them down in Markdown. Moreover, R Markdown documents can be rendered to output formats such as PDF, HTML, or Word.
+Applications for Cohort 2.0 have now closed, but we welcome you to participate in our sessions and access our materials for self-study. Stay updated on future cohorts and get the latest information by following us on our social media pages. Additionally, join our Telegram group for regular updates and insights into our fellowship program.
 
-| Week | Topic | Lesson Grouping | Learning Objectives | Linked Lesson | Mentors |
-| :-------: | ------------- | --------------- | -------------------- | --------------------- | ------------------ |
-|      01       |                Introduction to machine learning                |      [Introduction](1-Introduction/README.md)       | Learn the basic concepts behind machine learning | <ul> <li>[Introduction](1-Introduction/1-intro-to-ML/README.md)</li> <li>[History](1-Introduction/2-history-of-ML/README.md)</li> <li>[Fairness](1-Introduction/3-fairness/README.md)</li> <li>[Techniques](1-Introduction/4-techniques-of-ML/README.md)</li> </ul> | <li> Ibrahim Ahmad </li>  |
-| 02 | Working with Data | [Working With Data](2-Working-With-Data/README.md) | Introduction to pandas and data preparation | <ul><li>[Python libraries](2-Working-With-Data/07-python/README.md) </li><li>[lesson](2-Working-With-Data/08-data-preparation/README.md)</li></ul> | <li> Idris Abdulmumin</li> |
-| 03 | Data Visualization | [Data Visualization](3-Data-Visualization/README.md) | Introduction to Matplotlib, Data Distributions, Proportions and Relationships and Meaningful Visualizations - bird data 🦆 | <ul><li>[Quantities](3-Data-Visualization/09-visualization-quantities/README.md)</li> <li>[Distributions](3-Data-Visualization/10-visualization-distributions/README.md)</li><li>[Proportions](3-Data-Visualization/11-visualization-proportions/README.md)</li><li>[Relationships](3-Data-Visualization/12-visualization-relationships/README.md)</li><li>[Meaningful Visualizations](3-Data-Visualization/13-meaningful-visualizations/README.md)</li></ul> |   <li> Shamsuddeen Hassan Muhammad </li>  <li> Falalu </li>  |
-| 04 | Regression | [Regression](2-Regression/README.md) | Tools, Data Visualization and Regression Models - North American pumpkin prices 🎃 | <ul><li>[Tools](2-Regression/1-Tools/README.md)</li><li>[Data preprocessing](2-Regression/2-Data/README.md)</li><li>[Linear Regression](2-Regression/3-Linear/README.md)</li><li>[Logistic Regression](2-Regression/4-Logistic/README.md) </li></ul> |  |
-| 05 | Classification | [Classification](4-Classification/README.md)     | Data preprocessing, classifiers - Delicious Asian and Indian cuisines 🍜 | <ul><li> [Introduction](4-Classification/1-Introduction/README.md) </li> <li> [Classifiers 1](4-Classification/2-Classifiers-1/README.md)</li> <li> [Classifiers 2](4-Classification/3-Classifiers-2/README.md)</li> <li> [Recommender App](4-Classification/4-Applied/README.md) </ul> </ul> |  |
-| 06 | Clustering | [Clustering](5-Clustering/README.md) | Data preprocessing, clustering - Exploring Nigerian Musical Tastes 🎧 | <ul><li> [Data Visualization](5-Clustering/1-Visualize/README.md)</li> <li> [K-Means](5-Clustering/2-K-Means/README.md)</li> </ul> |  |
-| 07 | Natural language processing ☕️ |   [Natural language processing](6-NLP/README.md)    | Learn the basics about NLP by building a simple bot | <ul> <li> [Introduction](6-NLP/1-Introduction-to-NLP/README.md) </li> <li> [Common Tasks](6-NLP/2-Tasks/README.md) </li> <li> [Translation](6-NLP/3-Translation-Sentiment/README.md) </li> </ul> | <ul> <li> Shamsuddeen </li> <li> Idris </li> </ul> |
-| 08 | Sentiment Analysis | [Natural language processing](6-NLP/README.md) | Sentiment analysis with hotel reviews | <ul> <li> [Hotel Reviews 1](6-NLP/4-Hotel-Reviews-1/README.md) </li> <li> [Hotel Reviews 2](6-NLP/5-Hotel-Reviews-2/README.md) </li> </ul> | <ul> <li> Shamsuddeen </li> <li> Ibrahim </li> |
-| 09 | Time Series Forecasting | [Time series](7-TimeSeries/README.md) | Introduction, ARIMA, Support Vector Regressor (SVR) - ⚡️ World Power Usage ⚡️ | <ul><li> [Introduction](7-TimeSeries/1-Introduction/README.md) </li> <li> [ARIMA](7-TimeSeries/2-ARIMA/README.md) </li> <li> [SVR](7-TimeSeries/3-SVR/README.md) </li> </ul> |  <li> Zaharaddeen and Samuel Adeoluwa Aduroja </li> |
-| 10 | Reinforcement Learning | [Reinforcement learning](8-Reinforcement/README.md) | Introduction, Reinforcement learning with Q-Learning and Gym | <ul><li>[Q-Learning](8-Reinforcement/1-QLearning/README.md)</li> <li>[Gym](8-Reinforcement/2-Gym/README.md)</li></ul> |  <li> Mustapha </li> |
-| Projects | Real-World ML scenarios and applications | [ML in the Wild](9-Real-World/README.md) | Interesting and revealing real-world applications of classical ML | [Lesson](9-Real-World/1-Applications/README.md) | <ul> <li> Team  </li> </ul> |
+### Contact & Community:
+- Website: [Arewa Data Science Official Website](https://arewadatascience.github.io)
+- Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
+- [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
 
-## Offline access
 
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+## Welcome to Cohort 2.0 ArewaDS Fellowship
 
-## Source
+Welcome to the Arewa Data Science and Machine Learning Cohort 2.0 Fellowship!. Whether you're just starting or looking to deepen your existing skills, our fellowship offers a structured path to mastering the fundamentals and advanced concepts. We've organized the fellowship into three main parts:
 
-The curriculum for this course were adapted from Microsoft's ['ML-For-Beginners'](https://github.com/microsoft/ML-For-Beginners) and ['DS-For Beginners'](https://github.com/microsoft/Data-Science-For-Beginners) curricula. 
+- **[Stage 1: Getting Started](#stage-1-getting-started)** - You'll learn the basics, set up your tools, and prepare for what's ahead.
+- **[Stage 2: Data Science](#stage-2-data-science)** - This part covers data handling, from cleaning to analyzing.
+- **[Stage 3: Machine Learning](#stage-3-machine-learning)** - Here, you'll dive into machine learning techniques and tools like Scikit-learn.
+
+## Graduation Requirements
+
+To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows must meet the following criteria:
+
+- **Completion of Curriculum**: Fellows must complete all modules within the curriculum, including the Python challenge, Data Science, Machine Learning sections, "Learning How to Learn," and "Writing in Science" courses.
+
+- **Assignments and Medium BlogPost**: Submission of all required assignments and assigned blog post by the specified deadlines. Posts must meet the quality standards set by the mentors.
+
+- **Attendance**: Maintain at least a 90% attendance rate for all live sessions and mentor meetings.
+
+- **Capstone Project**: Complete a capstone project that demonstrates the ability to apply learned skills to a real-world problem. The project must be approved by the ArewaDS Team.
+
+## Fellowship Kickoff
+
+You can find the list of accepted fellows, the mentor-mentee list, the recording of the kickoff event and the slides used during the presentation below.
+
+| Component       | Resource |
+|-----------------|----------|
+| Accepted Fellows Page | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html) |
+| Mentors/Mentee Info   | [mentor/mentee page](#) |
+| Kickoff Recording | [Link to recording](https://www.youtube.com/watch?v=q6sQmF_nu6U) |
+| Kickoff Slides    | [Link to slides](#) |
+
+We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
+
+## Stage 1: Getting Started
+
+**Duration: 6 weeks**
+
+The first part of our fellowship focuses on building a strong foundation in the essential tools used in Data Science and Machine Learning.
+We'll guide you through:
+
+- **Learning Strategies**: Discover effective methods to enhance your learning and retention.
+- **Development Environment**: Set up your development environment with tools like VSCode.
+- **Version Control**: Learn to track and manage your code changes using Git and GitHub.
+- **Python Programming**: Master the basics of Python, the language of choice for data analysis.
+
+
+### Learning How to Learn
+
+Before we delve into the technicalities, we'll explore techniques and strategies to enhance your learning process, helping you absorb and retain information more effectively.
+
+Fellows are expected to complete the course "Learning How to Learn" from Coursera. Coursera offers financial aid. Below are the resources to get you started:
+
+| Resource Description                 | Link                                       |
+|--------------------------------------|--------------------------------------------|
+| Learning How to Learn Course         | [Go to course](https://www.coursera.org/learn/learning-how-to-learn)            |
+| How to Apply for Coursera Financial Aid | [Watch the video](https://www.youtube.com/watch?v=13rUEAq5Hgo) |
+
+
+### VSCode Setup, Git, and GitHub
+
+In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using Git for version control, GitHub for collaboration, and Markdown for documentation.
+
+| Title                         | Resource | Recording | Mentor |
+|-------------------------------|----------|-----------|--------|
+| VSCode Setup                  | [Link to resource](#) | [Link to recording](#) | TBD |
+| Using Jupyter in VSCode       | [Link to resource](#) | [Link to recording](#) | TBD |
+| Jupyter Notebooks             | [Link to resource](#) | [Link to recording](#) | TBD |
+| Python Virtual Environments      | [Link to resource](#) | [Link to recording](#) | TBD |
+| Basic Command Line Operations	    | [Link to resource](#) | [Link to recording](#) | TBD |
+| Introduction to Git           | [Link to resource](#) | [Link to recording](#) | TBD |
+| GitHub for Collaboration      | [Link to resource](#) | [Link to recording](#) | TBD |
+| Introduction to Markdown           | [Link to resource](#) | [Link to recording](#) | TBD |
+
+
+
+### 30 Days of Python Challenge
+
+Over the course of 30 days, you'll learn Python basics, advanced features, and everything in between. Fellows are expected to practice and submit assignments for each day via Github repository.
+
+Here's the challenge you'll be undertaking:
+
+| Day | Content | Link |
+|-----|---------|------|
+| 1-30 | 30 Days of Python Challenge | [Start the Course](https://github.com/arewadataScience/30-Days-of-Python) |
+
+
+
+## Stage 2: Data Science
+
+**Duration: 6 weeks**
+
+The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. In addition to the technical skills, fellows are expected to complete the ["Writing in the Sciences"](https://www.coursera.org/learn/sciwrite) course on Coursera to hone their ability to communicate scientific findings effectively.
+
+| Topic | Learning Objectives | Lesson Resources | Mentor |
+|-------|---------------------|------------------|--------|
+| Defining Data Science | Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data. | [Introduction to Data Science](#) | TBD |
+| Defining Data | Introduction to data classification and common data sources. | [Understanding Data Types](#) | TBD |
+| Data Preparation | Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](#) | TBD |
+| Visualizing Quantities | Learn to use Matplotlib to visualize data, such as bird populations. | [Visualizing with Matplotlib](#) | TBD |
+| Visualizing Distributions of Data | Visualize observations and trends within intervals. | [Data Distributions Visualization](#) | TBD |
+| Visualizing Proportions | Visualize discrete and grouped percentages. | [Proportions Visualization](#) | TBD |
+| Visualizing Relationships | Visualize connections and correlations between datasets and variables. | [Relationships Visualization](#) | TBD |
+| Meaningful Visualizations | Create valuable visualizations for effective problem-solving and insights. | [Creating Meaningful Visualizations](#) | TBD |
+| Communication | Present insights from data in an understandable way for decision-makers. | [Data Science Communication](#) | TBD |
+
+
+## Stage 3: Machine Learning 
+
+**Duration: 8 weeks**
+
+In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
+
+
+| Topic | Learning Objectives | Lesson Resources | Mentor |
+|-------|---------------------|------------------|--------|
+| Introduction to Machine Learning | Learn the basic concepts behind machine learning. | [Lesson](#) | TBD |
+| The History of Machine Learning | Learn the history underlying this field. | [Lesson](#) | TBD |
+| Techniques for Machine Learning | Discover the techniques ML researchers use to build ML models. | [Lesson](#) | TBD |
+| Introduction to Regression | Get started with regression models using Python and Scikit-learn. | [Lesson](#) | TBD |
+| North American Pumpkin Prices 🎃 | Visualize and clean data; build linear, polynomial, and logistic regression models. | [Lesson](#) | TBD |
+| Introduction to Classification | Introduction to data cleaning, preparation, and visualization for classification. | [Lesson](#) | TBD |
+| Delicious Asian and Indian Cuisines 🍜 | Learn about classifiers; build a recommender web app using your model. | [Lesson](#) | TBD |
+| Introduction to Clustering | Learn about clustering and data visualization. | [Lesson](#) | TBD |
+| Exploring Nigerian Musical Tastes 🎧 | Explore the K-Means clustering method with music data. | [Lesson](#) | TBD |
+| Introduction to Natural Language Processing ☕️ | Learn the basics of NLP by building a simple bot. | [Lesson](#) | TBD |
+| Common NLP Tasks ☕️ | Understand common tasks in NLP dealing with language structures. | [Lesson](#) | TBD |
+| Translation and Sentiment Analysis ♥️ | Perform translation and sentiment analysis with literary texts. | [Lesson](#) | TBD |
+| Romantic Hotels of Europe ♥️ | Conduct sentiment analysis with European hotel reviews. | [Lesson](#) | TBD |
+| Introduction to Time Series Forecasting | Learn the basics of time series forecasting. | [Lesson](#) | TBD |
+| Introduction to Reinforcement Learning | Get introduced to reinforcement learning with Q-Learning. | [Lesson](#) | TBD |
+
+
+## Career Services, Soft Skills and Mentorship
+
+After completion of our program, we offer career services to support you as you make the pivotal transition from fellowship to career, ensuring you're well-equipped to navigate the competitive job market and emerge as a standout candidate in the world of data science and machine learning.
+
+- **Career Advising**: One-on-one mentorship sessions to plan your career trajectory.
+- **Resume/CV and LinkedIn Reviews**: Tailored advice to polish your CV and professional profiles.
+- **Development of Portfolio Website**: Learn to create a personal website to feature your bio, CV, projects, and professional accomplishments.
+- **Capstone Project Showcase**: Strategies to highlight your project for employers and peers.
+- **Presentation Skills**: Training to present your ideas and findings clearly.
+- **Alumni Network**: Access to our alumni community for networking and support.
+- **Scholarship Guidance**: Assistance with applications for educational and research funding.
+- **Academic Paper Writing Support**: Resources and mentorship for collaborating, writing and publishing papers.
+- **Join HausaNLP Research Group**: Engage with NLP research and contribute to Hausa language technology projects.
+
+
+
+
+Arewa Data Science Fellowship
