@@ -107,16 +107,18 @@ Fellows are expected to complete the course "Learning How to Learn" from Courser
 
 In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using Git for version control, GitHub for collaboration, and Markdown for documentation.
 
-| Title                         | Resource | Recording | Mentor |
-|-------------------------------|----------|-----------|--------|
-| VSCode and Python Setup                  | [Link to resource](#) | [Link to recording](#) | TBD |
-| Jupyter Notebooks             | [Link to resource](#) | [Link to recording](#) | TBD |
-| Using Jupyter in VSCode       | [Link to resource](#) | [Link to recording](#) | TBD |
-| Python Virtual Environments      | [Link to resource](#) | [Link to recording](#) | TBD |
-| Basic Command Line Operations	    | [Link to resource](#) | [Link to recording](#) | TBD |
-| Introduction to Git           | [Link to resource](#) | [Link to recording](#) | TBD |
-| GitHub for Collaboration      | [Link to resource](#) | [Link to recording](#) | TBD |
-| Introduction to Markdown           | [Link to resource](#) | [Link to recording](#) | TBD |
+| Date       | Title                         | Resource | Recording | Mentor |
+|------------|-------------------------------|----------|-----------|--------|
+| 2023-11-11 | VSCode and Python Setup       | [Link to resource](#) | [Link to recording](#) | TBD |
+| 2023-11-11 | Using Jupyter in VSCode       | [Link to resource](#) | [Link to recording](#) | TBD |
+| 2023-11-12 | Python Virtual Environments   | [Link to resource](#) | [Link to recording](#) | TBD |
+|  | Basic Command Line Operations | [Link to resource](#) | [Link to recording](#) | TBD |
+| | Introduction to Git           | [Link to resource](#) | [Link to recording](#) | TBD |
+|  | GitHub for Collaboration      | [Link to resource](#) | [Link to recording](#) | TBD |
+|  | Introduction to Markdown      | [Link to resource](#) | [Link to recording](#) | TBD |
+
+
+
 
 
 
