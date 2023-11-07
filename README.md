@@ -110,8 +110,8 @@ In this section, we'll cover how to set up your development environment using Vi
 | Title                         | Resource | Recording | Mentor |
 |-------------------------------|----------|-----------|--------|
 | VSCode Setup                  | [Link to resource](#) | [Link to recording](#) | TBD |
-| Using Jupyter in VSCode       | [Link to resource](#) | [Link to recording](#) | TBD |
 | Jupyter Notebooks             | [Link to resource](#) | [Link to recording](#) | TBD |
+| Using Jupyter in VSCode       | [Link to resource](#) | [Link to recording](#) | TBD |
 | Python Virtual Environments      | [Link to resource](#) | [Link to recording](#) | TBD |
 | Basic Command Line Operations	    | [Link to resource](#) | [Link to recording](#) | TBD |
 | Introduction to Git           | [Link to resource](#) | [Link to recording](#) | TBD |
