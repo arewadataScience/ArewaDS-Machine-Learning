@@ -61,7 +61,7 @@ To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows
 
 - **Assignments and Medium BlogPost**: Submission of all required assignments and assigned blog post by the specified deadlines. Posts must meet the quality standards set by the mentors.
 
-- **Attendance**: Maintain at least a 90% attendance rate for all live sessions and mentor meetings.
+- **Attendance**: Maintain a 90% attendance rate for weekly office hours (Saturday and Sunday).
 
 - **Capstone Project**: Complete a capstone project that demonstrates the ability to apply learned skills to a real-world problem. The project must be approved by the ArewaDS Team.
 
