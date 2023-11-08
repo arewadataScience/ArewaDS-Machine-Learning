@@ -1,4 +1,22 @@
+# Ignore Jupyter workspace files
 .jupyter/desktop-workspaces/
-.ipynb_checkpoints
-.jupyter
 
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore global Jupyter configuration directory
+.jupyter/jupyter_nbconvert_config.py
+
+# ignore macbook generated files
+
+.DS_Store
+# Ignore Python file artifacts
+*.pyc
+*.pyo
+__pycache__
+# Ignore Jupyter workspace files
+.jupyter/desktop-workspaces/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+# Ignore global Jupyter configuration directory
+.jupyter/jupyter_nbconvert_config.py
