@@ -1,5 +1,5 @@
 <p align="center">
-<img src="arewadsimage.png">
+<img src="assets/arewadsimage.png">
 </p>
 
 ArewaDS website: https://arewadatascience.github.io
@@ -7,20 +7,21 @@ ArewaDS website: https://arewadatascience.github.io
 
 # Table of Contents
 
-- [Welcome to Arewa Data Science Fellowship](#Arewa-Data-Science-and-Machine-Learning-Curriculum)
-- [Key Features](#key-features)
-- [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
-- [Contact & Community](#contact--community)
-- [Welcome to Cohort 2.0 ArewaDS Fellowship](#welcome-to-cohort-20-arewads-fellowship)
-- [Graduation Requirements](#graduation-requirements)
-- [Fellowship Kickoff](#fellowship-kickoff)
-- [Stage 1: Getting Started](#stage-1-getting-started)
-  - [Learning How to Learn](#learning-how-to-learn)
-  - [VSCode Setup, Git, and GitHub](#vscode-setup-git-and-github)
-  - [30 Days of Python Challenge](#30-days-of-python-challenge)
-- [Stage 2: Data Science Curriculum](#stage-2-data-science-curriculum)
-- [Stage 3: Machine Learning Curriculum](#stage-3-machine-learning-curriculum)
-- [Career Services](#career-services)
+- [Table of Contents](#table-of-contents)
+- [Arewa Data Science and Machine Learning Curriculum!](#arewa-data-science-and-machine-learning-curriculum)
+    - [Key Features:](#key-features)
+    - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
+    - [Contact \& Community:](#contact--community)
+  - [Welcome to Cohort 2.0 ArewaDS Fellowship](#welcome-to-cohort-20-arewads-fellowship)
+  - [Graduation Requirements](#graduation-requirements)
+  - [Fellowship Kickoff](#fellowship-kickoff)
+  - [Stage 1: Getting Started](#stage-1-getting-started)
+    - [Learning How to Learn](#learning-how-to-learn)
+    - [VSCode Setup, Git, and GitHub](#vscode-setup-git-and-github)
+    - [30 Days of Python Challenge](#30-days-of-python-challenge)
+  - [Stage 2: Data Science](#stage-2-data-science)
+  - [Stage 3: Machine Learning](#stage-3-machine-learning)
+  - [Career Services, Soft Skills and Mentorship](#career-services-soft-skills-and-mentorship)
 
 
 #  Arewa Data Science and Machine Learning Curriculum!
