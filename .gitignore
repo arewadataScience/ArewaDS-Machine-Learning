@@ -5,11 +5,11 @@
 .ipynb_checkpoints
 
 # Ignore global Jupyter configuration directory
-.jupyter/jupyter_nbconvert_config.py
+/.jupyter/jupyter_nbconvert_config.py
 
 # ignore macbook generated files
 
-.DS_Store
+/.DS_Store
 # Ignore Python file artifacts
 *.pyc
 *.pyo
