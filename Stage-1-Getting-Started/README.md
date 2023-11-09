@@ -75,7 +75,22 @@ Click on the image to follow the link.
   </tr>
 </table>
 
-## 5. Weekly workflow
+## 5. VSCode Setup Guide
+
+Follow this guide to set up your Visual Studio Code (VSCode) environment for optimal performance and efficiency in your data science projects. Click on the image to access the detailed setup instructions.
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode-setup.md">
+            <img src="media/vscode-setup.png" alt="VSCode setup" height="300"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
+
+## 6. Weekly workflow
 
 The workflow that you will follow every week with every new learning unit. Click on the image to follow the link.
 
@@ -89,7 +104,7 @@ The workflow that you will follow every week with every new learning unit. Click
   </tr>
 </table>
 
-## 6. Troubleshooting 
+## 7. Troubleshooting 
 
 A few common problems and solutions. If you don't find what you're looking for, check out the #setup channel on Slack. Click on the image to follow the link.
 
