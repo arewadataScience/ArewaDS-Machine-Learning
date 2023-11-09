@@ -38,21 +38,6 @@ git config --global user.email "mig.dias.1212@gmail.com"
 git config --global user.username "buedaswag"
 ```
 
-
-`Git` is a distributed version-control system for tracking changes in source code. A `repository` is where code lives, and the code from the prep course will live at [`ds-prep-course-2023`](https://github.com/LDSSA/ds-prep-course-2023) repository (basically where you are right now, reading this). All the learning materials and exercises will be released (made available) on this repository. You will learn more about `git` in the learning units 3 and 6.
-
-### 2.1 Sign up for GitHub 
-
-**Step 1:** [Sign up](https://github.com/join) for a `GitHub` account and follow the instructions.
-
-**Step 2:** Open a terminal. Configure your email and username by running the 3 commands below. (**replace** `mig.dias.1212@gmail.com` below with the same email you used for github and `buedaswag` with your GitHub username).
-
-```bash
-git config --global user.email "mig.dias.1212@gmail.com"
-git config --global user.username "buedaswag"
-git config --global user.name "Bueda Swag"
-```
-
 ### 2.2 Setup your workspace repository
 
 The workspace directory/repository is where you will place everything you are working on, solve exercises, make changes to files, etc.
