@@ -125,7 +125,6 @@ To work with Python in Jupyter Notebooks, you must activate a conda environment 
 Next, select a kernel using the kernel picker in the top right.
 
 
-
 <table>
   <tr>
     <td>
