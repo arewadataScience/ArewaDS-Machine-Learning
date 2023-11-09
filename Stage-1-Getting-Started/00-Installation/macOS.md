@@ -45,10 +45,10 @@ brew update --verbose
 brew install git
 ```
 
-**Step 5:** Now run the following command to install `Python 3.8`:
+**Step 5:** Now run the following command to install `Python 3.9`:
 
 ```bash
-brew install python@3.8
+brew install python@3.9
 ```
 
 **Step 6:** then run the following command to set the default `python3` version to 3.9:
@@ -102,16 +102,16 @@ echo 'alias ibrew="arch -x86_64 /usr/local/bin/brew"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
-**Step 5:** Install `Python 3.8` with `ibrew`:
+**Step 5:** Install `Python 3.9` with `ibrew`:
 
 ```bash
-ibrew install python@3.8
+ibrew install python@3.9
 ```
 
-**Step 6:** Add `Python 3.8` to `$PATH`:
+**Step 6:** Add `Python 3.9` to `$PATH`:
 
 ```bash
-export PATH="/usr/local/opt/python@3.8/bin:$PATH" >> ~/.zshrc
+export PATH="/usr/local/opt/python@3.9/bin:$PATH" >> ~/.zshrc
 ```
 
 **Step 7** Re-activate the alterations done to the `.zshrc` file:
