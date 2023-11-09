@@ -11,7 +11,7 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
   <tr>
     <td>
         <a href="vscode.md">
-            <img src="media/vscode.png" alt="VSCode setup" height="300"/>
+            <img src="media/vscode.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
         </a>
     </td>
   </tr>
@@ -23,7 +23,7 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
   <tr>
     <td>
         <a href="vscode.md">
-            <img src="media/datasciencevscode.png" alt="VSCode setup" height="300"/>
+            <img src="media/datasciencevscode.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
         </a>
     </td>
   </tr>
