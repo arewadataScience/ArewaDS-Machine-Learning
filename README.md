@@ -107,7 +107,7 @@ Fellows are expected to complete the course "Learning How to Learn" from Courser
 
 ### Setup and Installation
 
-In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using Git for version control, GitHub for collaboration, and Markdown for documentation.
+In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using a python virtual environment, Git for version control, GitHub for collaboration, and Markdown for documentation.
 
 | Date       | Title                         | Resource | Recording | Mentor |
 |------------|-------------------------------|----------|-----------|--------|
