@@ -176,9 +176,15 @@ You can run multiple cells by selecting Run All, Run All Above, or Run All Below
   </tr>
 </table>
 
-### Save your Jupyter Notebook
+## Save your Jupyter Notebook
 
 You can save your Jupyter Notebook using the keyboard shortcut `Ctrl+S` or `File > Save`.
+
+## Export your Jupyter Notebook
+
+- You can export a Jupyter Notebook as a Python file (.py), a PDF, or an HTML file. To export, select the Export action on the main toolbar.
+- You'll then be presented with a dropdown of file format options.
+
 
 ## Starting a Data Science Project
 
