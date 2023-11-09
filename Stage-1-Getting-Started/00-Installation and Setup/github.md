@@ -1,5 +1,15 @@
 # 2. Setup _Git_ and _GitHub_
 
+
+## Objective
+
+The objective of this section is to familiarize you with the essential tools and workflows for version control and collaboration in software development. This setup is crucial for your journey in the fellowship, as it lays the foundation for efficient and collaborative work in data science projects. By the end of this session, you will have:
+
+- A GitHub account set up for hosting and sharing your code.
+- A private workspace repository for your personal work and exercises.
+- The Arewa Data Science Fellowship repository cloned, providing access to all learning materials.
+- Basic knowledge and setup of Git for version control, enabling you to track and manage changes in your projects effectively.
+
 `Git` is a distributed version-control system for tracking changes in source code. A `repository` is where code lives, and the code from the prep course will live at [`ds-prep-course-2023`](https://github.com/LDSSA/ds-prep-course-2023) repository (basically where you are right now, reading this). All the learning materials and exercises will be released (made available) on this repository. You will learn more about `git` in the learning units 3 and 6.
 
 ### 2.1 Sign up for GitHub 
