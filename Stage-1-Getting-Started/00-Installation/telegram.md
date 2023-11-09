@@ -1,7 +1,7 @@
 # Telegram Usage and How to Ask for Help
 
 ### New to Telegram?
-Telegram is a messaging app designed for fast and secure team communication. If you are new to Telegram, check out this short [intro](https://telegram.org/faq). You can find more tutorials [here](https://telegram.org/faq_channels).
+Telegram is a messaging app designed for fast and secure team communication. If you are new to Telegram, check out this short [intro](https://telegram.org/faq). You can find more tutorials [here](https://telegram.org/faq#q-what-makes-telegram-groups-cool).
 
 ### How to Use Telegram Nicely and Effectively
 Telegram is our official communication channel. We will announce the release of the weekly learning materials and answer all your questions there. To make it a pleasant and productive experience for everyone, please follow these rules:
