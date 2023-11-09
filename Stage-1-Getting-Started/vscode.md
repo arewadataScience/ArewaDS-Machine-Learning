@@ -35,6 +35,63 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
 
 - Download and install VSCode from [here](https://code.visualstudio.com/).
 
+## Extensions
+
+The VS Code Marketplace offers a family of extensions that provide a first-class data science experience for Python data science. In order to enhance your data science workflow in VSCode, there are several extensions that can significantly boost productivity and ease of use. Below are some highly recommended extensions:
+
+#### Python
+- **Extension Name**: Python
+- **Publisher**: Microsoft
+- **Description**: Offers rich support for the Python language (including Python 3.8), with features such as IntelliSense, linting, debugging, code navigation, code formatting, Jupyter notebook support, refactoring, variable explorer, test explorer, and more.
+- **Installation**: Search for `Python` in the Extensions view and install it.
+
+#### Jupyter
+- **Extension Name**: Jupyter
+- **Publisher**: Microsoft
+- **Description**: Enables you to work with Jupyter Notebooks directly within VSCode. Features include the ability to execute code cells, view, and modify notebooks, and much more.
+- **Installation**: Search for `Jupyter` in the Extensions view and install it.
+
+#### Pylance
+- **Extension Name**: Pylance
+- **Publisher**: Microsoft
+- **Description**: Pylance is an extension that works alongside Python extension to provide fast and feature-rich language support for Python. It offers type information, auto-imports, type-checking, and much more.
+- **Installation**: Search for `Pylance` in the Extensions view and install it.
+
+#### Visual Studio IntelliCode
+- **Extension Name**: Visual Studio IntelliCode
+- **Publisher**: Microsoft
+- **Description**: Provides AI-assisted IntelliSense by recommending commonly used completion items based on the current context in your code. This can be a big time-saver when coding in Python.
+- **Installation**: Search for `Visual Studio IntelliCode` in the Extensions view and install it.
+
+- **Installation**: Search for `Jupyter` in the Extensions view and install it.
+
+#### GitLens — Git supercharged
+- **Publisher**: Eric Amodio
+- **Description**: Enhances the built-in Git capabilities of VSCode. It helps you visualize code authorship, navigate repositories, and understand code changes better.
+- **Installation**: Search for `GitLens` in the Extensions view and install it.
+
+#### Excel Viewer
+- **Publisher**: GrapeCity
+- **Description**: Allows you to open CSV and Excel files (.xlsx/.xls) directly in VSCode. It supports large files, formatting, and even editing cell values.
+- **Installation**: Search for `Excel Viewer` in the Extensions view and install it.
+
+#### Rainbow CSV
+- **Publisher**: mechatroner
+- **Description**: Highlights CSV and TSV files in different colors, making it easier to read and understand these data formats. It also provides functionality to align columns, which is particularly useful for large datasets.
+- **Installation**: Search for `Rainbow CSV` in the Extensions view and install it.
+
+#### GitHub Repositories
+- **Publisher**: GitHub
+- **Description**: Browse, search, and edit code from any GitHub repository directly within VSCode. Ideal for collaborative projects and managing code on GitHub.
+- **Installation**: Search for `GitHub Repositories` in the Extensions view and install it.
+
+#### GitHub Copilot
+- **Publisher**: GitHub
+- **Description**: An AI-powered code assistant that helps you write code faster and with fewer errors. Copilot can suggest whole lines or blocks of code as you type, learning from the context in your current file and related files.
+- **Installation**: Search for `GitHub Copilot` in the Extensions view and install it.
+
+
+
 ### Step 2: Install Python Extension
 
 - Open VSCode.
