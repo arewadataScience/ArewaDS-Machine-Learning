@@ -100,6 +100,11 @@ The VS Code Marketplace offers a family of extensions that provide a first-class
 
 ## Working with Jupyter Notebooks in VSCode
 
+Jupyter (formerly IPython Notebook) is an open-source project that lets you easily combine Markdown text and executable Python source code on one canvas called a notebook. Visual Studio Code supports working with Jupyter Notebooks natively, and through Python code files. 
+
+To work with Python in Jupyter Notebooks, you must activate a conda environment in VS Code, or another Python environment in which you've installed the Jupyter package. To select an environment, use the Python: Select Interpreter command from the Command Palette (⇧⌘P). Once the appropriate environment is activated, you can create and open a Jupyter Notebook, and export a Jupyter Notebook as a Python file.
+
+
 ### Step 3: Open or Create a Jupyter Notebook
 
 - Open the Command Palette (`Ctrl+Shift+P`) and type `Jupyter: Create New Blank Jupyter Notebook`.
