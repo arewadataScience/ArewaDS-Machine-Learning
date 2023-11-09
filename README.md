@@ -105,7 +105,7 @@ Fellows are expected to complete the course "Learning How to Learn" from Courser
 | How to Apply for Coursera Financial Aid | [Watch the video](https://www.youtube.com/watch?v=13rUEAq5Hgo) |
 
 
-### VSCode Setup, Git, and GitHub
+### Setup and Installation
 
 In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using Git for version control, GitHub for collaboration, and Markdown for documentation.
 
