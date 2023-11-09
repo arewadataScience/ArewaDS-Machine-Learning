@@ -17,9 +17,17 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
   </tr>
 </table>
 
+- You  do all of your data science work within VS Code using Jupyter Notebook.
 
-## Why VSCode ?
-
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/datasciencevscode.png" alt="VSCode setup" height="300"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
 ## Setting Up VSCode
 

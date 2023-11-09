@@ -75,6 +75,8 @@ Click on the image to follow the link.
   </tr>
 </table>
 
+
+
 ## 5. VSCode Setup Guide
 
 Follow this guide to set up your Visual Studio Code (VSCode) environment for optimal performance and efficiency in your data science projects. Click on the image to access the detailed setup instructions.
