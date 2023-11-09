@@ -1,7 +1,7 @@
 # Arewa Data Science Cohort 2.0
 Welcome to the Arewa Data Science Cohort Course repository! 🧑‍💻
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **27.3 - 2.4. 2023**. If you are struggling with any of the steps, tell us in the #setup channel on Telegram! In this tutorial, you'll learn:
+Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week. If you are struggling with any of the steps, tell us in the #setup channel on Telegram! In this tutorial, you'll learn:
 
 - Telegram usage and etiquette specific to ArewaDS;
 - How to set up your software environment;
