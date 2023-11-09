@@ -1,9 +1,6 @@
 # 2. Setup _Git_ and _GitHub_
 
-
-## Objective
-
-The objective of this section is to familiarize you with the essential tools and workflows for version control and collaboration in software development. This setup is crucial for your journey in the fellowship, as it lays the foundation for efficient and collaborative work in data science projects. By the end of this session, you will have:
+This guide will walk you through the process of setting up Git and GitHub. These tools are essential for managing and tracking changes in your projects and code. Don't worry if you're new to these concepts; we'll guide you step by step. This setup is crucial for your journey in the fellowship, as it lays the foundation for efficient and collaborative work in data science projects. By the end of this session, you will have:
 
 - A GitHub account set up for hosting and sharing your code.
 - A private workspace repository for your personal work and exercises.
