@@ -3,8 +3,7 @@
 Welcome to the Windows 10/11 setup guide for the Arewa Data Science Fellowship. The primary goal of this tutorial is to equip you with the necessary tools and knowledge to prepare your Windows 10/11 environment for data science activities. By the end of this guide, you will have successfully installed and configured the [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install), [Git](https://git-scm.com/download/win), and [Python 3.8](https://www.python.org/downloads/release/python-380/), along with essential tools like [pip](https://pip.pypa.io/en/stable/installation/) and [venv](https://docs.python.org/3/library/venv.html). These installations are crucial for your data science journey, as they provide a robust and flexible development environment. This setup will enable you to run Linux command-line tools directly in Windows, facilitating a seamless integration of Linux-based data science tools and workflows.
 
 
-
-Your first step in this journey is to **carefully read** the steps in this tutorial. You'll learn how to set up your computer. This section deals with setting up `Windows Subsystem for Linux` (WSL) on Windows 10/11. `Windows Subsystem for Linux (WSL)` enables you to run Linux command line inside Windows.
+Your first step in this journey is to **carefully read** the steps in this tutorial. This section deals with setting up `Windows Subsystem for Linux` (WSL) on Windows 10/11. `Windows Subsystem for Linux (WSL)` enables you to run Linux command line inside Windows.
 
 **Step 1:** Follow **[this guide](guides/Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md)** to setup `WSL` on Windows 10/11.
 
