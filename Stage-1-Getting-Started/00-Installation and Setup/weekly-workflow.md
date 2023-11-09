@@ -1,6 +1,6 @@
 # Arewa Data Science Fellows: Weekly Activities and Expectations
 
-We outlined our structured weekly workflow, designed to provide a comprehensive learning experience combining theoretical understanding, practical application, and collaborative learning.
+We outlined our structured weekly workflow, designed to provide a comprehensive learning experience.
 
 ## Weekend Office Hours
 
