@@ -1,0 +1,4 @@
+ipython==8.4.0          # base
+jupyter-client==6.1.12  # base
+numpy==1.24.2           # used by some units
+matplotlib==3.6.3       # used by some units
