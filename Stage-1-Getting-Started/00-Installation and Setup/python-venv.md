@@ -14,9 +14,6 @@ Python virtual environments are like a "room" where you gather all the Python pa
 We will use the `conda` software package to create the virtual environment. The virtual environment will be just a folder on your computer where all the necessary software packages are installed. We will be using the same environment for the whole course and install all the packages at the beginning. 
 
 
-Conda is an open-source package management system and environment management system that runs on Windows, macOS, and Linux. It can install, run, and update packages and their dependencies. It can create, save, load, and switch between environments on your local computer. It was created for Python programs but can package and distribute software for any language (such as R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN). Below is a step-by-step guide on setting up and using a Conda environment:
-
-
 ## Conda Setup and Virtual Environment Management
 
 **Step 1:**  Download and Install Miniconda:
