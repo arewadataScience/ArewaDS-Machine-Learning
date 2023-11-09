@@ -39,7 +39,7 @@ You may be prompted to install the `Command Line Developers Tools`. Confirm and 
 brew update --verbose
 ```
 
-**Step 4:** Now run the following command to install `git`. `Git` is a version control software that facilitates collaboration of people working together on the same code and keeps track of the versions as the code changes. You will learn more about `git` in Week 02 of this course.
+**Step 4:** Now run the following command to install `git`. `Git` is a version control software that facilitates collaboration of people working together on the same code and keeps track of the versions as the code changes. You will learn more about `git` in this course.
 
 ```bash
 brew install git
@@ -57,7 +57,7 @@ brew install python@3.8
 brew link python@3.8
 ```
 
-And you're done! Go back to the main menu and continue with setting up Git and GitHub in step 3.
+And you're done! Go back continue with setting up Git and GitHub in step 3.
 
 ### MacOS M1 Setup
 
