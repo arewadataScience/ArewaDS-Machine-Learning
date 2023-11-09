@@ -7,14 +7,13 @@ Telegram is a messaging app designed for fast and secure team communication. If 
 Telegram is our official communication channel. We will announce the release of the weekly learning materials and answer all your questions there. To make it a pleasant and productive experience for everyone, please follow these rules:
 
 1. For your sanity, manage your notifications in `Settings` -> `Notifications and Sounds`.
-2. You can install the Telegram app on your phone for convenience.
-3. Use the specific group chat of the Week you're asking about for questions related to the learning material.
-4. Use the dedicated technical support group for technical questions.
+2. You can install the Telegram app on your phone or computer for convenience.
+3. Use the specific group chat of the Week (e.g., week 1, week 2, week 3, etc.) you're asking about for questions related to the learning material.
+4. Use the dedicated technical support group for technical questions (Channel call Ask Question).
 5. Check if your question was already asked before posting.
 6. Always reply to a specific message to keep the conversations organized.
 7. Use `Shift`+`Enter` for new lines in your message, as just pressing `Enter` will send the message.
-8. If you want to report bugs in the materials, you can open an issue on the ds-prep-course-2023 [repo](https://github.com/ArewaDS/ds-prep-course-2023/issues/).
-9. If you want to give feedback, post it in the dedicated feedback group.
-10. Anything not related to the learning materials should go to the general discussion group.
+8. If you want to report bugs in the materials, you can open an issue on the ArewaDS [repo](https://github.com/arewadataScience/ArewaDS-Machine-Learning/issues).
+9. If you want to give feedback, post it in the dedicated feedback channel.
+10. Anything not related to the learning materials should go to the general discussion channel.
 
-See more tips for asking for help on [this wiki page](https://arewads.github.io/wiki/DS%20Prep%20Course/Data-Science-Prep-Course/#how-to-ask-for-help).
