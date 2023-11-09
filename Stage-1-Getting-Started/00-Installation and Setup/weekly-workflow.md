@@ -1,60 +1,36 @@
 # Arewa Data Science Fellows: Weekly Activities and Expectations
 
-We outlined our structured weekly workflow, designed to provide a comprehensive learning experience combining theoretical understanding, practical application, and collaborative learning.
+Welcome to the Arewa Data Science Program! We have meticulously designed a weekly workflow to ensure you receive a holistic learning experience. This program balances theoretical understanding, practical application, and collaborative learning, catering to a diverse range of learning styles and preferences.
 
-## Weekend Interactive Sessions
+## Weekend Office Hours
 
-### **Saturday Interactive Learning (1.5 hours)**
-- **Time**: _[Specify time]_
-- **Activities**:
-   - First hour: Introduction to new Python concepts or libraries.
-   - Last 30 minutes: Interactive Q&A and problem-solving session.
-- **Purpose**: Engage with new material and clarify doubts immediately.
-
-### **Sunday Project Work Session (1 hour)**
-- **Time**: _[Specify time]_
-- **Activities**: Hands-on project work or assignments.
-- **Guidance**: Available from mentors or experienced peers.
-- **Purpose**: Reinforce concepts learned on Saturday through practical application.
-
-## Midweek Office Hour
-
-### **Python Office Hour (1 hour on Wednesday)**
-- **Time**: _[Specify time]_
-- **Format**: Open discussion and troubleshooting session.
-- **Purpose**: Provide support and address challenges with assignments or personal projects.
+- **Schedule**: Join us every Saturday and Sunday at 10:00 AM.
+- **Duration**: Each session lasts 1 hour and 30 minutes.
+- **Activities Include**:
+  - **Interactive Learning**: Introduction to new data science concepts in an engaging manner.
+  - **Specialized Seminars**: Deep dives into key topics for advanced understanding.
+  - **Mentorship Opportunity**: Direct access to mentors for doubt resolution and guidance.
+- **Objective**: Our goal is to deepen your understanding of data science and provide personalized support to tackle weekly challenges.
 
 ## Blogging and Knowledge Sharing
 
-### **Biweekly Blog Post**
+### Biweekly Blog Post
 - **Frequency**: Once every two weeks.
-- **Scope**: Reflect and share insights about what you’ve learned.
-- **Peer Review**: Each blog post undergoes a peer-review process before publishing.
+- **Content**: Share your learning experiences, insights, and reflections.
+- **Collaborative Review**: Each blog post will be peer-reviewed to enhance content quality and foster collaborative learning.
 
 ## 30-Days of Python Challenge
 
-- **Structure**: Weekly assignments correlating with topics covered in Saturday sessions.
-- **Showcase Sundays**: End of the month presentation of projects or interesting code.
-- **Purpose**: Provide a focused and progressive learning journey.
+- **Format**: Engage in daily practice sessions and assignments.
+- **Goal**: To create a consistent and focused approach to mastering Python, tailored to support your progressive learning curve.
 
-## Additional Learning Supports
+### Monthly Feedback Sessions
+- **Aim**: An open forum to discuss your experiences, challenges, and provide feedback for program enhancement.
 
-### **Learning Buddy System**
-- **Format**: Pair up with a fellow participant for mutual support and collaboration.
+## Your Commitment
 
-### **Resource Library**
-- **Access**: Digital library of tutorials, documentation, and reference materials.
+Your active participation and dedication are the keys to making the most out of this program. Regular engagement in sessions, timely completion of assignments, and sharing your insights through blog posts will not only amplify your learning but also enrich the collective experience of all fellows. We encourage you to embrace this journey, leveraging the diverse opportunities to learn, grow, and contribute.
 
-### **Monthly Feedback Sessions**
-- **Objective**: Discuss program experiences and provide suggestions for improvement.
+We are thrilled to have you with us and look forward to a journey filled with learning, discovery, and mutual growth.
 
-## Your Role
-
-As a fellow, your active participation and commitment to these activities are crucial. Engaging in sessions, completing assignments, and sharing your journey through blog posts will enhance not only your own understanding but also the collective learning experience. Remember, this journey is as much about learning from each other as it is about individual growth.
-
-We are excited to embark on this journey with you and are confident that these structured activities will provide a comprehensive and engaging learning experience.
-
-Best Regards,
-
-**Arewa Data Science Program Team**
 
