@@ -108,7 +108,7 @@ To work with Python in Jupyter Notebooks, you must activate a conda environment 
 ### Step 3: Open or Create a Jupyter Notebook
 
 - Open the Command Palette (`Ctrl+Shift+P`) and type `Jupyter: Create New Blank Jupyter Notebook`.
-- Alternatively, you can open an existing `.ipynb` file.
+- Alternatively, you can open an existing `.ipynb` file by right-clicking on the file and opening with VS Code, or through the VS Code File Explorer.
 - If you don't have Jupyter installed, you will be prompted to install it. Follow the instructions provided.
 
 
