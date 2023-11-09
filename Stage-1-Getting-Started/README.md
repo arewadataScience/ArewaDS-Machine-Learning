@@ -83,7 +83,7 @@ Follow this guide to set up your Visual Studio Code (VSCode) environment for opt
   <tr>
     <td>
         <a href="vscode-setup.md">
-            <img src="media/vscode.png" alt="VSCode setup" height="300"/>
+            <img src="media/vs-code.jpg" alt="VSCode setup" height="300"/>
         </a>
     </td>
   </tr>
