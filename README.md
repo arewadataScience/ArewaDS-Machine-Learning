@@ -118,7 +118,7 @@ We have provided detailed instructions, but you might not understand all the det
 | 2023-11-11 | Setup Git and GitHub       | [Git/GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/github.md) | [recording](#) | Shamsudden Muhammad |
 | 2023-11-12 | Python Virtual Environments   | [Virtual Enviroment](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/python-venv.md) | [recording](#) | Shamsudden Muhammad |
 |2023-11-12 |   VSCode for DataScience      | [VScode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md) | [recording](#) | Idris/Shamsuddeen |
-|2023-11-12  | GitHub for Collaboration      | [Link to resource](#) | [recording](#) | Idris/Shamsuddeen|
+|2023-11-12  | GitHub for Collaboration      | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md) | [recording](#) | Idris/Shamsuddeen|
 |2023-11-18  | Introduction to Markdown      | [Link to resource](#) | [recording](#) | Idris/Shamsuddeen|
 
 
