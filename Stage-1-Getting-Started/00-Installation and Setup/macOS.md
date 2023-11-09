@@ -1,8 +1,8 @@
 # Set-up instructions for MacOS
 
-Welcome to the **MacOS set up** repository!
+# Objective
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. You'll learn how to set up your computer - follow the link to your MacOS type :arrow_right:
+Welcome to the MacOS setup guide for the Arewa Data Science Fellowship. The objective of this tutorial is to guide you through the essential steps to configure your MacOS environment for data science work. By the end of this tutorial, you will have successfully installed and set up key tools including Homebrew, Git, and Python. These tools are fundamental for your journey in data science and will be used extensively throughout the fellowship. You'll learn how to set up your computer - follow the link to your MacOS type :arrow_right:
 
 - [MacOS Intel Setup](#MacOS-Intel-Setup)
 - [MacOS M1 Setup](#MacOS-M1-Setup)
