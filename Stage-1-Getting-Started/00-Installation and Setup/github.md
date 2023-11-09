@@ -38,6 +38,29 @@ git config --global user.email "mig.dias.1212@gmail.com"
 git config --global user.username "buedaswag"
 ```
 
+## 3. Setup Your Workspace Repository
+
+The workspace directory/repository is where you will place everything you are working on, solve exercises, make changes to files, etc.
+
+### Step 1: Log Into GitHub
+
+- Go to [GitHub](https://github.com) and log in with your credentials.
+
+### Step 2: Create a New Repository
+
+<img src='media/menu_create_repository.png' alt='Finder' width="75%" />
+
+1. Click the "+" button in the upper-right corner of GitHub and select `New repository`.
+2. Create a repository named `arewa-data-science-workspace`.
+   - Choose `Private` - this is your private work environment where nobody else will have access but you.
+   - Initialize it with a `README`.
+   - Select a Python `.gitignore` file. This file does exactly what it sounds like - it tells `git` which files to ignore when transfering files between your computer and `GitHub`.
+
+
+<img src="https://user-images.githubusercontent.com/19359518/112880653-9ef76280-90c2-11eb-8768-00b2153756d5.png" alt='Finder' width="75%">
+
+You can also check [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository) on GitHub for help.
+ 
 ### 2.2 Setup your workspace repository
 
 The workspace directory/repository is where you will place everything you are working on, solve exercises, make changes to files, etc.
@@ -60,7 +83,7 @@ The workspace directory/repository is where you will place everything you are wo
 
 You can also check [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository) on GitHub for help.
 
-### 2.3 Clone your workspace repository
+### Step 3: Clone Your Repository
 
 Your workspace repository now exists on `GitHub`, but you also need a local copy (clone) on your computer. You will be working in the local repository and then transfer your work to your remote workspace repository on `GitHub`.
 
