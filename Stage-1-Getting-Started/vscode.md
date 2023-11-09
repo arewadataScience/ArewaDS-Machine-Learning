@@ -150,8 +150,32 @@ After selecting a kernel, the language picker located in the bottom right of eac
 
 ### Step 5: Run Notebook Cells
 
-- Write your Python code in a cell.
-- Use `Shift+Enter` to run the cell and see the output below the cell.
+- Once you have a notebook, you can write your Python code in a cell.
+- Use `Shift+Enter` to run the cell and see the output below the cell 
+- Alternatively, you can run a code cell using the Run icon to the left of the cell and the output will appear directly below the code cell.
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/runjupyter.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
+You can run multiple cells by selecting Run All, Run All Above, or Run All Below.
+
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/runjupyterall.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
 ## Starting a Data Science Project
 
