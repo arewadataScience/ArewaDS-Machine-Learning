@@ -186,6 +186,17 @@ You can save your Jupyter Notebook using the keyboard shortcut `Ctrl+S` or `File
 - You'll then be presented with a dropdown of file format options.
 
 
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/exportjupyter.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
 ## Starting a Data Science Project
 
 ### Step 6: Create a Project Folder
