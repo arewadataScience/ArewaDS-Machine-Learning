@@ -31,6 +31,4 @@ We outlined our structured weekly workflow, designed to provide a comprehensive 
 
 Your active participation and dedication are the keys to making the most out of this program. Regular engagement in sessions, timely completion of assignments, and sharing your insights through blog posts will not only amplify your learning but also enrich the collective experience of all fellows. We encourage you to embrace this journey, leveraging the diverse opportunities to learn, grow, and contribute.
 
-We are thrilled to have you with us and look forward to a journey filled with learning, discovery, and mutual growth.
-
 
