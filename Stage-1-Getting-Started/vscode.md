@@ -2,12 +2,33 @@
 
 Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data science. This guide will walk you through setting up VSCode, using Jupyter notebooks, and getting started with a data science project.
 
+## What is VScode ?
+
+- VSCode (Visual Studio Code) is a lightweight but powerful source code editor developed by Microsoft for Windows, Linux and macOS.
+- VSCode is a free and very popular code editor among developers. It is a very powerful tool for writing code in various programming languages.
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/vscode.png" alt="VSCode setup" height="300"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
+
+## Why VSCode ?
+
+
 ## Setting Up VSCode
 
 ### Step 1: Install Visual Studio Code
+
 - Download and install VSCode from [here](https://code.visualstudio.com/).
 
 ### Step 2: Install Python Extension
+
 - Open VSCode.
 - Navigate to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 - Search for `Python` and install the extension by Microsoft.
@@ -15,22 +36,27 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
 ## Working with Jupyter Notebooks in VSCode
 
 ### Step 3: Open or Create a Jupyter Notebook
+
 - Open the Command Palette (`Ctrl+Shift+P`) and type `Jupyter: Create New Blank Jupyter Notebook`.
 - Alternatively, you can open an existing `.ipynb` file.
 
 ### Step 4: Install Jupyter
+
 - If you don't have Jupyter installed, you will be prompted to install it. Follow the instructions provided.
 
 ### Step 5: Run Notebook Cells
+
 - Write your Python code in a cell.
 - Use `Shift+Enter` to run the cell and see the output below the cell.
 
 ## Starting a Data Science Project
 
 ### Step 6: Create a Project Folder
+
 - Choose a location on your computer and create a new folder for your project.
 
 ### Step 7: Open the Folder in VSCode
+
 - In VSCode, go to `File > Open Folder` and select your project folder.
 
 ### Step 8: Explore Data
