@@ -22,6 +22,7 @@ First and foremost, we'll talk about how to use our communication tool, Telegram
     </td>
   </tr>
 </table>
+
 ## 2. Initial Setup
 
 Please choose your operating system:
