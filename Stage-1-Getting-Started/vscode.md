@@ -91,12 +91,12 @@ The VS Code Marketplace offers a family of extensions that provide a first-class
 - **Installation**: Search for `GitHub Copilot` in the Extensions view and install it.
 
 
-
-### Step 2: Install Python Extension
+### Step 2: Install Python and other  Extension
 
 - Open VSCode.
 - Navigate to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 - Search for `Python` and install the extension by Microsoft.
+- Search for  `Jupyter`, `Pylance`, `IntelliCode Repositories`, `GitHub Copilot`, etc and install the extensions.
 
 ## Working with Jupyter Notebooks in VSCode
 
