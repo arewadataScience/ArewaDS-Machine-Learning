@@ -51,10 +51,10 @@ brew install git
 brew install python@3.8
 ```
 
-**Step 6:** then run the following command to set the default `python3` version to 3.8:
+**Step 6:** then run the following command to set the default `python3` version to 3.9:
 
 ```bash
-brew link python@3.8
+brew link python@3.9
 ```
 
 And you're done! Go back continue with setting up Git and GitHub in step 3.
