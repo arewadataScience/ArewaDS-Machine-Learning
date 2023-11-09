@@ -13,7 +13,7 @@ Python virtual environments are like a "room" where you gather all the Python pa
 
 We will use the `conda` software package to create the virtual environment. The virtual environment will be just a folder on your computer where all the necessary software packages are installed. We will be using the same environment for the whole course and install all the packages at the beginning. 
 
-We can also use pip to install the package if it is not available in the conda. See [here on pip vs conda](https://stackoverflow.com/questions/54834579/specific-reasons-to-favor-pip-vs-conda-when-installing-python-packages). 
+We can also use pip to install the package if it is not available in the conda. See here on [pip vs conda](https://stackoverflow.com/questions/54834579/specific-reasons-to-favor-pip-vs-conda-when-installing-python-packages). 
 
 
 ## Conda Setup and Virtual Environment Management
