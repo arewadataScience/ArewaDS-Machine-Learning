@@ -109,10 +109,44 @@ To work with Python in Jupyter Notebooks, you must activate a conda environment 
 
 - Open the Command Palette (`Ctrl+Shift+P`) and type `Jupyter: Create New Blank Jupyter Notebook`.
 - Alternatively, you can open an existing `.ipynb` file.
-
-### Step 4: Install Jupyter
-
 - If you don't have Jupyter installed, you will be prompted to install it. Follow the instructions provided.
+
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/jupyter1.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
+Next, select a kernel using the kernel picker in the top right.
+
+
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/jupyter2.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
+After selecting a kernel, the language picker located in the bottom right of each code cell will automatically update to the language supported by the kernel.
+
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/jupyter3.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
 ### Step 5: Run Notebook Cells
 
