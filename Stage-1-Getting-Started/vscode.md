@@ -17,7 +17,7 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
   </tr>
 </table>
 
-- You  do all of your data science work within VS Code using Jupyter Notebook.
+- You can do all of your data science work within VS Code using Jupyter Notebook.
 
 <table>
   <tr>
