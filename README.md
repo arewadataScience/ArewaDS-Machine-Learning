@@ -74,8 +74,8 @@ You can find the list of accepted fellows, the mentor-mentee list, the recording
 |-----------------|----------|
 | Accepted Fellows Page | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html) |
 | Mentors/Mentee Info   | [mentor/mentee page](#) |
-| Kickoff Recording | [How to use Arewa Data Science Telegram Group](https://www.youtube.com/watch?v=q6sQmF_nu6U) |
 | Telegram Ethiqueet | [Link to recording](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md![image](https://github.com/arewadataScience/ArewaDS-Machine-Learning/assets/38854463/942da5e1-df5e-49ca-8e41-47cfc4eb8595)) |
+| Kickoff Recording Ethiqueet |  [How to use Arewa Data Science Telegram Group](https://www.youtube.com/watch?v=q6sQmF_nu6U)  |
 | Kickoff Slides    | [Link to slides](#) |
 
 We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
