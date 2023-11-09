@@ -1,20 +1,20 @@
-# Slack usage and how to ask for help
+# Telegram Usage and How to Ask for Help
 
-### New to Slack?
-Slack is a messaging app for team communication. If you are new to Slack, check out this short [intro](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). You can find more tutorials [here](https://slack.com/help/categories/360000049063).
+### New to Telegram?
+Telegram is a messaging app designed for fast and secure team communication. If you are new to Telegram, check out this short [intro](https://telegram.org/faq). You can find more tutorials [here](https://telegram.org/faq_channels).
 
-### How to use Slack nicely and effectively
-Slack is our official communication channel. We will announce the release of the weekly learning materials and answer all your questions there. To make it a pleasant and productive experience for everyone, please follow these rules:
+### How to Use Telegram Nicely and Effectively
+Telegram is our official communication channel. We will announce the release of the weekly learning materials and answer all your questions there. To make it a pleasant and productive experience for everyone, please follow these rules:
 
-1. For your sanity, set how and when you want to be notified in `Preferences` -> `Notifications`.
-1. You can install the Slack app on your phone.
-1. Use the channel of the Week you're asking about for questions about the learning material.
-1. Use the #setup channel for technical questions.
-1. Check if your question was already asked before posting.
-1. Always answer in a thread, it helps keep the conversations organized.
-1. Use `Shift`+`Enter` for newlines, just `Enter` will send the message.
-1. If you want to report bugs in the materials, you can open an issue on the ds-prep-course-2023 [repo](https://github.com/LDSSA/ds-prep-course-2023/issues/).
-1. If you want to give feedback post it in the #feedback channel.
-1. Anything not related with the learning materials should go to the #random channel.
+1. For your sanity, manage your notifications in `Settings` -> `Notifications and Sounds`.
+2. You can install the Telegram app on your phone for convenience.
+3. Use the specific group chat of the Week you're asking about for questions related to the learning material.
+4. Use the dedicated technical support group for technical questions.
+5. Check if your question was already asked before posting.
+6. Always reply to a specific message to keep the conversations organized.
+7. Use `Shift`+`Enter` for new lines in your message, as just pressing `Enter` will send the message.
+8. If you want to report bugs in the materials, you can open an issue on the ds-prep-course-2023 [repo](https://github.com/ArewaDS/ds-prep-course-2023/issues/).
+9. If you want to give feedback, post it in the dedicated feedback group.
+10. Anything not related to the learning materials should go to the general discussion group.
 
-See more tips for asking for help on [this wiki page](https://ldssa.github.io/wiki/DS%20Prep%20Course/Data-Science-Prep-Course/#how-to-ask-for-help).
+See more tips for asking for help on [this wiki page](https://arewads.github.io/wiki/DS%20Prep%20Course/Data-Science-Prep-Course/#how-to-ask-for-help).
