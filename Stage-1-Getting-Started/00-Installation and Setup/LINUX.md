@@ -1,11 +1,15 @@
 # Set-up instructions for Linux
 
-Welcome to **Linux/Ubuntu set up** repository!
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. You'll learn how to set up your environment.
+## Objective
+
+Welcome to the Linux/Ubuntu setup guide for the Arewa Data Science Fellowship. This tutorial aims to equip you with the necessary tools and configurations for a productive data science environment on Linux/Ubuntu. By the end of this guide, you will have:
+
+- Installed and configured [Python 3.8](https://www.python.org/downloads/release/python-380/), an essential programming language for data science.
+- Set up [pip](https://pip.pypa.io/en/stable/installation/), the Python package manager, for managing software packages.
+- Configured [venv](https://docs.python.org/3/library/venv.html), a tool for creating isolated Python environments, crucial for project-specific dependencies.
 
 So you're using Ubuntu, huh? Well, kudos to you. You just need to install a couple of packages.
-
 
 **Step 1:** Open a terminal and check what version of Python you have by using the command below. If your version is `Python 3.8.x` (`x` = any number), you can skip to step 2, otherwise continue with steps 1.1 and 1.2
 
