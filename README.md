@@ -109,9 +109,11 @@ Fellows are expected to complete the course "Learning How to Learn" from Courser
 
 In this section, we'll cover how to set up your development environment using Visual Studio Code (VSCode), including how to use Jupyter notebooks within it. We'll also dive into using a python virtual environment, Git for version control, GitHub for collaboration, and Markdown for documentation.
 
+We have provided detailed instructions, but you might not understand all the details of the setup for now. It will become clearer as you proceed with the course. So don't despair, put on your patience hat, and ask for help when needed. There's light at the other end of the tunnel. :star2:
+
 | Date       | Title                         | Resource | Recording | Mentor |
 |------------|-------------------------------|----------|-----------|--------|
-| 2023-11-11 | VSCode and Python Setup       | [Link to resource](#) | [Link to recording](#) | Shamsudden Muhammad |
+| 2023-11-11 | Initial Setup         | [MacOS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/macOS.md), [Windows](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/WINDOWS.md), [Linux](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/LINUX.md#set-up-instructions-for-linux) | [Link to recording](#) | Shamsudden Muhammad |
 | 2023-11-11 | Using Jupyter in VSCode       | [Link to resource](#) | [Link to recording](#) | Shamsudden Muhammad |
 | 2023-11-12 | Python Virtual Environments   | [Link to resource](#) | [Link to recording](#) | Shamsudden Muhammad |
 |2023-11-12 | Introduction to Git           | [Link to resource](#) | [Link to recording](#) | Idris/Shamsuddeen |
