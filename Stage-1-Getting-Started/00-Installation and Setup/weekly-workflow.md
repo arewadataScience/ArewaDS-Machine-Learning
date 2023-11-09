@@ -1,6 +1,7 @@
 # Arewa Data Science Fellows: Weekly Activities and Expectations
 
-Welcome to the Arewa Data Science Program! We have meticulously designed a weekly workflow to ensure you receive a holistic learning experience. This program balances theoretical understanding, practical application, and collaborative learning, catering to a diverse range of learning styles and preferences.
+We outlined our structured weekly workflow, designed to provide a comprehensive learning experience combining theoretical understanding, practical application, and collaborative learning.
+![image](https://github.com/arewadataScience/ArewaDS-Machine-Learning/assets/38854463/16ca6ed1-2e71-49cf-9b11-32d5c40a1ff6)
 
 ## Weekend Office Hours
 
