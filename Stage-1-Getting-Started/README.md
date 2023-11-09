@@ -105,17 +105,3 @@ The workflow that you will follow every week with every new learning unit. Click
     </td>
   </tr>
 </table>
-
-## 7. Troubleshooting 
-
-A few common problems and solutions. If you don't find what you're looking for, check out the #setup channel on Slack. Click on the image to follow the link.
-
-<table>
-  <tr>
-    <td>
-        <a href="troubleshooting.md">
-            <img src="media/troubleshooting.png" alt="troubleshooting" />
-        </a>
-    </td>
-  </tr>
-</table>
