@@ -113,7 +113,7 @@ We have provided detailed instructions, but you might not understand all the det
 
 | Date       | Title                         | Resource | Recording | Mentor |
 |------------|-------------------------------|----------|-----------|--------|
-| 2023-11-11 | Initial Setup         | [MacOS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/macOS.md), [Windows](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/WINDOWS.md), [Linux](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/LINUX.md#set-up-instructions-for-linux) | [Link to recording](#) | Shamsudden Muhammad |
+| 2023-11-11 | Initial Setup         | [MacOS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/macOS.md), [Windows](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/WINDOWS.md), [Linux](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/LINUX.md#set-up-instructions-for-linux) | [recording](#) | Shamsudden Muhammad |
 | 2023-11-11 | Using Jupyter in VSCode       | [Link to resource](#) | [Link to recording](#) | Shamsudden Muhammad |
 | 2023-11-12 | Python Virtual Environments   | [Link to resource](#) | [Link to recording](#) | Shamsudden Muhammad |
 |2023-11-12 | Introduction to Git           | [Link to resource](#) | [Link to recording](#) | Idris/Shamsuddeen |
