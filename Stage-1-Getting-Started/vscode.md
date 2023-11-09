@@ -177,6 +177,10 @@ You can run multiple cells by selecting Run All, Run All Above, or Run All Below
   </tr>
 </table>
 
+### Save your Jupyter Notebook
+
+You can save your Jupyter Notebook using the keyboard shortcut `Ctrl+S` or `File > Save`.
+
 ## Starting a Data Science Project
 
 ### Step 6: Create a Project Folder
