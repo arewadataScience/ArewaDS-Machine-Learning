@@ -7,6 +7,38 @@ This guide will walk you through the process of setting up Git and GitHub. These
 - The Arewa Data Science Fellowship repository cloned, providing access to all learning materials.
 - Basic knowledge and setup of Git for version control, enabling you to track and manage changes in your projects effectively.
 
+
+## 1. Understanding Git and GitHub
+
+- **Git**: `Git` is a distributed version-control system for tracking changes in source code. 
+- **GitHub**: An online platform that uses Git. It allows you to store your repositories online and collaborate with others. A `repository` is where code lives, and the code from the prep course will live at [`arewa-ds-fewllowship`](https://github.com/arewadataScience/ArewaDS-Machine-Learning) repository (basically where you are right now, reading this). All the learning materials and exercises will be released (made available) on this repository. You will learn more about `git` in the coming weeks.
+
+## 2. Sign Up for GitHub
+
+### Step 1: Create a GitHub Account
+
+1. Go to [GitHub's signup page](https://github.com/join).
+2. Follow the instructions to create your account.
+
+### Step 2: Configure Git
+
+After signing up for GitHub, you'll need to configure Git on your computer:
+
+1. Open your terminal (Command Prompt or PowerShell on Windows, Terminal on macOS and Linux).
+2. Run the following commands to configure Git (replace the email and username with your own):
+
+    ```bash
+    git config --global user.email "your_email@example.com"
+    git config --global user.name "YourUsername"
+    ```
+For example: **replace** `mig.dias.1212@gmail.com` below with the same email you used for github and `buedaswag` with your GitHub username
+
+```bash
+git config --global user.email "mig.dias.1212@gmail.com"
+git config --global user.username "buedaswag"
+```
+
+
 `Git` is a distributed version-control system for tracking changes in source code. A `repository` is where code lives, and the code from the prep course will live at [`ds-prep-course-2023`](https://github.com/LDSSA/ds-prep-course-2023) repository (basically where you are right now, reading this). All the learning materials and exercises will be released (made available) on this repository. You will learn more about `git` in the learning units 3 and 6.
 
 ### 2.1 Sign up for GitHub 
