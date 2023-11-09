@@ -47,7 +47,7 @@ After activation, your command prompt should reflect the active environment:
 You'll see (datascience) in your command prompt, indicating that the environment is active as shown below
 
 ```bash
-(prep-datascience) your_username@your_machine %
+(datascience) your_username@your_machine %
 
 ```
 For example:
