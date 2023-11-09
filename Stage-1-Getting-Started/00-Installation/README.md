@@ -16,13 +16,12 @@ First and foremost, we'll talk about how to use our communication tool, Telegram
 <table>
   <tr>
     <td>
-         <a href="slack.md">
-            <img src="media/slack.png" alt="Slack" />
+         <a href="telegram.md">
+            <img src="media/telegram.jpeg" alt="Slack" />
         </a>
     </td>
   </tr>
 </table>
-
 ## 2. Initial Setup
 
 Please choose your operating system:
