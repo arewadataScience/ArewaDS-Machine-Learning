@@ -64,12 +64,34 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Sani Bala Usman | Kaduna |
 |  | Fatima Tukur | kaduna |
 |  | Ibrahim Manasseh | Kaduna |
-| ...              |                                |                 |                            |
-| Group_Intl     | WEDDY NKATHA MURITHI           | Kenya           | Bala Mairiga Abduljalil    |
-| Group_Intl     | Haleemah Hamzah                | Kwara           | Muhammad Ibrahim Isah      |
-| ...              |                                |                 |                            |
-| Group_    | Nyoru Sam                      | Nakuru, Kenya   | Alamin Musa Magaga         |
-| Group_Intl_10    | Usman Muhammad                 | Nasarawa State  | Lukman Aliyu Jibril        |
+| Ahmadu Bello            |   Muhammad Khalid                  |    Katsina             |  Muhammad Ibrahim Isah    |
+|  | Ibrahim Abbas | Katsina         | Lawal Aminu Saleh    |
+|  | Safiyanu Ibrahim                | Katsina           | 
+|  | Salmanu Muntari | Katsina |
+|  | Ali Saleh | Katsina |
+|  | Hauwa'u Zakariya'u Ibrahim | Katsina |
+|  | Abdulkadir Abubakar Abubakar | Kebbi |
+|  | Abubakar Ruwa | Kebbi | 
+|  | Zarau Bello Baidu | Kebbi |
+| Jaja Wachuku        | Abubakar G. Saleh                                | Bauchi                 | Abdulrahman Yusuf                            |
+|  | Usman Muhammad Shehu | Bauchi | Hassan Muhammad Adam |
+|  | Abdullahi Mujaheed Saleh | Bauchi | 
+|  | Fa'iz Ibrahim Jibia | Bauchi |
+|  | Wenoumi Rejuste | Benin |
+|  | Abubakar Abubakar Al-Amin | Gombe |
+|  | Aliyu Abubakar Lamido | Gombe | 
+|  | Sani Aji | Gombe | 
+|  | Abdulkadir Kawan Mustapha | Gombe | 
+|  | Umar Faruk Ibrahim | Gombe |
+| Anthony Enahoro   | Weddy Nkatha Murithi                 | Kenya  | Bala Mairiga Abdujalil        |
+|  | Haleemah Hamzah | Kwara | Muhammad Ibrahim Saleh |
+|  | Kasali Yusuf Oloriege | Kwara |
+|  | Amori Umar Faruq | Kwara |
+|  | Oladimeji williams | Lagos |
+|  | Precious | Lagos | 
+|  | Obianuju Lilian Onuoha | Lagos |
+|  | Abdulrasheed Ayinde Abdulraheem | Lagos |
+|  | Olayinka Babalola | Lagos |
 | ...              |                                |                 |                            |
 | Group_Taraba_11  | Sangari Habiba Muhammad        | Taraba          | Lukman Aliyu Jibril        |
 | Group_Yobe_11    | muazu muhammad Shuaibu         | yobe            | Auwal Abubakar Khalid      |
