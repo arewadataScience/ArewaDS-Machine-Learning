@@ -2,7 +2,7 @@
 
 The following table lists the pairings of mentors and fellows for each group in the Arewa Data Science program, categorized by state or combined states.
 
-| Group            | Name                           | State           | Mentors                    |
+| Team          | Name                           | State           | Mentors                    |
 |------------------|--------------------------------|-----------------|----------------------------|
 | Aminu Kano     | Sadisu Rabiu Khamis            | Kano            | Lukman Aliyu Jibril        |
 |        | Ishaq Ibrahim                  | Kano            | Munzali Alhassan           |
