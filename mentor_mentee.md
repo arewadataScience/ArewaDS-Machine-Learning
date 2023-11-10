@@ -92,10 +92,29 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Obianuju Lilian Onuoha | Lagos |
 |  | Abdulrasheed Ayinde Abdulraheem | Lagos |
 |  | Olayinka Babalola | Lagos |
-| ...              |                                |                 |                            |
-| Group_Taraba_11  | Sangari Habiba Muhammad        | Taraba          | Lukman Aliyu Jibril        |
-| Group_Yobe_11    | muazu muhammad Shuaibu         | yobe            | Auwal Abubakar Khalid      |
-| ...              |                                |                 |                            |
-| Group_Abuja_12   | Abdullateef Mubarak            | Abuja           | Bala Mairiga Abduljalil    |
-| Group_Abuja_12   | Umar Shehu                     | Abuja           | Babangida Sani             |
+| Mahmoud Abiola             | Nyoru Sam                              |  Kenya               | Alamin Musa Magaga            |
+|  | Usman Muhammad | Nasarawa | Lukman Aliyu Jibril |
+|  | Oluwadare Taye | Ondo | 
+|  | Quadri Ganiu Olawale | Ondo |
+|  | Albert Christopher | Plateau | 
+|  | Umar Faruq Abdullahi | Sokoto | 
+|  | Hafsa Bibi | Student | 
+|  | Mutala Gbembegu Jamal-Deen | Ghana |
+| Shehu Shagari   | Sangari Habiba Muhammad         | Taraba           | Lukman Aliyu Jibril      |
+|  | Muazu Muhammad Shuaibu | Yobe | Auwal Abubakar Khalid           |
+|  | Musa Adamu | Yobe |
+|  | Muhammad Usman | Yobe | 
+|  | muhammad Saleh Ibrahim | Yobe | 
+|  | Zarah Malah Kachala | Yobe | 
+|  | Abdulahi Garba Mohammed | Zamfara | 
+|  | Rabiu Usman Sani | Zamfara | 
+|  | Faisal Mustapha Muhammad | Zamfara | 
+| Sani Abacha | Abdullateef Mubarak            | FCT          | Bala Mairiga Abduljalil    |
+|  | Umar Shehu     | FCT          | Babangida Sani     |
+|  |  Abdulrahman Ahmad O. | FCT | 
+|  | Muhammadurabiu Halimat Oyiza | FCT |
+|  | Usman Adamu Muhammed | Adamawa | 
+|  | Peter Dalatu | Adamawa | 
+|  | Abubakar Idi | Adamawa | 
+|  | Fikete Mariam | Ethiopia | 
 
