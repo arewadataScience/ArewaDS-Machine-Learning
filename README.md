@@ -121,6 +121,8 @@ We have provided detailed instructions, but you might not understand all the det
 | |   Working with GitHub in VS Code       | [GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github) | [recording](#) | TBD|
 |  | GitHub for Collaboration      | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md) | [recording](#) | TBD|
 |  | Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/markdown.md) | [recording](#) | TBD|
+|  | Generative AI     | [Generative AI](#) | [recording](#) | TBD|
+
 
 
 
