@@ -22,42 +22,6 @@ Please make sure:
 - Make sure you are running Windows 10 version `1909` or newer.
 - Then, try following [these steps](https://teckangaroo.com/enable-windows-10-virtual-machine-platform/)
 
-### 3. When I pull from the `ds-prep-course-2023` repository, I get an error
-
-If you get an error like the following when pulling:
-
-```
-error: Your local changes to the following files would be overwritten by merge:
-<some files>
-Please commit your changes or stash them before you merge.
-Aborting
-```
-
-what `git` is telling you is that changes were made by you to the files in the `~/projects/ds-prep-course-2023` folder, and therefore it is not pulling the changes made by the instructors because they would overwrite the changes made by you.
-
-To fix this do the following:
-
-1. Make sure that any changes you made to the files in `~/projects/ds-prep-course-2023`  (that you don't want to lose) are saved in your `~/projects/ds-prep-workspace` repository (refer to [Updates of the learning units](weekly-workflow.md#14-updates-of-the-learning-units) on how to do this). If you don't want to keep the changes you made to these files, just continue on to the next step.
-2. Go to the `~/projects/ds-prep-course-2023` folder and run:
-
-    ```bash
-    cd ~/projects/ds-prep-course-2023
-    git stash
-    ```
-
-3. Now you can pull from the `ds-prep-course-2023` repository:
-
-    ```bash
-    git pull
-    ```
-
-### 4. When I try to open the jupyter notebook, I get an error
-
-Make sure that your virtual environment is activated **before** opening the jupyter notebook.
-
-```bash
-source ~/.virtualenvs/prep-venv/bin/activate
-```
 
 ### 5. When I use the `cp` command the `>` sign appears and the command does not execute
 
@@ -92,19 +56,11 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7FCC7D46ACCC4CF8
 
 When you type your password in the terminal, it is not visible. This is normal, just type the password and hit <kbd>enter</kbd>.
 
-### 8. I still have a NotImplemented error
-
-I've completed the exercise in the Exercise Notebook but when I run the cell I get a **NotImplementedError**.
-
-Solution:
-The `raise NotImplementedError()` is added to the exercise cell as a placeholder for where you're supposed to add your solution/code. It is meant to be removed!
 
 ### 9. Tutorial videos from Prep Course 2020
 
-🎁🎬 Check the **tutorial videos** if you have any doubts after following this tutorial. These videos were made for the **Prep Course of year 2020**, so there may be some differences.
+🎁🎬 Check the **tutorial videos** if you have any doubts after following this tutorial. 
 
 - [Setup guide for Windows - Part 1](https://www.youtube.com/watch?v=fWi3bYoHW18)
 - [Setup guide for Windows - Part 2](https://www.youtube.com/watch?v=bnJOQHh9pJ4)
 - [Setup guide for Mac](https://www.youtube.com/watch?v=qs0z4ibMFdU)
-- [Updates to Learning Units guide for Windows 10](https://www.youtube.com/watch?v=Q2Cezm6ufrE)
-- [Updates to Learning Units guide for Mac](https://www.youtube.com/watch?v=-fzIDfNBZ0I)
