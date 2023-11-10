@@ -13,7 +13,7 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  |  Ibrahim Aliyu      |Kano            |              |    
 |  |  Ibrahim Dazeen Danjuma | Kano|  |  
 |  |  Ali Lawal Muazu| Kano | |
-|  | Halima Mahmod | Kano | 
+|  | Halima Mahmoud | Kano | 
 | Tafawa Balewa     | Ruqayya Nasir Iro      | Kano            | Abubakar Salisu          |
 |      | Salau                | Kano            | Bala Mairiga Abduljalil         |
 |  |    Zaharaddeen Nura Ibrahim   |   Kano   |        |
