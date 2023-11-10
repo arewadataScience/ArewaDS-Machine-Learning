@@ -4,21 +4,46 @@ The following table lists the pairings of mentors and fellows for each group in 
 
 | Group            | Name                           | State           | Mentors                    |
 |------------------|--------------------------------|-----------------|----------------------------|
-| Team_Kano_1     | Sadisu Rabiu Khamis            | Kano            | Lukman Aliyu Jibril        |
+| Aminu Kano     | Sadisu Rabiu Khamis            | Kano            | Lukman Aliyu Jibril        |
 |        | Ishaq Ibrahim                  | Kano            | Munzali Alhassan           |
 |   | Abubakar Salisu Bashir         | Kano            |                            |
 |        | Sadiq Muhammad Aliyu           | Kano            |                            |
 |        | Yunus Isah                     | Kano            |                            |
-| ...              |                                |                 |                            |
-| Team_Kano_2     | Khadijah Ibrahim Balarabe      | Kano            | Lurwanu Abdullahi          |
-|      | Halima Mahmoud                 | Kano            | Alamin Musa Magaga         |
-| ...              |                                |                 |                            |
-| Team_Kaduna_1   | Shafiu Muhammad                | Kaduna State    | Umar Sani Muhammad         |
-|    | Muhammad Mujahid Haruna        | Kaduna          | Mohammed Nasiru            |
-| ...              |                                |                 |                            |
-| Team_Kaduna_2   | Zainab Ya'u Ibrahim            | Kaduna          | AMINU HAMZA NABABA         |
-|    | Sadiya Abdullahi Ladan         | Kaduna          | Abdullahi Ahmad            |
-| ...              |                                |                 |                            |
+|              |          Auwal Ismail Musa            |   Kano               |                            |
+|  |  Ibrahim Aliyu      |Kano            |              |    
+|  |  Ibrahim Dazeen Danjuma | Kano|  |  
+|  |  Ali Lawal Muazu| Kano | |
+| Tafawa balewa     | Ruqayya Nasir Iro      | Kano            | Abubakar Salisu          |
+|      | Salau                | Kano            | Bala Mairiga Abduljalil         |
+|  |    Zaharaddeen Nura Ibrahim   |   Kano   |        |
+|  |    Habib Yusuf  |   Kano   |        |
+|  |    Muhammad Dahiru Usman   |   Kano   |        |
+|  |    Zainab Ya'u Abdulkadir   |   Kano   |        |
+|  |    Fuad Sani Ibrahim   |   Kano   |        |
+|  |    Masud AbdulYaqeen    |   Kano   |        |
+|  |    Ibrahim Abdullahi Aliyu   |   Kano   |        |
+|  |    umaralfaruq isa umar   |   Kano   |        |
+| Abubakar Rimi   | Rahma Aliyu Yusuf                 | Kano    | Faridah Yusuf         |
+|    | Abubakar Sabiu        | Kano          | Auwal Abubakar Khalid            |
+|    | Sheriff  Mudasir      | Kano          |                     |
+|    | Naziru Abdussalam Ibrahim     | Kano          |                     |
+|    | Musbahu Umar Yakubu       | Kano          |                     |
+|    | Ibrahim Suleiman Hussain     | Kano          |                     |
+|    | Muhammmadu Hamza Yalwa      | Kano          |                     |
+|    | Fatima Ado Musa       | Kano          |                     |
+|    | Usman Idris Usman       | Kano          |                     |
+|    | Fauziyya  Sani Yunusa     | Kano          |                     |
+| Suleiman Ribadu   | Khadijah Ibrahim Balarabe            | Kano         | Lurwanu Abdullahi         |
+|    | Sadiya Abdullahi Ladan         | Kano          | Alamin Musa Magaga            |
+|    |   Abubakar Aminu               |  Kano         |     |
+|  |Shamsuddeen Salihu | Kebbi|  |
+|  | Abubakar Yakubu Zandam |Jigawa  |   |
+|  | Salisu Ibrahim |Jigawa  |   |
+|  | Fatima Usman Muhammad |Jigawa  |   |
+|  | Nasiru Mahadi  |Jigawa  |   |
+|  | Adamu Hassan Ali |Jigawa  |   |
+|  | Bashir Iliyasu Bashir  |Jigawa  |   |
+|  | Umar Aliyu Ibrahim| Jigawa|  |
 | Team_Katsina_1  | Musa Muhammad Khalid           | Katsina         | Muhammad Ibrahim Isah      |
 |   | Ibrahim Abbas                  | Katsina         | Lawal Aminu Saleh          |
 | ...              |                                |                 |                            |
