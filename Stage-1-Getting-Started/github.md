@@ -48,7 +48,7 @@ The workspace directory/repository is where you will place everything you are wo
 
 ### Step 2: Create a New Repository
 
-<img src='media/menu_create_repository.png' alt='Finder' width="75%" />
+<img src='media/createrepo.png' alt='Finder' width="75%" />
 
 1. Click the "+" button in the upper-right corner of GitHub and select `New repository`.
 2. Create a repository named `arewa-data-science-workspace`.
@@ -57,7 +57,7 @@ The workspace directory/repository is where you will place everything you are wo
    - Select a Python `.gitignore` file. This file does exactly what it sounds like - it tells `git` which files to ignore when transfering files between your computer and `GitHub`.
 
 
-<img src="https://user-images.githubusercontent.com/19359518/112880653-9ef76280-90c2-11eb-8768-00b2153756d5.png" alt='Finder' width="75%">
+<img src="media/name_the_repo.png" alt='Finder' width="75%">
 
 You can also check [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository) on GitHub for help.
  
@@ -69,15 +69,15 @@ The workspace directory/repository is where you will place everything you are wo
 
 **Step 2:** In the upper-right corner of the page, click the "+" button and select `New repository`:
 
-<img src='media/menu_create_repository.png' alt='Finder' width="75%" />
+<img src='media/createrepo.png' alt='Finder' width="75%" />
 
 **Step 3:** Create a new **private** repository called `ds-prep-workspace`.
 
 1. You need to explicitly select `Private` - this is your private work environment where nobody else will have access but you.
 
-1. Initialize with a `README`.
+2. Initialize with a `README`.
 
-1. Add a Python `.gitignore`. This file does exactly what it sounds like - it tells `git` which files to ignore when transfering files between your computer and `GitHub`.
+3. Add a Python `.gitignore`. This file does exactly what it sounds like - it tells `git` which files to ignore when transfering files between your computer and `GitHub`.
 
 <img src="https://user-images.githubusercontent.com/19359518/112880653-9ef76280-90c2-11eb-8768-00b2153756d5.png" alt='Finder' width="75%">
 
