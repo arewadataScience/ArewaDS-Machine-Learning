@@ -136,6 +136,33 @@ Over the course of 30 days, you'll learn Python basics, advanced features, and e
 
 Here's the challenge you'll be undertaking:
 
+[Day 1](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2001) | 
+[Day 2](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2002) | 
+[Day 3](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2003) | 
+[Day 4](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2004) | 
+[Day 5](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2005) | 
+[Day 6](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2006) | 
+[Day 7](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2007) | 
+[Day 8](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2008) | 
+[Day 9](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2009) | 
+[Day 10](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2010) | 
+[Day 11](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2011) | 
+[Day 12](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2012) | 
+[Day 13](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2013) | 
+[Day 14](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2014) | 
+[Day 15](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2015) | 
+[Day 16](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2016) | 
+[Day 17](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2017) | 
+[Day 18](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2018) | 
+[Day 19](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2019) | 
+[Day 20](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2020) | 
+[Day 21](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2021) | 
+[Day 22](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2022) | 
+[Day 23](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2023) | 
+[Day 24](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2024) | 
+[Day 25](https://github.com/arewadataScience/30-Days-of-Python/blob/master/Day%2025)
+
+
 | Day | Content | Link |
 |-----|---------|------|
 | 1-30 | 30 Days of Python Challenge | [Start the Course](https://github.com/arewadataScience/30-Days-of-Python) |
