@@ -114,7 +114,7 @@ We have provided detailed instructions, but you might not understand all the det
 | Date       | Title                         | Resource | Recording | Mentor |
 |------------|-------------------------------|----------|-----------|--------|
 | 2023-11-11 | Initial Setup         | [MacOS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/macOS.md) [Windows](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/WINDOWS.md) [Linux](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/LINUX.md#set-up-instructions-for-linux) | [recording](#) | Shamsudden Muhammad |
-|2023-11-19  | Basic Command Line Operations | [CommandLine](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/commandline.md) | [recording](#) | Idris/Shamsuddeen |
+|2023-11-12  | Basic Command Line Operations | [CommandLine](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/commandline.md) | [recording](#) | Idris/Shamsuddeen |
 | | Setup Git and GitHub       | [Git/GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/github.md) | [recording](#) | Shamsudden Muhammad |
 | | Python Virtual Environments   | [Virtual Enviroment](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/python-venv.md) | [recording](#) | Shamsudden Muhammad |
 | |   VSCode for DataScience      | [VScode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md) | [recording](#) | Idris/Shamsuddeen |
