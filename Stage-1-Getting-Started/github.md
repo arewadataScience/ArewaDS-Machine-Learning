@@ -61,28 +61,6 @@ The workspace directory/repository is where you will place everything you are wo
 
 You can also check [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository) on GitHub for help.
  
-### 2.2 Setup your workspace repository
-
-The workspace directory/repository is where you will place everything you are working on, solve exercises, make changes to files, etc.
-
-**Step 1:** Log into `GitHub`.
-
-**Step 2:** In the upper-right corner of the page, click the "+" button and select `New repository`:
-
-<img src='media/createrepo.png' alt='Finder' width="75%" />
-
-**Step 3:** Create a new **private** repository called `ds-prep-workspace`.
-
-1. You need to explicitly select `Private` - this is your private work environment where nobody else will have access but you.
-
-2. Initialize with a `README`.
-
-3. Add a Python `.gitignore`. This file does exactly what it sounds like - it tells `git` which files to ignore when transfering files between your computer and `GitHub`.
-
-<img src="https://user-images.githubusercontent.com/19359518/112880653-9ef76280-90c2-11eb-8768-00b2153756d5.png" alt='Finder' width="75%">
-
-You can also check [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository) on GitHub for help.
-
 ### Step 3: Clone Your Repository
 
 Your workspace repository now exists on `GitHub`, but you also need a local copy (clone) on your computer. You will be working in the local repository and then transfer your work to your remote workspace repository on `GitHub`.
