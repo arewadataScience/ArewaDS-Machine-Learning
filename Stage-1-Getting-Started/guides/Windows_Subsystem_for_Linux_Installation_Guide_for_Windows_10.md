@@ -44,7 +44,7 @@ and run it by pressing <kbd>enter</kbd>:
 
 ## Install Ubuntu
 
-1. Open this link to the [Microsoft Store](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q){:target="_blank"} and select `Get` to install `Ubuntu`.
+1. Open this link to the [Microsoft Store](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q) and select `Get` to install `Ubuntu`.
 
 ## Launch Ubuntu
 To complete the initialization of your newly installed `Ubuntu`, launch a new instance. You can do this by typing `ubuntu` in your Windows search bar:
