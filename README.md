@@ -17,7 +17,7 @@ ArewaDS website: https://arewadatascience.github.io
   - [Fellowship Kickoff](#fellowship-kickoff)
   - [Stage 1: Getting Started](#stage-1-getting-started)
     - [Learning How to Learn](#learning-how-to-learn)
-    - [VSCode Setup, Git, and GitHub](#vscode-setup-git-and-github)
+    - [Setup and Installation](#setup-and-installation)
     - [30 Days of Python Challenge](#30-days-of-python-challenge)
   - [Stage 2: Data Science](#stage-2-data-science)
   - [Stage 3: Machine Learning](#stage-3-machine-learning)
@@ -73,7 +73,7 @@ You can find the list of accepted fellows, the mentor-mentee list, the recording
 | Component       | Resource |
 |-----------------|----------|
 | Accepted Fellows Page | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html) |
-| Mentors/Mentee Info   | [mentor/mentee page](#) |
+| Mentors/Mentee Info   | [mentor/mentee page](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/mentor_mentee.md) |
 | Communication (Telegram) | [How to use Arewa Data Science Telegram Group](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)|
 | Kickoff Recording Ethiqueet |  [Link to Recording](https://www.youtube.com/watch?v=q6sQmF_nu6U)  |
 | Kickoff Slides    | [Link to slides](#) |
