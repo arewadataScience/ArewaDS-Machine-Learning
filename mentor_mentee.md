@@ -54,9 +54,8 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Salome Danjuma Mammanjabs | kaduna |
 |  | Zidan Musa Modibbo | kaduna |
 |  | Hajara Muhammed Ladan | Kaduna |
-| ...              |                                |                 |                            |
-|  | Nmandi Azikiwe  | Zainab Ya'u Ibrahim              | Kaduna         | Aminu Hamza Nababa         |
-|  | Sadiya Abdullahi Ladan           | Kaduna          | Abdullahi Ahmed |
+| Nmamdi Azikiwe            |    Zainab Ya'u Ibrahim                             | Kaduna                |       Aminu Hamza Nababa    |
+|  | Sadiya Abdullahi Ladan         | Kaduna         | Abdullahi Ahmed        |
 |  |Yusuf Yakubu Yusuf | Kaduna |
 |  | Bello Abdullahi | Kaduna |
 |  | Nana Firdausi Abdulrahim | Kaduna |
