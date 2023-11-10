@@ -115,12 +115,12 @@ We have provided detailed instructions, but you might not understand all the det
 |------------|-------------------------------|----------|-----------|--------|
 | 2023-11-11 | Initial Setup         | [MacOS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/macOS.md) [Windows](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/WINDOWS.md) [Linux](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/LINUX.md#set-up-instructions-for-linux) | [recording](#) | Shamsudden Muhammad |
 |2023-11-19  | Basic Command Line Operations | [CommandLine](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/commandline.md) | [recording](#) | Idris/Shamsuddeen |
-| 2023-11-11 | Setup Git and GitHub       | [Git/GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/github.md) | [recording](#) | Shamsudden Muhammad |
-| 2023-11-12 | Python Virtual Environments   | [Virtual Enviroment](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/python-venv.md) | [recording](#) | Shamsudden Muhammad |
-|2023-11-12 |   VSCode for DataScience      | [VScode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md) | [recording](#) | Idris/Shamsuddeen |
-|2023-11-12 |   Working with GitHub in VS Code       | [GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github) | [recording](#) | Idris/Shamsuddeen |
-|2023-11-12  | GitHub for Collaboration      | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md) | [recording](#) | Idris/Shamsuddeen|
-|2023-11-18  | Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/markdown.md) | [recording](#) | Idris/Shamsuddeen|
+| | Setup Git and GitHub       | [Git/GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/github.md) | [recording](#) | Shamsudden Muhammad |
+| | Python Virtual Environments   | [Virtual Enviroment](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/python-venv.md) | [recording](#) | Shamsudden Muhammad |
+| |   VSCode for DataScience      | [VScode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md) | [recording](#) | Idris/Shamsuddeen |
+| |   Working with GitHub in VS Code       | [GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github) | [recording](#) | Idris/Shamsuddeen |
+|  | GitHub for Collaboration      | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md) | [recording](#) | Idris/Shamsuddeen|
+|  | Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/markdown.md) | [recording](#) | Idris/Shamsuddeen|
 
 
 
