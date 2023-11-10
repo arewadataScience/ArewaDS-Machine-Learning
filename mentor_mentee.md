@@ -44,11 +44,27 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Adamu Hassan Ali |Jigawa  |   |
 |  | Bashir Iliyasu Bashir  |Jigawa  |   |
 |  | Umar Aliyu Ibrahim| Jigawa|  |
-| Team_Katsina_1  | Musa Muhammad Khalid           | Katsina         | Muhammad Ibrahim Isah      |
-|   | Ibrahim Abbas                  | Katsina         | Lawal Aminu Saleh          |
+| Obafemi Awolowo  | Shafiu Muhammad           | Kaduna        | Umar Sani Muhammad     |
+|  | Muhammad Mujahid Haruna                  | Kauna         | Muhammad Nasiru          |
+|  | Ahmad Saad | Kaduna |
+|  | Yahaya Muhammad | Kaduna |
+|  | Gideon Markus | kaduna |
+|  | Bala Ntong Jonathan | kaduna |
+|  | Abubakar Sadiq Suleiman | kaduna |
+|  | Salome Danjuma Mammanjabs | kaduna |
+|  | Zidan Musa Modibbo | kaduna |
+|  | Hajara Muhammed Ladan | Kaduna |
 | ...              |                                |                 |                            |
-| Team_Bauchi   | Abubakar G. Saleh              | Bauchi          | Abdulrahman Yusuf          |
-| Team_Bauchi   | USMAN MUHAMMAD SHEHU           | BAUCHI          | Hassan Muhammad Adam       |
+|  | Nmandi Azikiwe  | Zainab Ya'u Ibrahim              | Kaduna         | Aminu Hamza Nababa         |
+|  | Sadiya Abdullahi Ladan           | Kaduna          | Abdullahi Ahmed |
+|  |Yusuf Yakubu Yusuf | Kaduna |
+|  | Bello Abdullahi | Kaduna |
+|  | Nana Firdausi Abdulrahim | Kaduna |
+|  | Surajo Adamu | Kaduna |
+|  | Salisu S Zubairu | Kaduna |
+|  | Sani Bala Usman | Kaduna |
+|  | Fatima Tukur | kaduna |
+|  | Ibrahim Manasseh | Kaduna |
 | ...              |                                |                 |                            |
 | Group_Intl     | WEDDY NKATHA MURITHI           | Kenya           | Bala Mairiga Abduljalil    |
 | Group_Intl     | Haleemah Hamzah                | Kwara           | Muhammad Ibrahim Isah      |
