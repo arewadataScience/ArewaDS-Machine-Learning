@@ -6,6 +6,23 @@ Welcome to this beginner-friendly tutorial on using the command line. This guide
 
 The command line, also known as the terminal or shell, is a text-based interface to the system. You can perform almost all the tasks that you do with a GUI, but using text commands can often be more efficient.
 
+## Opening the Terminal
+
+Before navigating the file system, you need to know how to open the terminal on your operating system:
+
+### Windows
+- Press `Windows + R`, type `cmd`, and press `Enter`. This opens the Command Prompt.
+- Alternatively, you can search for "Command Prompt" in the Start menu.
+
+### MacOS
+- Open `Finder`, go to `Applications > Utilities`, and double-click on `Terminal`.
+- Alternatively, you can use `Spotlight` by pressing `Command + Space`, typing `Terminal`, and pressing `Enter`.
+
+### Linux
+- Usually, you can open the terminal with a shortcut, typically `Ctrl + Alt + T`.
+- Alternatively, you can find it in your applications menu, the location of which varies by distribution.
+
+
 ## Navigating the File System
 
 ### Listing Files and Directories
