@@ -79,17 +79,17 @@ mkdir ~/projects
 cd ~/projects
 ```
 
-**Step 4:** You can now **clone** (create a local copy of) the `ds-prep-workspace` repository you created on `GitHub`.
+**Step 4:** You can now **clone** (create a local copy of) the `arewa-ds-workspace` repository you created on `GitHub`.
 Replace `<username>` below with your `GitHub` username, removing the brackets `< >`, and run the command:
 
 ```bash
-git clone https://github.com/<username>/ds-prep-workspace.git
+git clone https://github.com/<username>/arewa-ds-workspace.git
 ```
 
    **Note**: if you have had a `GitHub` account since before this course and you are using `ssh keys` instead of `tokens`, first make sure that you have completed the steps starting [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys), then clone your repository like this. You can skip step 5 and continue with section 2.4.
 
    ```bash
-   git clone git@github.com:<username>/ds-prep-workspace.git
+   git clone git@github.com:<username>/arewa-ds-workspace.git
    ```
 
 **Step 5:** You'll be asked for your `GitHub` username. Type it and press <kbd>enter</kbd>. Then you'll be asked for your git password. Passwords no longer work for `GitHub`, you will need to use `tokens`.
@@ -98,13 +98,13 @@ Go to <https://github.com/settings/tokens> and click on `Generate new token`. Yo
 
 Now use the `token` instead of your password and press <kbd>enter</kbd>
 
-You should now have a local copy of your `ds-prep-workspace` in your `~/projects/ds-prep-workspace` folder.
+You should now have a local copy of your `arewa-ds-workspace` in your `~/projects/arewa-ds-workspace` folder.
 
 <img src='media/personal_access_token.PNG' width="75%" />
 
-### 2.4 Clone the `ds-prep-course-2023` repository
+### 2.4 Clone the `ArewaDS-Machine-Learning` repository
 
-Let's clone the [`ds-prep-course-2023`](https://github.com/LDSSA/ds-prep-course-2023) repository. This is where all of the learning materials will be made available as the prep course progresses. You will be getting them (pulling) from there.
+Let's clone the [`ArewaDS-Machine-Learning`](https://github.com/arewadataScience/ArewaDS-Machine-Learning) repository. This is where all of the learning materials will be made available as the course progresses. You will be getting them (pulling) from there.
 
 **Step 1:** Open a terminal (or use one you've already opened) and enter the `projects` folder:
 
@@ -115,19 +115,13 @@ cd ~/projects
 **Step 2:** Clone the Prep Course repository (it's the same that contains the README you're reading right now!):
 
 ```bash
-git clone https://github.com/LDSSA/ds-prep-course-2023.git
+git clone https://github.com/arewadataScience/ArewaDS-Machine-Learning.git
 ```
 
 If you are using `ssh keys` for `GitHub`, use this command:
 
 ```bash
-git clone git@github.com:LDSSA/ds-prep-course-2023.git
+git clone git@github.com:arewadataScience/ArewaDS-Machine-Learning.git
 ```
 
-**Step 3:** Copy the `requirements.txt` file from the prep course repository to your local workspace repository. The `cp` bash command means **c**o**p**y.  Then you have the address of the file that is being copied and to where it is copied.
-
-```bash
-cp ~/projects/ds-prep-course-2023/requirements.txt ~/projects/ds-prep-workspace
-```
-
-And you're done with setting `Git` and `GitHub`! Go back to the main menu and continue with step 4, setting up the virtual environment.
+And you're done with setting `Git` and `GitHub`! Go back to the main menu and continue with step.
