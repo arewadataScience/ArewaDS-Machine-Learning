@@ -124,6 +124,7 @@ We have provided detailed instructions, but you might not understand all the det
 |  | Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/markdown.md) | [recording](#) | [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/) |
 |  |  Customizing GitHub profile    | [Customizing Profile](#) | [recording](#) |  [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
 |  | GitHub for Collaboration      | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md) | [recording](#) |  [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
+|  | Google Colab     | [Google Colab](#) | [recording](#) | | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)|
 |  | Generative AI     | [Generative AI](#) | [recording](#) | TBD|
 
 
