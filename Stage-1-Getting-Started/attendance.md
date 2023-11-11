@@ -64,5 +64,18 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Fatima Ado Musa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
 | UsmanIdris Usman                                      |           |       |        |         |         |        |    |         |        |           |                             | 
 | Fauziyya Sani Yunusa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Shafiu Muhammad                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Muhammad Mujahid Haruna                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Halima Mahmod                                     |           |       |        |         |         |        |    |         |        |           |                             | 
+| Abubakar Aminu                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Shamsuddeen Salihu                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Abubakar Yakubu Zandam                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Salisu Ibrahim                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Fatima Usman Muhammad                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Nasiru Mahadi                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Adamu Hassan Ali                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Bashir Iliyasu Bashir                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Umar Aliyu Ibrahim                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Shafiu Muhammad                                      |           |       |        |         |         |        |    |         |        |           |                             | 
 
 
