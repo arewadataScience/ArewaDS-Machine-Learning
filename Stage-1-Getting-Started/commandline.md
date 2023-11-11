@@ -66,6 +66,7 @@ pwd
 ```bash
 ls
 ```
+A full list of `ls` command options is available [here](https://www.computerhope.com/unix/uls.htm).
   
 ### Changing Directories
 
