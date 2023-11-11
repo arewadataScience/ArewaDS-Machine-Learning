@@ -17,22 +17,26 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
    - **Peer Learning and Collaboration**: High attendance fosters a collaborative learning environment.
    - **Support for Fellows**: Fellows facing difficulties in meeting the attendance requirement should communicate with program coordinators for assistance.
 
-| Name                                                       |   11/11 |    Total Percentage |
-|:-----------------------------------------------------------|-----------:|-------------:|
-| umar kiri                                                  |         85 |       100    |
-| Sheriff Olalekan Mudasir                                   |         84 |        98.82 |
-| HALIMAT OYIZA MUHAMMADURABIU                               |         84 |        98.82 |
-| Muhammad Dahiru Usman                                      |         84 |        98.82 |
-| Fa'iza Adam kankarofi                                      |         84 |        98.82 |
-| Ntong Bala                                                 |         84 |        98.82 |
-| Rabi'u Usman Sani                                          |         84 |        98.82 |
-| Sani Aji                                                   |         84 |        98.82 |
-| Abdulkadir Lawan Mustapha                                  |         84 |        98.82 |
-| Obianuju Onuoha                                            |         83 |        97.65 |
-| Abubakar Salisu Bashir                                     |         83 |        97.65 |
-| Zaharaddeen Nura Ibrahim                                   |         83 |        97.65 |
-| Musbahu Umar Yakubu                                        |         83 |        97.65 |
-| Halima Mahmoud                                             |         83 |        97.65 |
-| Nasiru Mahadi                                              |         83 |        97.65 |
-| Bello Abdullahi                                            |         83 |        97.65 |
-| ruqayyanasiriro                                            |         82 |        96.47 |
+
+| Name                                                       |   11/11 |   12/11 |   81/11  | 19/11 |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |   16/12 |    Total Percentage |
+|:-----------------------------------------------------------|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------:|--------------------:|
+| umar kiri                                                  |      85 |        |        |        |        |        |        |        |        |        |         |              100    |
+| Sheriff Olalekan Mudasir                                   |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| HALIMAT OYIZA MUHAMMADURABIU                               |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| Muhammad Dahiru Usman                                      |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| Fa'iza Adam kankarofi                                      |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| Ntong Bala                                                 |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| Rabi'u Usman Sani                                          |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| Sani Aji                                                   |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| Abdulkadir Lawan Mustapha                                  |      84 |        |        |        |        |        |        |        |        |        |         |               98.82 |
+| Obianuju Onuoha                                            |      83 |        |        |        |        |        |        |        |        |        |         |               97.65 |
+| Abubakar Salisu Bashir                                     |      83 |        |        |        |        |        |        |        |        |        |         |               97.65 |
+| Zaharaddeen Nura Ibrahim                                   |      83 |        |        |        |        |        |        |        |        |        |         |               97.65 |
+| Musbahu Umar Yakubu                                        |      83 |        |        |        |        |        |        |        |        |        |         |               97.65 |
+| Halima Mahmoud                                             |      83 |        |        |        |        |        |        |        |        |        |         |               97.65 |
+| Nasiru Mahadi                                              |      83 |        |        |        |        |        |        |        |        |        |         |               97.65 |
+| Bello Abdullahi                                            |      83 |        |        |        |        |        |        |        |        |        |         |               97.65 |
+| ruqayyanasiriro                                            |      82 |        |        |        |        |        |        |        |        |        |         |               96.47 |
+
+
+
