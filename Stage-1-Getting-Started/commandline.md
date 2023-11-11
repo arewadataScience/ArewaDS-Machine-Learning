@@ -13,6 +13,17 @@ Welcome to this beginner-friendly tutorial on using the command line. This guide
 Overall, command line skills significantly contribute to the efficiency, power, and versatility of data science workflows.
 
 
+<table>
+  <tr>
+    <td>
+        <a href="vscode.md">
+            <img src="media/commandline.png" alt="VSCode setup" style="max-width: 100%; height: auto;"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
+
 ## Introduction to the Command Line
 
 The command line, also known as the terminal or shell, is a text-based interface to the system. You can perform almost all the tasks that you do with a GUI, but using text commands can often be more efficient.
