@@ -36,7 +36,8 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Halima Mahmoud                                             |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
 | Nasiru Mahadi                                              |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
 | Bello Abdullahi                                            |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| ruqayyanasiriro                                            |      82 |        |        |        |        |        |        |        |        |        |                        96.47 |
-
+| ruqayya nasir iro                                            |      82 |        |        |        |        |        |        |        |        |        |                        96.47 |
+| Ali  Lawan Muazu              |                             |        78|        |         |       |         |        |  |         |        |       |                             91.76 |          |        |         |       |         |       |   
+  
 
 
