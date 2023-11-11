@@ -18,7 +18,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
    - **Support for Fellows**: Fellows facing difficulties in meeting the attendance requirement should communicate with program coordinators for assistance.
 
 
-| Name                                                       |   11/11 |   12/11 |   18/11  | 19/11 |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |       Total Percentage |
+| Name                                                       |   11/11 |   12/11 |   18/11  | 19/11 |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |       Percentage |
 |:-----------------------------------------------------------|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------------------:|
 | umar kiri                                                  |      85 |        |        |        |        |        |        |        |        |        |                     100    |
 | Sheriff Olalekan Mudasir                                   |      84 |        |        |        |        |        |        |        |        |        |                   98.82 |
