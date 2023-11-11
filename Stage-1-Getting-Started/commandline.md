@@ -25,6 +25,16 @@ Before navigating the file system, you need to know how to open the terminal on 
 
 ## Navigating the File System
 
+### Displaying the Current Directory
+
+- **Command:** pwd (Linux/Mac) or cd (Windows, without arguments)
+- **Purpose:** To display the path of the current directory.
+- **Usage:**
+
+```bash
+pwd
+```
+
 ### Listing Files and Directories
 
 - **Command**: `ls` (Linux/Mac) or `dir` (Windows)
@@ -43,16 +53,6 @@ Before navigating the file system, you need to know how to open the terminal on 
 ```bash
 cd Documents
 
-```
-
-### Displaying the Current Directory
-
-- **Command:** pwd (Linux/Mac) or cd (Windows, without arguments)
-- **Purpose:** To display the path of the current directory.
-- **Usage:**
-
-```bash
-pwd
 ```
 
 ## File Operations
