@@ -47,6 +47,22 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Ibrahim Ali                                       |           |       |        |         |         |        |    |         |        |           |                             | 
 | Ibrahim Dazeen Danjuma                                       |           |       |        |         |         |        |    |         |        |           |                             | 
 | Abbas Adam Abba                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Zaharaddeen Nura Ibrahim                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Habib Yusuf                                     |           |       |        |         |         |        |    |         |        |           |                             | 
+| Salau                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Zainab Ya'u Abubakar                                     |           |       |        |         |         |        |    |         |        |           |                             | 
+| Faud Sani Ibrahim                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Masud Abdul Yaqeen                                     |           |       |        |         |         |        |    |         |        |           |                             | 
+| Ibrahim Abdullahi Aliyu                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| UmaralFaruq Isa Umar                                        |           |       |        |         |         |        |    |         |        |           |                             | 
+| Rahma Aliyu Yusuf                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Abubakar Sabiu                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Shariff Muddassir                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Naziru Abdussalam Ibrahim                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Musbahu Umar Yakubu                                     |           |       |        |         |         |        |    |         |        |           |                             | 
+| Ibrahim Suleiman Hussain                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Muhammadu Hamza Yalwa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| Fatima Ado Musa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
+| UsmanIdris Usman                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Fauziyya Sani Yunusa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
 
 
