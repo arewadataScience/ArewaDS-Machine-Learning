@@ -83,9 +83,7 @@ We are excited to have you on board and can't wait to see the amazing things you
 
 ## Stage 1: Getting Started
 
-**Duration: 6 weeks**
-
-| Stage 1 Attendance List   | [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md) |
+| **Duration: 6 weeks**  | [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md) |
 
 
 The first part of our fellowship focuses on building a strong foundation in the essential tools used in Data Science and Machine Learning.
