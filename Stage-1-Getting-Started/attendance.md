@@ -6,6 +6,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 
 1. **Ongoing Updates**: 
    - The attendance list for Stage 1 fellows is a living document.
+   - We report total time (minutes) a fellow attend each session
    - It will be regularly updated following each session to reflect the most current attendance data.
 
 2. **Critical Attendance Threshold**: 
