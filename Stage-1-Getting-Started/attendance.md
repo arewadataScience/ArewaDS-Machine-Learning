@@ -1,4 +1,23 @@
-| Name                                                       |   Duration |   Percentage |
+# Stage 1 Attendance Policy for Fellows
+
+This document outlines the attendance requirements for fellows in Stage 1 of our program. Our policy is designed to ensure active participation and engagement, which are crucial for the fellows' progress and success. 
+
+### Key Highlights:
+
+1. **Ongoing Updates**: 
+   - The attendance list for Stage 1 fellows is a living document.
+   - It will be regularly updated following each session to reflect the most current attendance data.
+
+2. **Critical Attendance Threshold**: 
+   - Fellows are required to maintain a minimum of 90% attendance throughout Stage 1.
+   - This threshold is essential for fellows to qualify for progression to the next stage of the program, which focuses on Data Science.
+
+3. **Purpose of the Requirement**: 
+   - **Consistency in Learning**: Regular attendance ensures that fellows are consistently engaged with the program material.
+   - **Peer Learning and Collaboration**: High attendance fosters a collaborative learning environment.
+   - **Support for Fellows**: Fellows facing difficulties in meeting the attendance requirement should communicate with program coordinators for assistance.
+
+| Name                                                       |   11/11 |    Total Percentage |
 |:-----------------------------------------------------------|-----------:|-------------:|
 | umar kiri                                                  |         85 |       100    |
 | Sheriff Olalekan Mudasir                                   |         84 |        98.82 |
