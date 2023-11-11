@@ -62,7 +62,7 @@ To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows
 
 - **Assignments and Medium BlogPost**: Submission of all required assignments and assigned blog post by the specified deadlines. Posts must meet the quality standards set by the mentors.
 
-- **Attendance**: Maintain a 90% attendance rate for weekly office hours (Saturday and Sunday).
+- **Attendance**: Maintain a 90% attendance rate for weekly office hours (Saturday and Sunday). See [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md)
 
 - **Capstone Project**: Complete a capstone project that demonstrates the ability to apply learned skills to a real-world problem. The project must be approved by the ArewaDS Team.
 
@@ -78,11 +78,15 @@ You can find the list of accepted fellows, the mentor-mentee list, the recording
 | Kickoff Recording Ethiqueet |  [Link to Recording](https://www.youtube.com/watch?v=q6sQmF_nu6U)  |
 | Kickoff Slides    | [Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=false&loop=false&delayms=3000) |
 
+
 We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
 
 ## Stage 1: Getting Started
 
 **Duration: 6 weeks**
+
+| Stage 1 Attendance List   | [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md) |
+
 
 The first part of our fellowship focuses on building a strong foundation in the essential tools used in Data Science and Machine Learning.
 We'll guide you through:
