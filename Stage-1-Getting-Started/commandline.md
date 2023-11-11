@@ -40,9 +40,9 @@ pwd
 - **Command**: `ls` (Linux/Mac) or `dir` (Windows)
 - **Purpose**: Lists all files and directories in the current directory.
 - **Usage**:
-  ```bash
-  ls
-  ```
+```bash
+ls
+```
   
 ### Changing Directories
 
