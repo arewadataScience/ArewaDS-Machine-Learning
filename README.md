@@ -123,10 +123,12 @@ We have provided detailed instructions, but you might not understand all the det
 | |   VSCode for DataScience      | [VScode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md) |  | [Dr. Shamsudden](https://www.linkedin.com/in/shmuhammad/)|
 | |  Working with GitHub in VS Code       | [GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github) |  | [Dr. Shamsudden](https://www.linkedin.com/in/shmuhammad/)|
 |  | Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/markdown.md) |  | [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/) |
-|  |  Customizing GitHub profile    | [Customizing Profile](#) | [recording](#) |  [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
+|  |  Customizing GitHub profile    | [Customizing Profile](#) |  |  [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
 |  | GitHub for Collaboration      | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md) |  |  [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
-|  | Google Colab     | [Google Colab](#) | [recording](#) | | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)|
-|  | Generative AI     | [Generative AI](#) | [recording](#) | TBD|
+|  | Google Colab     | [Google Colab](#) | | | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)|
+|  | Generative AI     ||  | TBD|
+|  | Learning Porgramming with ChatGPT     |  |  | TBD|
+
 
 
 
