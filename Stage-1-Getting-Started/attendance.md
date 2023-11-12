@@ -21,48 +21,48 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 
 | Name                                                       |   11/11 |   12/11 |   18/11  | 19/11 |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |       Percentage |
 |:-----------------------------------------------------------|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------------------:|
-| Nyoru Sam                                                  |       |        |        |        |        |        |        |        |        |        |                       |
-| Usman Muhammad                                   |       |        |        |        |        |        |        |        |        |        |                   98.82 |
-| Olawadere Taye                              |      84 |        |        |        |        |        |        |        |        |        |                       98.82 |
-| Quadri Ganiu Olawale                                     |      84 |        |        |        |        |        |        |        |        |        |                        98.82 |
+| Nyoru Sam                                                  |       0|        |        |        |        |        |        |        |        |       0.00 |                       |
+| Usman Muhammad                                   |       0|        |        |        |        |        |        |        |        |        |                   50.0 |
+| Olawadere Taye                              |      0 |        |        |        |        |        |        |        |        |        |                       0.00|
+| Quadri Ganiu Olawale                                     |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
 | Ntong Bala                                                 |      84 |        |        |        |        |        |        |        |        |        |                        98.82 |
-| Albert Christopher                                           |      84 |        |        |        |        |        |        |        |        |        |                        98.82 |
-| Umar Faruq Abdullahi                                                   |      84 |        |        |        |        |        |        |        |        |        |                        98.82 |
-| Hafsat Bibi                                  |      84 |        |        |        |        |        |        |        |        |        |                        98.82 |
-| Mutala Gbembegu Jamal-Deen                                           |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| Sanagri Habiba Muhammad                                     |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| Muazu Muhammad Shuaibu                                   |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| Musa Adamu                                       |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| Muhammad Usman                                             |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| Muhammad Saleh Ibrahim                                              |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| Zarah Malah Kachala                                            |      83 |        |        |        |        |        |        |        |        |        |                        97.65 |
-| Abdullahi Garba Mohammed                                           |      82 |        |        |        |        |        |        |        |        |        |                        96.47 |
-| Rabiu Usman Sani                                         |        78|        |         |       |         |        |    |       |        |       |                             91.76 |            
-| Sadisu Rabiu Khamis                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ishaq Ibrahim                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Salisu Bashir                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Sadiq Muhammad Aliyu                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Yunus Isah                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Auwal Ismail Musa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ibrahim Ali                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ibrahim Dazeen Danjuma                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abbas Adam Abba                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Habib Yusuf                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Salau                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Zainab Ya'u Abubakar                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Faud Sani Ibrahim                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Masud Abdul Yaqeen                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ibrahim Abdullahi Aliyu                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| UmaralFaruq Isa Umar                                        |           |       |        |         |         |        |    |         |        |           |                             | 
-| Rahma Aliyu Yusuf                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Sabiu                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Shariff Muddassir                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Naziru Abdussalam Ibrahim                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Musbahu Umar Yakubu                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ibrahim Suleiman Hussain                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Muhammadu Hamza Yalwa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Fatima Ado Musa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| UsmanIdris Usman                                      |           |       |        |         |         |        |    |         |        |           |                             | 
+| Albert Christopher                                           |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Umar Faruq Abdullahi                                                   |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Hafsat Bibi                                  |      0|        |        |        |        |        |        |        |        |        |                        0.00 |
+| Mutala Gbembegu Jamal-Deen                                           |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Sanagri Habiba Muhammad                                     |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Muazu Muhammad Shuaibu                                   |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Musa Adamu                                       |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Muhammad Usman                                             |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Muhammad Saleh Ibrahim                                              |      11 |        |        |        |        |        |        |        |        |        |                        12.94 |
+| Zarah Malah Kachala                                            |      72 |        |        |        |        |        |        |        |        |        |                        84.71 |
+| Abdullahi Garba Mohammed                                           |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
+| Rabiu Usman Sani                                         |        84|        |         |       |         |        |    |       |        |       |                             98.82 |            
+| Sadisu Rabiu Khamis                                       |         0  |       |        |         |         |        |    |         |        |           |                           0.00  | 
+| Ishaq Ibrahim                                       |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Salisu Bashir                                       |     83      |       |        |         |         |        |    |         |        |           |                             97.65| 
+| Sadiq Muhammad Aliyu                                       |           10|       |        |         |         |        |    |         |        |           |                             11.75| 
+| Yunus Isah                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Auwal Ismail Musa                                       | 0           |       |        |         |         |        |    |         |        |           |                          0.00   | 
+| Ibrahim Ali                                       |           0|       |        |         |         |        |    |         |        |           |                            0.00 | 
+| Ibrahim Dazeen Danjuma                                       |    0       |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abbas Adam Abba                                      |           52|       |        |         |         |        |    |         |        |           |                             61.18| 
+| Habib Yusuf                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Salau                                       |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Zainab Ya'u Abubakar                                     |  57         |       |        |         |         |        |    |         |        |           |                           67.06  | 
+| Faud Sani Ibrahim                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Masud Abdul Yaqeen                                     |        0   |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Ibrahim Abdullahi Aliyu                                       |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| UmaralFaruq Isa Umar                                        |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Rahma Aliyu Yusuf                                       |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Sabiu                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Shariff Muddassir                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Naziru Abdussalam Ibrahim                                       |  49         |       |        |         |         |        |    |         |        |           |                            57.65 | 
+| Musbahu Umar Yakubu                                     |           83|       |        |         |         |        |    |         |        |           |                             97.65| 
+| Ibrahim Suleiman Hussain                                      |    0       |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Muhammadu Hamza Yalwa                                       |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Fatima Ado Musa                                       |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Usman Idris Usman                                      |   0        |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Fauziyya Sani Yunusa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
 | Shafiu Muhammad                                       |           |       |        |         |         |        |    |         |        |           |                             | 
 | Muhammad Mujahid Haruna                                      |           |       |        |         |         |        |    |         |        |           |                             | 
