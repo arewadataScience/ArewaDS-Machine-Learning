@@ -128,5 +128,8 @@ cat example.txt
 This tutorial has covered the basics of using the command line, providing you with the foundational skills necessary for many tasks in software development, data science, and system management. As you gain more comfort with these commands, you'll find the command line to be a powerful tool in your toolkit.
 
 
+## Resources
 
+-  [Linux Command Line Basics](https://www.udemy.com/course/linux-command-line-volume1/) This is an introductory course to the Linux command Line. It's great for both Linux beginners and advanced Linux users. It is 5 hours on-demand video.
+-  If you are an Arewa Data Science Fellow interested in doing the course, email us to give you access to this course to complete. 
 
