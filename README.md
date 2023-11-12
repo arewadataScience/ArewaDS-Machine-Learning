@@ -106,6 +106,7 @@ Fellows are expected to complete the course "Learning How to Learn" from Courser
 | Learning How to Learn Course         | [Go to course](https://www.coursera.org/learn/learning-how-to-learn)            |
 | How to Apply for Coursera Financial Aid | [Watch the video](https://www.youtube.com/watch?v=13rUEAq5Hgo) |
 
+> Kindly note that if you would like to get started immediately after applying for the financial aid, you would need to click on `Audit Course` at the final page of the application, otherwise, you would need to wait the two weeks for the financial aid application to be approved. In addition, while auditing the course, one can only watch the videos and learn without the ability to submit the graded quizzes or earn the certificate.
 
 ### Setup and Installation
 
