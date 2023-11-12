@@ -130,6 +130,8 @@ This tutorial has covered the basics of using the command line, providing you wi
 
 ## Resources
 
--  [Linux Command Line Basics](https://www.udemy.com/course/linux-command-line-volume1/) This is an introductory course to the Linux command Line. It's great for both Linux beginners and advanced Linux users. It is 5 hours on-demand video.
--  If you are an Arewa Data Science Fellow interested in doing the course, email us to give you access to this course to complete. 
+- Youtube: [Command Line Crash Course For Beginners | Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw)
+
+- Youtube: [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+- Udemy : [Linux Command Line Basics](https://www.udemy.com/course/linux-command-line-volume1/) This is an introductory course to the Linux command Line. It's great for both Linux beginners and advanced Linux users. It is 5 hours on-demand video. This is not free. 
 
