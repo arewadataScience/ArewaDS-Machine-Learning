@@ -51,7 +51,7 @@ The workspace directory/repository is where you will place everything you are wo
 <img src='media/createrepo.png' alt='Finder' width="75%" />
 
 1. Click the "+" button in the upper-right corner of GitHub and select `New repository`.
-2. Create a repository named `arewa-datascience`.
+2. Create a repository named `arewa-ds-workspace`.
    - Choose `Private` - this is your private work environment where nobody else will have access but you.
    - Initialize it with a `README`.
    - Select a Python `.gitignore` file. This file does exactly what it sounds like - it tells `git` which files to ignore when transfering files between your computer and `GitHub`.
