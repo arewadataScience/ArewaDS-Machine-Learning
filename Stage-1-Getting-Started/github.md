@@ -116,7 +116,7 @@ Let's clone the [`ArewaDS-Machine-Learning`](https://github.com/arewadataScience
 cd ~/projects
 ```
 
-**Step 2:** Clone the Prep Course repository (it's the same that contains the README you're reading right now!):
+**Step 2:** Clone the ArewaDS-Machine-Learning course repository (the repository you're reading right now!):
 
 ```bash
 git clone https://github.com/arewadataScience/ArewaDS-Machine-Learning.git
