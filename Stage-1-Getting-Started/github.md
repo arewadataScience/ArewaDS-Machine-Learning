@@ -63,7 +63,11 @@ You can also check [Creating a new repository](https://help.github.com/en/articl
  
 ### Step 3: Clone Your Repository
 
-Your workspace repository now exists on `GitHub`, but you also need a local copy (clone) on your computer. You will be working in the local repository and then transfer your work to your remote workspace repository on `GitHub`.
+- Your workspace repository now exists on `GitHub`, but you also need a local copy (clone) on your computer. 
+
+- To work on your projects locally, you need to clone your repository.
+
+- You will be working in the local repository and then transfer your work to your remote workspace repository on `GitHub`.
 
 **Step 1:** Open a terminal (or use one you've already opened).
 
