@@ -71,7 +71,7 @@ You can also check [Creating a new repository](https://help.github.com/en/articl
 
 **Step 1:** Open a terminal (or use one you've already opened).
 
-**Step 2:** Create a folder named `projects` by using the `mkdir` command. Don't feel intimidated by these commands. They are simply `bash` - a language to communicate with your operating system. `mkdir` essentially stands for **m**a**k**e **dir**ectory. The tilde symbol `~` is a shortcut address for your home directory.
+**Step 2:** Create a folder named `projects` by using the `mkdir` command. `mkdir` essentially stands for **m**a**k**e **dir**ectory. The tilde symbol `~` is a shortcut address for your home directory.
 
 ```bash
 mkdir ~/projects
