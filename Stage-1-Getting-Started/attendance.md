@@ -132,7 +132,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Fa'iza Adam Kankarofi                                     |     0      |       |        |         |         |        |    |         |        |           |                             | 
 | Hadiza Shettima                                     |     0      |       |        |         |         |        |    |         |        |           |                             | 
 | Amina Abdulazeez Mamman                                      |     0      |       |        |         |         |        |    |         |        |           |      | 
-| Zainab Ya'u Ibrahim  |         0 | 67       |            |           |           |                  |           | 
+| Zainab Ya'u Ibrahim  |         0 | 78      |            |           |           |                  |           | 
 |         |           |           | 
 |  Nana Firdausi Abdulrahim |     0   | 91    |         |          |          |            |              |            |
 |            |            |
