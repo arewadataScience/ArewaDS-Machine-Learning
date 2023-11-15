@@ -131,4 +131,8 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Mufida Garba Yaro                                    |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Fa'iza Adam Kankarofi                                     |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Hadiza Shettima                                     |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Amina Abdulazeez Mamman                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Amina Abdulazeez Mamman                                      |     0      |       |        |         |         |        |    |         |        |           |      0.00| 
+| Zainab Ya'u Ibrahim  |          | 0       |          67  |           |           |                  |           | 
+|         |           |           | 
+|  Nana Firdausi Abdulrahim |        | 0      |     91    |          |          |            |              |            |
+|            |            |
