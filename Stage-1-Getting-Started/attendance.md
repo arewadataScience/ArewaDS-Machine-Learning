@@ -78,7 +78,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Umar Aliyu Ibrahim                                       |           56|       |        |         |         |        |    |         |        |           |                             65.88| 
 | Shafiu Muhammad                                      |           64|       |        |         |         |        |    |         |        |           |                             75.29| 
 | Muhammad Mujahid Haruan                                     |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Ahmad Saad                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Ahmad Saad                                     |           52|     56  |        |         |         |        |    |         |        |           |                             | 
 | Yahaya Muhammad                                      |  45         |       |        |         |         |        |    |         |        |           |                            52.94 | 
 | Gideon Markus                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
 | Abubakar Said Suleiman                                     |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
