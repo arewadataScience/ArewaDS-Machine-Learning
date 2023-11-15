@@ -114,25 +114,25 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Haleemah Hamzah                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
 | Kasali Yusuf Oloriegbe                                      |  0         |       |        |         |         |        |    |         |        |           |                            0.00 | 
 | Amori Umar Faruq                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Oladimeji Williams                                     |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Precious                                    |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Obianuju Lilian Onuoha                                     | 83          |       |        |         |         |        |    |         |        |           |                           97.65  | 
-| Abdulrasheed Ayinde Abdulraheem                                     | 62          |       |        |         |         |        |    |         |        |           |                           72.94  | 
-| Olayinka Babalola                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Faisal Mustapha Muhammad                                      | 32          |       |        |         |         |        |    |         |        |           |                           37.65  | 
-| Abdullateef Mubarak                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Umar Shehu                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Abdulrahman Ahmed O.                                     |     75      |       |        |         |         |        |    |         |        |           |                             88.24| 
-| Muhammadu Rabiu Halima olayinka                                      | 0          |       |        |         |         |        |    |         |        |           |                           0.00  | 
-| Usman Adamu Muhammad                                     |           69|      |        |         |         |        |    |         |        |           |                             81.18| 
-| Peter Dalatu                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Abubakar Idi                                     |         0  |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Fikerte Mariam                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Mufida Garba Yaro                                    |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Fa'iza Adam Kankarofi                                     |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Hadiza Shettima                                     |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Amina Abdulazeez Mamman                                      |     0      |       |        |         |         |        |    |         |        |           |      0.00| 
-| Zainab Ya'u Ibrahim  |          | 0       |          67  |           |           |                  |           | 
+| Oladimeji Williams                                     |       0    |       |        |         |         |        |    |         |        |           |                             | 
+| Precious                                    |           0|       |        |         |         |        |    |         |        |           |                             | 
+| Obianuju Lilian Onuoha                                     | 83          |       |        |         |         |        |    |         |        |           |                            | 
+| Abdulrasheed Ayinde Abdulraheem                                     | 62          |       |        |         |         |        |    |         |        |           |                             | 
+| Olayinka Babalola                                      |           0|       |        |         |         |        |    |         |        |           |                             | 
+| Faisal Mustapha Muhammad                                      | 32          |       |        |         |         |        |    |         |        |           |                           | 
+| Abdullateef Mubarak                                      |           0|       |        |         |         |        |    |         |        |           |                             |
+| Umar Shehu                                     |           0|       |        |         |         |        |    |         |        |           |                             | 
+| Abdulrahman Ahmed O.                                     |     75      |       |        |         |         |        |    |         |        |           |                             | 
+| Muhammadu Rabiu Halima olayinka                                      | 0          |       |        |         |         |        |    |         |        |           |                            | 
+| Usman Adamu Muhammad                                     |           69|      |        |         |         |        |    |         |        |           |                             | 
+| Peter Dalatu                                      |           0|       |        |         |         |        |    |         |        |           |                             | 
+| Abubakar Idi                                     |         0  |       |        |         |         |        |    |         |        |           |                             | 
+| Fikerte Mariam                                      |     0      |       |        |         |         |        |    |         |        |           |                             | 
+| Mufida Garba Yaro                                    |     0      |       |        |         |         |        |    |         |        |           |                             | 
+| Fa'iza Adam Kankarofi                                     |     0      |       |        |         |         |        |    |         |        |           |                             | 
+| Hadiza Shettima                                     |     0      |       |        |         |         |        |    |         |        |           |                             | 
+| Amina Abdulazeez Mamman                                      |     0      |       |        |         |         |        |    |         |        |           |      | 
+| Zainab Ya'u Ibrahim  |         0 | 67       |            |           |           |                  |           | 
 |         |           |           | 
-|  Nana Firdausi Abdulrahim |        | 0      |     91    |          |          |            |              |            |
+|  Nana Firdausi Abdulrahim |     0   | 91    |         |          |          |            |              |            |
 |            |            |
