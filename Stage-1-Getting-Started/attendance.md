@@ -21,26 +21,26 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 
 | Name                                                       |   11/11 |   12/11 |   18/11  | 19/11 |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |       Percentage |
 |:-----------------------------------------------------------|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------------------:|
-| Nyoru Sam                                                  |       0|        |        |        |        |        |        |        |        |        |                     0.00  |
-| Usman Muhammad                                   |       0|        |        |        |        |        |        |        |        |        |                   50.0 |
-| Olawadere Taye                              |      0 |        |        |        |        |        |        |        |        |        |                       0.00|
-| Quadri Ganiu Olawale                                     |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Ntong Bala                                                 |      84 |        |        |        |        |        |        |        |        |        |                        98.82 |
-| Albert Christopher                                           |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Umar Faruq Abdullahi                                                   |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Hafsat Bibi                                  |      0|        |        |        |        |        |        |        |        |        |                        0.00 |
-| Mutala Gbembegu Jamal-Deen                                           |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Sanagri Habiba Muhammad                                     |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Muazu Muhammad Shuaibu                                   |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Musa Adamu                                       |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Muhammad Usman                                             |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Muhammad Saleh Ibrahim                                              |      11 |        |        |        |        |        |        |        |        |        |                        12.94 |
-| Zarah Malah Kachala                                            |      72 |        |        |        |        |        |        |        |        |        |                        84.71 |
-| Abdullahi Garba Mohammed                                           |      0 |        |        |        |        |        |        |        |        |        |                        0.00 |
-| Rabiu Usman Sani                                         |        84|        |         |       |         |        |    |       |        |       |                             98.82 |            
-| Sadisu Rabiu Khamis                                       |         0  |       |        |         |         |        |    |         |        |           |                           0.00  | 
-| Ishaq Ibrahim                                       |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Abubakar Salisu Bashir                                       |     83      |       |        |         |         |        |    |         |        |           |                             97.65| 
+| Nyoru Sam                                                  |       0|        |        |        |        |        |        |        |        |        |                      |
+| Usman Muhammad                                   |       0|        |        |        |        |        |        |        |        |        |                    |
+| Olawadere Taye                              |      0 |        |        |        |        |        |        |        |        |        |                       |
+| Quadri Ganiu Olawale                                     |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Ntong Bala                                                 |      84 |        |        |        |        |        |        |        |        |        |                         |
+| Albert Christopher                                           |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Umar Faruq Abdullahi                                                   |      0 |        |        |        |        |        |        |        |        |        |                        |
+| Hafsat Bibi                                  |      0|        |        |        |        |        |        |        |        |        |                        |
+| Mutala Gbembegu Jamal-Deen                                           |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Sanagri Habiba Muhammad                                     |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Muazu Muhammad Shuaibu                                   |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Musa Adamu                                       |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Muhammad Usman                                             |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Muhammad Saleh Ibrahim                                              |      11 |        |        |        |        |        |        |        |        |        |                        |
+| Zarah Malah Kachala                                            |      72 |        |        |        |        |        |        |        |        |        |                         |
+| Abdullahi Garba Mohammed                                           |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Rabiu Usman Sani                                         |        84|        |         |       |         |        |    |       |        |       |                             |            
+| Sadisu Rabiu Khamis                                       |         0  |       |        |         |         |        |    |         |        |           |                            | 
+| Ishaq Ibrahim                                       |           0|       |        |         |         |        |    |         |        |           |                             | 
+| Abubakar Salisu Bashir                                       |     83      |       |        |         |         |        |    |         |        |           |                             | 
 | Sadiq Muhammad Aliyu                                       |           10|       |        |         |         |        |    |         |        |           |                             11.75| 
 | Yunus Isah                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
 | Auwal Ismail Musa                                       | 0           |       |        |         |         |        |    |         |        |           |                          0.00   | 
