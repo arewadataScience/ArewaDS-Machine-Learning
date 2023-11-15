@@ -63,69 +63,72 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Muhammadu Hamza Yalwa                                       |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Fatima Ado Musa                                       |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
 | Usman Idris Usman                                      |   0        |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Fauziyya Sani Yunusa                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Shafiu Muhammad                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Muhammad Mujahid Haruna                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Halima Mahmod                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Aminu                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Shamsuddeen Salihu                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Yakubu Zandam                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Salisu Ibrahim                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Fatima Usman Muhammad                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Nasiru Mahadi                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Adamu Hassan Ali                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Bashir Iliyasu Bashir                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Umar Aliyu Ibrahim                                       |           |       |        |         |         |        |    |         |        |           |                             | 
-| Shafiu Muhammad                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Muhammad Mujahid Haruan                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ahmad Saad                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Yahaya Muhammad                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Gideon Markus                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Saiq Suleiman                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Zidan Musa Modibbo                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Hajara Muhamad Ladan                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Sadiya Abdllahi Ladan                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Yusuf Yakubu Yusuf                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Bello Abdulahi                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Nana Firdausi Abdulrahman                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Surajo Adamu                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Salisu s Zubairu                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Sani Bala Usman                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Fatima Tukur                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ibrahim Manasseh                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Musa Muhammad Khalid                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ibrahim Abbas                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-|   Safiyanu Ibrahim                                    |           |       |        |         |         |        |    |         |        |           |                             | 
-| Salmanu Muntari                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Ali Saleh                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Hauwa'u Zakariya'u Ibrahim                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abdulkadir Abubakar Abubakar                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Ruwa                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Zarau Bello Baidu                                    |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar G. Saleh                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Usman Muhammad Shehu                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abdullahi Mujaheed Saleh                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Fa'iz Ibrahim Jibia                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Wenoumi Rejoice                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Abubakar Al-amin                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Aliyu Abubakar Lamido                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Umar Faruk Ibrahim                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Weddy Nkatha Murithi                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Haleemah Hamzah                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Kasali Yusuf Oloriegbe                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Amori Umar Faruq                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Oladimeji Williams                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Precious                                    |           |       |        |         |         |        |    |         |        |           |                             | 
-| Obianuju Lilian Onuoha                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abdulrasheed Ayinde Abdulraheem                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Olayinka Babalola                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Faisal Mustapha Muhammad                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abdullateef Mubarak                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Umar Shehu                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abdulrahman Ahmed O.                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Muhammadu Rabiu Halima olayinka                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Usman Adamu Muhammad                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Peter Dalatu                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Idi                                     |           |       |        |         |         |        |    |         |        |           |                             | 
-| Fikerte Mariam                                      |           |       |        |         |         |        |    |         |        |           |                             | 
-
+| Fauziyya Sani Yunusa                                       |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Shafiu Muhammad                                       |           64|       |        |         |         |        |    |         |        |           |                             75.29| 
+| Muhammad Mujahid Haruna                                      |   0        |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Halima Mahmod                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Aminu                                       |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Shamsuddeen Salihu                                       |     0      |       |        |         |         |        |    |         |        |           |                            0.00 | 
+| Abubakar Yakubu Zandam                                       |   81        |       |        |         |         |        |    |         |        |           |                             95.29| 
+| Salisu Ibrahim                                       |           74|       |        |         |         |        |    |         |        |           |                             87.06| 
+| Fatima Usman Muhammad                                       |   76        |       |        |         |         |        |    |         |        |           |                             89.41| 
+| Nasiru Mahadi                                       |           83|       |        |         |         |        |    |         |        |           |                             97.65| 
+| Adamu Hassan Ali                                       |        23   |       |        |         |         |        |    |         |        |           |                             27.06| 
+| Bashir Iliyasu Bashir                                       |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Umar Aliyu Ibrahim                                       |           56|       |        |         |         |        |    |         |        |           |                             65.88| 
+| Shafiu Muhammad                                      |           64|       |        |         |         |        |    |         |        |           |                             75.29| 
+| Muhammad Mujahid Haruan                                     |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Ahmad Saad                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Yahaya Muhammad                                      |  45         |       |        |         |         |        |    |         |        |           |                            52.94 | 
+| Gideon Markus                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Said Suleiman                                     |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Zidan Musa Modibbo                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Hajara Muhammad Ladan                                     | 0          |       |        |         |         |        |    |         |        |           |                          0.00   | 
+| Sadiya Abdullahi Ladan                                      | 71          |       |        |         |         |        |    |         |        |           |                           0.00  | 
+| Yusuf Yakubu Yusuf                                      |           33|       |        |         |         |        |    |         |        |           |                             38.82| 
+| Bello Abdullahi                                      |        83   |       |        |         |         |        |    |         |        |           |                             97.65| 
+| Nana Firdausi Abdulrahman                                      |0           |       |        |         |         |        |    |         |        |           |                          0.00   | 
+| Surajo Adamu                                      |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Salisu s Zubairu                                      |    0       |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Sani Bala Usman                                      |         41  |       |        |         |         |        |    |         |        |           |                             48.24| 
+| Fatima Tukur                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Ibrahim Manasseh                                      |   0        |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Musa Muhammad Khalid                                      |    0       |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Ibrahim Abbas                                      |           40|       |        |         |         |        |    |         |        |           |                             47.06| 
+|   Safiyanu Ibrahim                                    |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Salmanu Muntari                                     |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Ali Saleh                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Hauwa'u Zakariya'u Ibrahim                                     | 0          |       |        |         |         |        |    |         |        |           |                           0.00  | 
+| Abdulkadir Abubakar Abubakar                                      |        0   |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Ruwa                                     |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Zarau Bello Baidu                                    |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar G. Saleh                                      |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Usman Muhammad Shehu                                     |      26     |       |        |         |         |        |    |         |        |           |                             30.59| 
+| Abdullahi Mujaheed Saleh                                     |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Fa'iz Ibrahim Jibia                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Wenoumi Rejoice                                     |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Abubakar Al-amin                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Aliyu Abubakar Lamido                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Umar Faruk Ibrahim                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Weddy Nkatha Murithi                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Haleemah Hamzah                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Kasali Yusuf Oloriegbe                                      |  0         |       |        |         |         |        |    |         |        |           |                            0.00 | 
+| Amori Umar Faruq                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Oladimeji Williams                                     |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Precious                                    |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Obianuju Lilian Onuoha                                     | 83          |       |        |         |         |        |    |         |        |           |                           97.65  | 
+| Abdulrasheed Ayinde Abdulraheem                                     | 62          |       |        |         |         |        |    |         |        |           |                           72.94  | 
+| Olayinka Babalola                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Faisal Mustapha Muhammad                                      | 32          |       |        |         |         |        |    |         |        |           |                           37.65  | 
+| Abdullateef Mubarak                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Umar Shehu                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abdulrahman Ahmed O.                                     |     75      |       |        |         |         |        |    |         |        |           |                             88.24| 
+| Muhammadu Rabiu Halima olayinka                                      | 0          |       |        |         |         |        |    |         |        |           |                           0.00  | 
+| Usman Adamu Muhammad                                     |           69|      |        |         |         |        |    |         |        |           |                             81.18| 
+| Peter Dalatu                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Idi                                     |         0  |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Fikerte Mariam                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Mufida Garba Yaro                                    |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Fa'iza Adam Kankarofi                                     |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Hadiza Shettima                                     |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
+| Amina Abdulazeez Mamman                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
