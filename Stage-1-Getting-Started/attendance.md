@@ -29,7 +29,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Albert Christopher                                           |      0 |        |        |        |        |        |        |        |        |        |                         |
 | Umar Faruq Abdullahi                                                   |      0 |        |        |        |        |        |        |        |        |        |                        |
 | Hafsat Bibi                                  |      0|        |        |        |        |        |        |        |        |        |                        |
-| Mutala Gbembegu Jamal-Deen                                           |      0 |        |        |        |        |        |        |        |        |        |                         |
+| Mutala Gbembegu Jamal-Deen                                           |      0 |     47   |        |        |        |        |        |        |        |        |                         |
 | Sanagri Habiba Muhammad                                     |      0 |        |        |        |        |        |        |        |        |        |                         |
 | Muazu Muhammad Shuaibu                                   |      0 |        |        |        |        |        |        |        |        |        |                         |
 | Musa Adamu                                       |      0 |        |        |        |        |        |        |        |        |        |                         |
@@ -66,7 +66,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Fauziyya Sani Yunusa                                       |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Shafiu Muhammad                                       |           64|       |        |         |         |        |    |         |        |           |                             75.29| 
 | Muhammad Mujahid Haruna                                      |   0        |       |        |         |         |        |    |         |        |           |                             0.00| 
-| Halima Mahmod                                     |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Halima Mahmoud                                     |          83 |    91   |        |         |         |        |    |         |        |           |                             | 
 | Abubakar Aminu                                       |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Shamsuddeen Salihu                                       |     0      |       |        |         |         |        |    |         |        |           |                            0.00 | 
 | Abubakar Yakubu Zandam                                       |   81        |       |        |         |         |        |    |         |        |           |                             95.29| 
