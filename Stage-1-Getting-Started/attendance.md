@@ -123,7 +123,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Abdullateef Mubarak                                      |           0|   0    |        |         |         |        |    |         |        |           |                             |
 | Umar Shehu                                     |           0|    0   |        |         |         |        |    |         |        |           |                             | 
 | Abdulrahman Ahmed O.                                     |     75      | 0      |        |         |         |        |    |         |        |           |                             | 
-| Muhammadu Rabiu Halima olayinka                                      | 0          |  0     |        |         |         |        |    |         |        |           |                            | 
+| Muhammadurabiu Halimat oyiza                                      | 0          |  0     |        |         |         |        |    |         |        |           |                            | 
 | Usman Adamu Muhammad                                     |           69|  82    |        |         |         |        |    |         |        |           |                             | 
 | Peter Dalatu                                      |           0|   0    |        |         |         |        |    |         |        |           |                             | 
 | Abubakar Idi                                     |         0  |  0     |        |         |         |        |    |         |        |           |                             | 
