@@ -55,7 +55,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Ibrahim Abdullahi Aliyu                                       |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
 | UmaralFaruq Isa Umar                                        |          0 |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Rahma Aliyu Yusuf                                       |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Abubakar Sabiu                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
+| Abubakar Sabiu                                      |           0|    90   |        |         |         |        |    |         |        |           |                             | 
 | Shariff Muddassir                                      |     0      |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Naziru Abdussalam Ibrahim                                       |  49         |       |        |         |         |        |    |         |        |           |                            57.65 | 
 | Musbahu Umar Yakubu                                     |           83|       |        |         |         |        |    |         |        |           |                             97.65| 
