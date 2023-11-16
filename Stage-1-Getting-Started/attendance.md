@@ -83,7 +83,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Gideon Markus                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
 | Abubakar Said Suleiman                                     |       0    |       |        |         |         |        |    |         |        |           |                             0.00| 
 | Zidan Musa Modibbo                                      |           0|       |        |         |         |        |    |         |        |           |                             0.00| 
-| Hajara Muhammad Ladan                                     | 0          |       |        |         |         |        |    |         |        |           |                          0.00   | 
+| Hajara Muhammad Ladan                                     |       62  |     88  |        |         |         |        |    |         |        |           |                          | 
 | Sadiya Abdullahi Ladan                                      | 71          |       |        |         |         |        |    |         |        |           |                           0.00  | 
 | Yusuf Yakubu Yusuf                                      |           33|       |        |         |         |        |    |         |        |           |                             38.82| 
 | Bello Abdullahi                                      |        83   |       |        |         |         |        |    |         |        |           |                             97.65| 
@@ -136,3 +136,4 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 |         |           |           | 
 |  Nana Firdausi Abdulrahim |     0   | 91    |         |          |          |            |              |            |
 |            |            |
+| Khadijah Ibrahim Balarabe |    9 |        91  |       |          |         |           |          |            |        |       |          |
