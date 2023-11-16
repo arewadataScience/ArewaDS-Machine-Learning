@@ -121,7 +121,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Olayinka Babalola                                      |           0|  83     |        |         |         |        |    |         |        |           |                             | 
 | Faisal Mustapha Muhammad                                      | 32          | 78      |        |         |         |        |    |         |        |           |                           | 
 | Abdullateef Mubarak                                      |           0|   0    |        |         |         |        |    |         |        |           |                             |
-| Umar Shehu                                     |           0|       |   0     |         |         |        |    |         |        |           |                             | 
+| Umar Shehu                                     |           0|    0   |        |         |         |        |    |         |        |           |                             | 
 | Abdulrahman Ahmed O.                                     |     75      | 0      |        |         |         |        |    |         |        |           |                             | 
 | Muhammadu Rabiu Halima olayinka                                      | 0          |  0     |        |         |         |        |    |         |        |           |                            | 
 | Usman Adamu Muhammad                                     |           69|  82    |        |         |         |        |    |         |        |           |                             | 
