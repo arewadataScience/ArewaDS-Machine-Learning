@@ -20,3 +20,4 @@ __pycache__
 .ipynb_checkpoints
 # Ignore global Jupyter configuration directory
 .jupyter/jupyter_nbconvert_config.py
+.DS_Store
