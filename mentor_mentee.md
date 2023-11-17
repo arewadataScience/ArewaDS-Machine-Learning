@@ -119,4 +119,4 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Peter Dalatu | Adamawa | 
 |  | Abubakar Idi | Adamawa | 
 |  | Fikete Mariam | Ethiopia | 
-
+|  | Aisha Salihu Abdul | Bauchi | 
