@@ -138,3 +138,4 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 |            |            |
 | Khadijah Ibrahim Balarabe |    9 |        91  |       |          |         |           |          |            |        |       |          |
 | Muhammad Dahiru Usman |    84  |      90    |         |            |          |           |          |          |           |         |         |
+|  Zaharaddeen Nura Ibrahim |  83    |  90    |         |           |          |          |         |         |          |     |          |
