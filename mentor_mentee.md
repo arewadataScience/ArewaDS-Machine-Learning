@@ -120,3 +120,4 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Abubakar Idi | Adamawa | 
 |  | Fikete Mariam | Ethiopia | 
 |  | Aisha Salihu Abdul | Bauchi | 
+|  | Mufida Garba Yaro | Kano |
