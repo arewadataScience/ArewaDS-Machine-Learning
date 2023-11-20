@@ -94,7 +94,7 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Obianuju Lilian Onuoha | Lagos |
 |  | Abdulrasheed Ayinde Abdulraheem | Lagos |
 |  | Olayinka Babalola | Lagos |
-| Mahmoud Abiola             | Nyoru Sam                              |  Kenya               | Alamin Musa Magaga            |
+| Moshood Abiola             | Nyoru Sam                              |  Kenya               | Alamin Musa Magaga            |
 |  | Usman Muhammad | Nasarawa | Lukman Aliyu Jibril |
 |  | Oluwadare Taye | Ondo | 
 |  | Quadri Ganiu Olawale | Ondo |
