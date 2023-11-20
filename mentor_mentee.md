@@ -85,7 +85,7 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Sani Aji | Gombe | 
 |  | Abdulkadir Kawan Mustapha | Gombe | 
 |  | Umar Faruk Ibrahim | Gombe |
-| Anthony Enahoro   | Weddy Nkatha Murithi                 | Kenya  | Bala Mairiga Abdujalil        |
+| Anthony Enahoro   | Weddy Nkatha Murithi                 | Kenya  | Falalu Ibrahim      |
 |  | Haleemah Hamzah | Kwara | Muhammad Ibrahim Saleh |
 |  | Kasali Yusuf Oloriege | Kwara |
 |  | Amori Umar Faruq | Kwara |
