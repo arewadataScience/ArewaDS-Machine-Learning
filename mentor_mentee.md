@@ -90,7 +90,7 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Kasali Yusuf Oloriege | Kwara |
 |  | Amori Umar Faruq | Kwara |
 |  | Oladimeji williams | Lagos |
-|  | Precious | Lagos | 
+|  | Precious Golden| Lagos | 
 |  | Obianuju Lilian Onuoha | Lagos |
 |  | Abdulrasheed Ayinde Abdulraheem | Lagos |
 |  | Olayinka Babalola | Lagos |
