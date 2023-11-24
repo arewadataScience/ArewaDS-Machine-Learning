@@ -91,5 +91,12 @@ conda deactivate
 ```
 
 
+## Resources
+
+1. [The definitive guide to Python virtual environments with conda](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
+
+2. [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+3. Youtube: [Python - Setup Visual Studio Code with Anaconda](https://www.youtube.com/watch?v=sts3CFewvkY)
+
 
 
