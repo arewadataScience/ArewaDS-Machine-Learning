@@ -81,7 +81,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Ahmad Saad                                     |           52|     56  |        |         |         |        |    |         |        |           |                             | 
 | Yahaya Muhammad                                      |  45         |   89    |        |         |         |        |    |         |        |           |                             | 
 | Gideon Markus                                      |           0|  77     |        |         |         |        |    |         |        |           |                             | 
-| Abubakar Said Suleiman                                     |       0    |   0    |        |         |         |        |    |         |        |           |                             | 
+| Abubakar Sadiq Suleiman                                     |       0    |   0    |        |         |         |        |    |         |        |           |                             | 
 | Zidan Musa Modibbo                                      |           0|  78     |        |         |         |        |    |         |        |           |                             | 
 | Hajara Muhammad Ladan                                     |       62  |     88  |        |         |         |        |    |         |        |           |                          | 
 | Sadiya Abdullahi Ladan                                      | 71          |   0    |        |         |         |        |    |         |        |           |                            | 
