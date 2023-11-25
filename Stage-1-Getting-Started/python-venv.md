@@ -102,8 +102,14 @@ conda deactivate
 
 ```
 
-## Conda vs Pip 
+## Conda vs Pip : Key Differences
 
+
+1. **Scope**: `pip` is Python-specific, while `conda` handles packages in multiple languages.
+2. **Environment Management**: `conda` includes environment management, unlike `pip`.
+3. **Dependency Management**: `conda` offers comprehensive dependency management across Python and non-Python packages.
+4. **Source of Packages**: `pip` primarily uses PyPI, whereas `conda` uses the Anaconda repository and can integrate with PyPI.
+   
 | Task | Conda Command | Pip Command |
 |------|---------------|-------------|
 | Install a package | `conda install package_name` | `pip install package_name` |
