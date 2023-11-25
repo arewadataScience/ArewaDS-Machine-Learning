@@ -2,13 +2,13 @@
 
 In this section, you'll learn how to create and manage Python virtual environments for data science projects using conda. This knowledge is vital for maintaining organized, conflict-free, and reproducible data science projects. We will use [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/), a minimal installer for conda, to manage our virtual environments and dependencies. By the end, you will understand:
 
-![conda](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/conda.png)
-
-
 - Understanding Virtual Environments: Understanding their role in isolating dependencies for individual projects.
 - Conda Environment Setup: creating and maintaining a virtual environment using conda
 - Conda Package Management: Using Conda for installing and updating packages.
 - Activating Environments: How to activate and work within these environments.
+
+![conda](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/conda.png)
+
 
 ## Python Virtual Environment with Conda
 
