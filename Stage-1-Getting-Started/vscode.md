@@ -20,7 +20,10 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
 
 ## What is Jupyter Notebook ?
 
-Jupyter Notebook is an open-source web application widely used in fields like data science, scientific computing, and machine learning. It allows users to create and share documents that contain live code, equations, visualizations, and narrative text. One of its key features is the support for interactive data science and scientific computing, enabling users to execute code in segments, view outputs immediately, and annotate with explanations in Markdown format. Jupyter supports over 40 programming languages, including Python, R, Julia, and Scala, and integrates seamlessly with data visualization libraries, making it an excellent tool for inline graphing and charting.
+Jupyter (formerly IPython Notebook) is an open-source project that lets you easily combine Markdown text and executable Python source code on one canvas called a notebook. Visual Studio Code supports working with Jupyter Notebooks natively, and through Python code files. 
+
+
+Jupyter Notebook is widely used in fields like data science, scientific computing, and machine learning. It allows users to create and share documents that contain live code, equations, visualizations, and narrative text. One of its key features is the support for interactive data science and scientific computing, enabling users to execute code in segments, view outputs immediately, and annotate with explanations in Markdown format. Jupyter supports over 40 programming languages, including Python, R, Julia, and Scala, and integrates seamlessly with data visualization libraries, making it an excellent tool for inline graphing and charting.
 
 The versatility of Jupyter Notebook makes it an invaluable tool for a range of applications, from data cleaning and transformation to numerical simulation and statistical modeling. It's particularly beneficial for educational purposes, offering an interactive, collaborative environment for teaching coding and data science. Researchers and professionals alike appreciate Jupyter for its ability to facilitate reproducible research and its rich text support, including Markdown, HTML, LaTeX, and SVG. Additionally, its ability to convert notebooks into various formats like HTML and PDF, along with its extension and widget support, enhances its utility for data analysis, reporting, and sharing findings in both academic and industry settings.
 
@@ -108,8 +111,6 @@ The VS Code Marketplace offers a family of extensions that provide a first-class
 - Search for  `Jupyter`, `Pylance`, `IntelliCode Repositories`, `GitHub Copilot`, etc and install the extensions.
 
 ## Working with Jupyter Notebooks in VSCode
-
-Jupyter (formerly IPython Notebook) is an open-source project that lets you easily combine Markdown text and executable Python source code on one canvas called a notebook. Visual Studio Code supports working with Jupyter Notebooks natively, and through Python code files. 
 
 To work with Python in Jupyter Notebooks, you must activate a conda environment in VS Code, or another Python environment in which you've installed the Jupyter package. To select an environment, use the Python: Select Interpreter command from the Command Palette (⇧⌘P). Once the appropriate environment is activated, you can create and open a Jupyter Notebook, and export a Jupyter Notebook as a Python file.
 
