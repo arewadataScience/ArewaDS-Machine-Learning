@@ -157,6 +157,9 @@ After selecting a kernel, the language picker located in the bottom right of eac
   </tr>
 </table>
 
+> If you have an existing Jupyter Notebook, you can open it by right-clicking on the file and opening with VS Code, or through the VS Code File Explorer.
+
+
 ### Step 5: Run Notebook Cells
 
 - Once you have a notebook, you can write your Python code in a cell.
