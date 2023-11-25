@@ -43,7 +43,7 @@ Follow the installation instructions provided on the download page or in the ins
 conda create --name datascience python=3.8
 ```
 
-This creates an environment named datascience with Python 3.8.
+This creates an environment named datascience with Python 3.9.
 
 
 **Step 3:**  Activate the enviroment
