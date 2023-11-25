@@ -112,7 +112,7 @@ The VS Code Marketplace offers a family of extensions that provide a first-class
 
 ## Working with Jupyter Notebooks in VSCode
 
-To work with Python in Jupyter Notebooks, you must activate a conda environment in VS Code, or another Python environment in which you've installed the Jupyter package. To select an environment, use the Python: Select Interpreter command from the Command Palette (⇧⌘P). Once the appropriate environment is activated, you can create and open a Jupyter Notebook, and export a Jupyter Notebook as a Python file.
+To work with Python in Jupyter Notebooks, you must activate a conda environment in VS Code, or another Python environment in which you've installed the Jupyter package. To select an environment, use the `Python: Select Interpreter` command from the Command Palette (⇧⌘P). Once the appropriate environment is activated, you can create and open a Jupyter Notebook, and export a Jupyter Notebook as a Python file.
 
 
 ### Step 3: Open or Create a Jupyter Notebook
