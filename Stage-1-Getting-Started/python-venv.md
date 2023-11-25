@@ -104,10 +104,11 @@ conda deactivate
 
 ## Resources
 
-1. [The definitive guide to Python virtual environments with conda](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
+1. [Conda CheetSheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+2. [The definitive guide to Python virtual environments with conda](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
 
-2. [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
-3. Youtube: [Python - Setup Visual Studio Code with Anaconda](https://www.youtube.com/watch?v=sts3CFewvkY)
+3. [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+4. Youtube: [Python - Setup Visual Studio Code with Anaconda](https://www.youtube.com/watch?v=sts3CFewvkY)
 
 
 
