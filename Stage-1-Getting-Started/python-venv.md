@@ -102,8 +102,26 @@ conda deactivate
 
 ```
 
-## Conda vs Pip : Key Differences
+## Conda vs Pip 
 
+### pip
+
+- **Primary Focus**: pip is the package installer for Python. It is specifically designed to manage Python packages.
+- **Package Sources**: It installs packages from the Python Package Index (PyPI) and other indexes.
+- **Package Types**: pip is used for installing and managing Python libraries.
+- **Environment Management**: While pip can be used alongside virtual environment managers like `venv` to create isolated Python environments, it does not manage environments by itself.
+- **Dependency Resolution**: pip resolves dependencies purely within the Python ecosystem.
+
+### conda
+
+- **Primary Focus**: conda is a package and environment management system. It is designed to handle packages in any language, with a particular focus on Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN.
+- **Package Sources**: It installs packages from the Anaconda repository and can also integrate with PyPI. It is often used for data science and machine learning projects, particularly those that require complex dependencies.
+- **Package Types**: conda is used for installing both Python and non-Python packages.
+- **Environment Management**: conda excels in creating, exporting, listing, removing, and updating environments that have different versions of Python and/or packages installed.
+- **Dependency Resolution**: conda resolves dependencies across all the software in an environment, not just Python packages. This makes it more suitable for complex projects where non-Python packages are a requirement.
+
+
+### Key Differences
 
 1. **Scope**: `pip` is Python-specific, while `conda` handles packages in multiple languages.
 2. **Environment Management**: `conda` includes environment management, unlike `pip`.
@@ -120,6 +138,7 @@ conda deactivate
 | Create a virtual environment | `conda create --name env_name` | `python -m venv env_name` |
 | Activate a virtual environment | `conda activate env_name` | `source env_name/bin/activate` (Linux/Mac), `.\env_name\Scripts\activate` (Windows) |
 | Deactivate a virtual environment | `conda deactivate` | `deactivate` |
+
 
 
 
