@@ -14,7 +14,7 @@ In this section, you'll learn how to create and manage Python virtual environmen
 
 
 
-<img src="https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/virtual_env_issue.png" width="80" height="80">
+<img src="https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/virtual_env_issue.png" width="90" height="90">
 
 
 ## Python Virtual Environment with Conda
