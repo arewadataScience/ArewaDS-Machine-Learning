@@ -160,6 +160,9 @@ After selecting a kernel, the language picker located in the bottom right of eac
 > If you have an existing Jupyter Notebook, you can open it by right-clicking on the file and opening with VS Code, or through the VS Code File Explorer.
 
 
+After setting up Visual Studio Code for Jupyter Notebooks, the next step is to understand how to work effectively with code cells in the Notebook Editor. The next section discuss the process of creating, running, and managing code cells in Jupyter Notebooks within VS Code.
+
+
 ### Step 5: Run Notebook Cells
 
 - Once you have a notebook, you can write your Python code in a cell.
