@@ -7,13 +7,15 @@ In this section, you'll learn how to create and manage Python virtual environmen
 - Conda Package Management: Using Conda for installing and updating packages.
 - Activating Environments: How to activate and work within these environments.
 
+![virtual_env](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/python_virtual_enviment.png)
+
+
 ![conda](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/conda.png)
 
 
 ## Python Virtual Environment with Conda
 
 
-![virtual_env](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/python_virtual_enviment.png)
 
 
 
