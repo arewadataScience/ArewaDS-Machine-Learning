@@ -17,6 +17,15 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
   </tr>
 </table>
 
+
+## What is JupyterNotebook ?
+
+Jupyter Notebook is an open-source web application widely used in fields like data science, scientific computing, and machine learning. It allows users to create and share documents that contain live code, equations, visualizations, and narrative text. One of its key features is the support for interactive data science and scientific computing, enabling users to execute code in segments, view outputs immediately, and annotate with explanations in Markdown format. Jupyter supports over 40 programming languages, including Python, R, Julia, and Scala, and integrates seamlessly with data visualization libraries, making it an excellent tool for inline graphing and charting.
+
+The versatility of Jupyter Notebook makes it an invaluable tool for a range of applications, from data cleaning and transformation to numerical simulation and statistical modeling. It's particularly beneficial for educational purposes, offering an interactive, collaborative environment for teaching coding and data science. Researchers and professionals alike appreciate Jupyter for its ability to facilitate reproducible research and its rich text support, including Markdown, HTML, LaTeX, and SVG. Additionally, its ability to convert notebooks into various formats like HTML and PDF, along with its extension and widget support, enhances its utility for data analysis, reporting, and sharing findings in both academic and industry settings.
+
+
+
 - You can do all of your data science work within VS Code using Jupyter Notebook.
 
 <table>
