@@ -219,6 +219,10 @@ Additional Resources
 
 ### Additional Resources
 
+1. [12 Essential VSCode Extensions for Data Science](https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html#:~:text=12%20Essential%20VSCode%20Extensions%20for%20Data%20Science%201,Renderers%20...%208%208.%20R%20...%20More%20items)
+
+2. [Top 10 VS Code Extensions for Data Science](https://medium.com/geekculture/top-10-vs-code-extensions-for-data-science-ce3e24e24347)
+
 For more detailed information on data science with VSCode, visit the [official documentation](https://code.visualstudio.com/docs/datascience/overview).
 Learn more about Jupyter notebooks in VSCode [here](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 Follow a comprehensive data science tutorial provided by VSCode [here](https://code.visualstudio.com/docs/datascience/data-science-tutorial).
