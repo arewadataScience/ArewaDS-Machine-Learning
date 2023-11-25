@@ -19,6 +19,7 @@ This guide will walk you through the process of setting up Git and GitHub. These
 
 1. Go to [GitHub's signup page](https://github.com/join).
 2. Follow the instructions to create your account.
+3. Follow the following [tips for creating username]()
 
 ### Step 2: Configure Git
 
