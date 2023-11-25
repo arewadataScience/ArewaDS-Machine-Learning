@@ -102,6 +102,20 @@ conda deactivate
 
 ```
 
+## Conda vs Pip 
+
+| Task | Conda Command | Pip Command |
+|------|---------------|-------------|
+| Install a package | `conda install package_name` | `pip install package_name` |
+| Uninstall a package | `conda remove package_name` | `pip uninstall package_name` |
+| Update a package | `conda update package_name` | `pip install --upgrade package_name` |
+| List installed packages | `conda list` | `pip list` |
+| Search for a package | `conda search search_term` | `pip search search_term` |
+| Create a virtual environment | `conda create --name env_name` | `python -m venv env_name` |
+| Activate a virtual environment | `conda activate env_name` | `source env_name/bin/activate` (Linux/Mac), `.\env_name\Scripts\activate` (Windows) |
+| Deactivate a virtual environment | `conda deactivate` | `deactivate` |
+
+
 
 ## Resources
 
