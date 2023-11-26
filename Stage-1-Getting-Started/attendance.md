@@ -128,7 +128,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Peter Dalatu                                      |           0|   0    |        |         |   0      |        |    |         |        |           |                             | 
 | Abubakar Idi                                     |         0  |  0     |        |         |    69     |        |    |         |        |           |                             | 
 | Fikerte Mariam                                      |     0      | 0      |        |         |     0    |        |    |         |        |           |                             | 
-| Mufida Garba Yaro                                    |     0      |    0   |        |         |     0    |        |    |         |        |           |                             | 
+| Mufida Garba Yaro                                    |     0      |    0   |        |         |    69     |        |    |         |        |           |                             | 
 | Fa'iza Adam Kankarofi                                     |     0      |  89     |        |         |   15      |        |    |         |        |           |                             | 
 | Hadiza Shettima                                     |     0      |  0     |        |         |     0    |        |    |         |        |           |                             | 
 | Amina Abdulazeez Mamman                           |     0      |  0     |        |         |     56    |        |    |         |        |           |      | 
