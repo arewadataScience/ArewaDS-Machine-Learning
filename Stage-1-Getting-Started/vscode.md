@@ -4,8 +4,7 @@ Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data s
 
 ## Ways to Run Python Code
 
-Running Python code can be done in several ways, each suited to different needs and scenarios. Here are some common methods:
-
+Before exploring Visual Studio Code, let's understand the different ways to execute Python code. Running Python can be achieved through several methods, each tailored to various needs and scenarios. Here are some of the most common approaches:
 
 ### 1. Python Interpreter (Command Line)
 - **Interactive Shell:** Run `python` or `python3` in the command line.
