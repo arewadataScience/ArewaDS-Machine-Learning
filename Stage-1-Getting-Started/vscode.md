@@ -2,28 +2,28 @@
 
 Welcome to this beginner's guide on using Visual Studio Code (VSCode) for data science. This guide will walk you through setting up VSCode, using Jupyter notebooks, and getting started with a data science project.
 
-# Ways to Run Python Code
+## Ways to Run Python Code
 
 Running Python code can be done in several ways, each suited to different needs and scenarios. Here are some common methods:
 
 
-## 1. Python Interpreter (Command Line)
+### 1. Python Interpreter (Command Line)
 - **Interactive Shell:** Run `python` or `python3` in the command line.
 - **Script Execution:** Run scripts using `python filename.py`.
 
-## 2. Integrated Development Environments (IDEs)
+### 2. Integrated Development Environments (IDEs)
 - **Examples:** PyCharm, Visual Studio Code, Eclipse with PyDev.
 - **Features:** Code completion, debugging, project management.
 
-## 3. Text Editors with Python Support
+### 3. Text Editors with Python Support
 - **Examples:** Sublime Text, Atom, Notepad++.
 - **Features:** Syntax highlighting, script execution.
 
-## 4. Jupyter Notebooks
+### 4. Jupyter Notebooks
 - **Usage:** Interactive documents with live code, visualizations.
 - **Execution:** Run code cells independently.
 
-## 5. Online Python Interpreters and IDEs
+### 5. Online Python Interpreters and IDEs
 - **Examples:** Repl.it, Google Colab, PythonAnywhere.
 - **Convenience:** Write and execute code in a web browser.
 
