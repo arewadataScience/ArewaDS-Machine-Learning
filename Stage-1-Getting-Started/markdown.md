@@ -72,6 +72,8 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 
 ```
 
+
+
 ### Images
 
 Images are similar to links, but they require an exclamation point in front, and the text inside the brackets is the alt text.
@@ -100,6 +102,14 @@ You can create a horizontal rule with three or more hyphens, asterisks, or under
 
 *****
 ___
+
+```
+### Blockquotes
+Quote text with a >:
+
+
+```markdown
+> Markdown is a writer's best friend.
 
 ```
 
