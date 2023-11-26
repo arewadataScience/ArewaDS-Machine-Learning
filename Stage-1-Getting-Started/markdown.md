@@ -86,14 +86,8 @@ Images are similar to links, but they require an exclamation point in front, and
 
 You can use backticks to create code blocks. For syntax highlighting, specify the language after the first set of backticks.
 
-
-```markdown
-`code`
-
 ```python
 print("Hello, world!")
-```
-
 ```
 
 ### Horizontal Rule
