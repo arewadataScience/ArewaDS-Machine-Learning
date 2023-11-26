@@ -106,9 +106,7 @@ The VS Code Marketplace offers a family of extensions that provide a first-class
 - **Publisher**: Yu Zhang
 - **Description**: This extension provides a comprehensive set of features for Markdown editing in Visual Studio Code. It includes keyboard shortcuts, table of contents, auto-
 - **Installation**: Search for `Markdown All in One` in the Extensions view and install it.
-
-
-
+  
 #### Visual Studio IntelliCode
 - **Extension Name**: Visual Studio IntelliCode
 - **Publisher**: Microsoft
