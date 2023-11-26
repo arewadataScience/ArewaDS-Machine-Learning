@@ -45,7 +45,7 @@ Before exploring Visual Studio Code, let's understand the different ways to exec
 
 ## What is Jupyter Notebook ?
 
-Jupyter (formerly IPython Notebook) is an open-source project that combines Markdown text and executable Python source code on a canvas called a notebook, widely used in data science, scientific computing, and machine learning. 
+Jupyter (formerly [IPython Notebook](https://ipython.org/notebook.html)) is an [open-source project](https://jupyter.org) that combines Markdown text and executable Python source code on a canvas called a notebook, widely used in data science, scientific computing, and machine learning. 
 
 ### Key Points:
 
