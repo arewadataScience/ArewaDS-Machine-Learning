@@ -45,7 +45,7 @@ Before exploring Visual Studio Code, let's understand the different ways to exec
 
 ## What is Jupyter Notebook ?
 
-Jupyter (formerly IPython Notebook) is an open-source project that combines Markdown text and executable Python source code on a canvas called a notebook, widely used in data science, scientific computing, and machine learning. It supports interactive data science and scientific computing, allowing users to execute code in segments, view outputs immediately, and annotate with explanations in Markdown format. Supporting over 40 programming languages, including Python, R, Julia, and Scala, Jupyter integrates with data visualization libraries for inline graphing and charting. Its versatility extends to data cleaning, transformation, numerical simulation, and statistical modeling, making it invaluable for educational purposes, offering an interactive, collaborative environment for teaching coding and data science. Researchers and professionals use Jupyter for reproducible research and its rich text support, including Markdown, HTML, LaTeX, and SVG. Its ability to convert notebooks into various formats like HTML and PDF, along with extension and widget support, enhances its utility in data analysis, reporting, and sharing findings in both academia and industry. Visual Studio Code also supports Jupyter Notebooks natively, and through Python code files.
+Jupyter (formerly IPython Notebook) is an open-source project that combines Markdown text and executable Python source code on a canvas called a notebook, widely used in data science, scientific computing, and machine learning. 
 
 ### Key Points:
 
@@ -56,12 +56,11 @@ Jupyter (formerly IPython Notebook) is an open-source project that combines Mark
 - **Data Visualization Integration**: Works seamlessly with various graphing libraries.
 - **Educational Tool**: Facilitates interactive learning in coding and data science.
 - **Research and Professional Use**: Aids in reproducible research with rich text support.
-- **Format Conversion**: Can convert notebooks to HTML, PDF, and more.
-- **Extension and Widget Support**: Enhances data analysis and reporting capabilities.
 - **Visual Studio Code Integration**: Supports Jupyter Notebooks natively.
 
 
-- You can do all of your data science work within VS Code using Jupyter Notebook.
+
+You can do all of your data science work within VS Code using Jupyter Notebook.
 
 <table>
   <tr>
