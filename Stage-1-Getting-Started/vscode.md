@@ -101,8 +101,6 @@ The VS Code Marketplace offers a family of extensions that provide a first-class
 - **Description**: Pylance is an extension that works alongside Python extension to provide fast and feature-rich language support for Python. It offers type information, auto-imports, type-checking, and much more.
 - **Installation**: Search for `Pylance` in the Extensions view and install it.
 
-### Markdown All in One
-
 #### Markdown All in One
 - **Extension Name**: Markdown All in One
 - **Publisher**: Yu Zhang
