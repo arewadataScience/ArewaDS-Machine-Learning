@@ -247,19 +247,20 @@ You can save your Jupyter Notebook using the keyboard shortcut `Ctrl+S` or `File
 
 ## Starting a Data Science Project
 
-### Step 6: Create a Project Folder
+### Step 1: Create a Project Folder
 
 - Choose a location on your computer and create a new folder for your project.
+- If you have an existing folder, move to step 2.
 
-### Step 7: Open the Folder in VSCode
+### Step 2: Open the Folder in VSCode
 
 - In VSCode, go to `File > Open Folder` and select your project folder.
 
-### Step 8: Explore Data
+### Step 3: Explore Data
 
 - Create a new Jupyter notebook following the steps above and start exploring your data.
 
-### Step 9: Save and Share Your Notebook
+### Step 4: Save and Share Your Notebook
 
 - Save your work by clicking on the save icon or using Ctrl+S.
 - You can share your .ipynb notebook file with others, or upload it to a repository on GitHub.
