@@ -127,7 +127,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Usman Adamu Muhammad                                     |           69|  82    |        |         |   76      |        |    |         |        |           |                             | 
 | Peter Dalatu                                      |           0|   0    |        |         |   0      |        |    |         |        |           |                             | 
 | Abubakar Idi                                     |         0  |  0     |        |         |    69     |        |    |         |        |           |                             | 
-| Fikerte Mariam                                      |     0      | 0      |        |         |     0    |        |    |         |        |           |                             | 
+| Fikertemariam  Mekonnen                                    |     0      | 0      |        |         |     0    |        |    |         |        |           |                             | 
 | Mufida Garba Yaro                                    |     0      |    0   |        |         |    69     |        |    |         |        |           |                             | 
 | Fa'iza Adam Kankarofi                                     |     0      |  89     |        |         |   15      |        |    |         |        |           |                             | 
 | Hadiza Shettima                                     |     0      |  0     |        |         |     0    |        |    |         |        |           |                             | 
@@ -139,3 +139,4 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Khadijah Ibrahim Balarabe |    9 |        91  |       |          |     78    |           |          |            |        |       |          |
 | Muhammad Dahiru Usman |    84  |      90    |         |            |      77    |           |          |          |           |         |         |
 |  Zaharaddeen Nura Ibrahim |  83    |  90    |         |           |      78    |          |         |         |          |     |          |
+| Sani Aji          |       84     |      91     |             |         |       76      |             |            |           |        |           |        | 
