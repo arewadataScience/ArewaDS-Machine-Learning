@@ -261,6 +261,7 @@ Additional Resources
 
 ### Additional Resources
 
+1. [How to Set up VS Code for Data Science & AI](https://www.youtube.com/watch?v=zulGMYg0v6U)
 1. [12 Essential VSCode Extensions for Data Science](https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html#:~:text=12%20Essential%20VSCode%20Extensions%20for%20Data%20Science%201,Renderers%20...%208%208.%20R%20...%20More%20items)
 
 2. [Top 10 VS Code Extensions for Data Science](https://medium.com/geekculture/top-10-vs-code-extensions-for-data-science-ce3e24e24347)
