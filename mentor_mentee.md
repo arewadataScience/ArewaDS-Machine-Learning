@@ -102,6 +102,7 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Umar Faruq Abdullahi | Sokoto | 
 |  | Hafsa Bibi | Student | 
 |  | Mutala Gbembegu Jamal-Deen | Ghana |
+|  | Sadisu Rabiu Khamis    | Kano   | 
 | Shehu Shagari   | Sangari Habiba Muhammad         | Taraba           | Lukman Aliyu Jibril      |
 |  | Muazu Muhammad Shuaibu | Yobe | Auwal Abubakar Khalid           |
 |  | Musa Adamu | Yobe |
