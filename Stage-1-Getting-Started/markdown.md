@@ -115,4 +115,10 @@ This tutorial covered the basics of Markdown syntax. With these simple rules, yo
 For more advanced Markdown formatting, including tables, footnotes, and more, consider exploring additional Markdown resources and guides.
 
 
+# Resources
+
+1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+2. [The Only Markdown Cheatsheet You Need](https://github.com/im-luka/markdown-cheatsheet)
+3. [Markdown and Visual Studio Code](https://code.visualstudio.com/Docs/languages/markdown)
+
 
