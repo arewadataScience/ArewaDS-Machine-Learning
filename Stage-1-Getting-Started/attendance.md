@@ -25,7 +25,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Usman Muhammad                                  |    69    |        |        |        |        |        |                    |
 | Olawadere Taye                              |    0    |        |        |        |        |        |                       |
 | Quadri Ganiu Olawale                        |  67      |        |        |        |        |        |                         |
-| Ntong Bala                                  |     0   |        |        |        |        |        |                         |
+| Jonathan Ntong Bala                          |     78  |        |        |        |        |        |                         |
 | Albert Christopher                          |     0   |        |        |        |        |        |                         |
 | Umar Faruq Abdullahi                        |    0    |        |        |        |        |        |                        |
 | Hafsat Bibi                                 |   0     |        |        |        |        |        |                        |
