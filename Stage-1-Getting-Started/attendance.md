@@ -21,14 +21,14 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 
 | Name                                                       |   11/11 |   12/11 |   18/11  | 19/11 |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |       Percentage |
 |:-----------------------------------------------------------|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------------------:|
-| Nyoru Sam                                                  |       0|      0  |        |        |        |        |        |        |        |        |                      |
-| Usman Muhammad                                   |       0|       46 |        |        |        |        |        |        |        |        |                    |
-| Olawadere Taye                              |      0 |      0  |        |        |        |        |        |        |        |        |                       |
-| Quadri Ganiu Olawale                                     |      0 |  42      |        |        |        |        |        |        |        |        |                         |
-| Ntong Bala                                                 |      84 |    91    |        |        |        |        |        |        |        |        |                         |
-| Albert Christopher                                           |      0 |       0 |        |        |        |        |        |        |        |        |                         |
-| Umar Faruq Abdullahi                                                   |      0 | 0       |        |        |        |        |        |        |        |        |                        |
-| Hafsat Bibi                                  |      0|     0   |        |        |        |        |        |        |        |        |                        |
+| Nyoru Sam                                                  |       0|      0  |        |        |    0    |        |        |        |        |        |                      |
+| Usman Muhammad                                   |       0|       46 |        |        |    69    |        |        |        |        |        |                    |
+| Olawadere Taye                              |      0 |      0  |        |        |    0    |        |        |        |        |        |                       |
+| Quadri Ganiu Olawale                                     |      0 |  42      |        |        |  67      |        |        |        |        |        |                         |
+| Ntong Bala                                                 |      84 |    91    |        |        |     0   |        |        |        |        |        |                         |
+| Albert Christopher                                           |      0 |       0 |        |        |     0   |        |        |        |        |        |                         |
+| Umar Faruq Abdullahi                                                   |      0 | 0       |        |        |    0    |        |        |        |        |        |                        |
+| Hafsat Bibi                                  |      0|     0   |        |        |   0     |        |        |        |        |        |                        |
 | Mutala Gbembegu Jamal-Deen                                           |      0 |     47   |        |        |        |        |        |        |        |        |                         |
 | Sanagri Habiba Muhammad                                     |      0 |    0    |        |        |        |        |        |        |        |        |                         |
 | Muazu Muhammad Shuaibu                                   |      0 |   0     |        |        |        |        |        |        |        |        |                         |
