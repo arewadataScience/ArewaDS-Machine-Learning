@@ -56,7 +56,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | UmaralFaruq Isa Umar                        |     0    |        |    |         |        |           |                     | 
 | Rahma Aliyu Yusuf                           |     39    |        |    |         |        |           |                       | 
 | Abubakar Sabiu                              |      0   |        |    |         |        |           |                        | 
-| Shariff Muddassir                           |    49     |        |    |         |        |           |                       | 
+| Shariff Olalekan Muddassir                           |    49     |        |    |         |        |           |                       | 
 | Naziru Abdussalam Ibrahim                   |     78    |        |    |         |        |           |                       | 
 | Musbahu Umar Yakubu                         |     74    |        |    |         |        |           |                       | 
 | Ibrahim Suleiman Hussain                    |     75    |        |    |         |        |           |                       | 
@@ -132,9 +132,10 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Fa'iza Adam Kankarofi                 |   15      |        |    |         |        |           |                             | 
 | Hadiza Shettima                       |     0    |        |    |         |        |           |                             | 
 | Amina Abdulazeez Mamman               |     56    |        |    |         |        |           |      | 
-| Zainab Ya'u Ibrahim                    |       48    |                  |           | |         |           |           | 
+| Zainab Ya'u Ibrahim                    |       71   |                  |           | |         |           |           | 
 |  Nana Firdausi Abdulrahim              |      70    |            |              |            |            |            |
 | Khadijah Ibrahim Balarabe              |     78    |           |          |            |        |       |          |
 | Muhammad Dahiru Usman                  |      77    |           |          |          |           |         |         |
 |  Zaharaddeen Nura Ibrahim              |      78    |          |         |         |          |     |          |
 | Sani Aji                               |       76      |             |            |           |        |           |        | 
+|  Adewoye Saheed Damilola               |  71       |        |            |            |          |           |          |
