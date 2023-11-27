@@ -127,7 +127,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Usman Adamu Muhammad                 |   76      |        |    |         |        |           |                             | 
 | Peter Dalatu                         |   0      |        |    |         |        |           |                             | 
 | Abubakar Idi                          |    69     |        |    |         |        |           |                             | 
-| Fikertemariam  Mekonnen               |     0    |        |    |         |        |           |                             | 
+| Fikertemariam  Mekonnen               |     67   |        |    |         |        |           |                             | 
 | Mufida Garba Yaro                     |    69     |        |    |         |        |           |                             | 
 | Fa'iza Adam Kankarofi                 |   15      |        |    |         |        |           |                             | 
 | Hadiza Shettima                       |     0    |        |    |         |        |           |                             | 
