@@ -87,7 +87,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Sadiya Abdullahi Ladan                |     45    |        |    |         |        |           |                            | 
 | Yusuf Yakubu Yusuf                    |    71     |        |    |         |        |           |                             | 
 | Bello Abdullahi                       |    78     |        |    |         |        |           |                             | 
-| Nana Firdausi Abdulrahman             |     70    |        |    |         |        |           |                            | 
+| Nana Firdausi Abdulrahim            |     70    |        |    |         |        |           |                            | 
 | Surajo Adamu                          |    0     |        |    |         |        |           |                             | 
 | Salisu s Zubairu                      |      0   |        |    |         |        |           |                             | 
 | Sani Bala Usman                       |     0    |        |    |         |        |           |                             | 
