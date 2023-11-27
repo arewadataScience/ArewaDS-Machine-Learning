@@ -49,7 +49,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Abbas Adam Abba                             |    75     |        |    |         |        |           |                       | 
 | Habib Yusuf                                 |     26    |        |    |         |        |           |                       | 
 | Salau                                       |  0  |        |    |         |        |           |                             | 
-| Zainab Ya'u Abubakar                        | 57     |        |    |         |        |           |                          | 
+| Zainab Ya'u Abdulkadir                       | 57     |        |    |         |        |           |                          | 
 | Faud Sani Ibrahim                           |      0   |        |    |         |        |           |                        | 
 | Masud Abdul Yaqeen                          |     0    |        |    |         |        |           |                        | 
 | Ibrahim Abdullahi Aliyu                     |     87    |        |    |         |        |           |                       | 
