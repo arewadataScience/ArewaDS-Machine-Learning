@@ -139,3 +139,4 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 |  Zaharaddeen Nura Ibrahim              |      78    |          |         |         |          |     |          |
 | Sani Aji                               |       76      |             |            |           |        |           |        | 
 |  Adewoye Saheed Damilola               |  71       |        |            |            |          |           |          |
+| Salome Danjuma Mammanjabs               |     70       |      |        |          |            |            |            |
