@@ -122,8 +122,8 @@ We have provided detailed instructions, but you might not understand all the det
 | Python Virtual Environments   | [Virtual Enviroment](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/python-venv.md) | [Recording](https://youtu.be/iszkG8QSPng?si=iQMsqoaxHiafgHiA) | [Shamsudden](https://www.linkedin.com/in/shmuhammad/) |
 | VSCode for DataScience        | [VScode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md) | [Recording](https://www.youtube.com/watch?v=pmUkRRqtpEY) | [Shamsudden](https://www.linkedin.com/in/shmuhammad/) |
 | Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/markdown.md) |  [Recording](https://www.youtube.com/watch?v=oNwEag0eqwE)  | [Shamsudden](https://www.linkedin.com/in/shmuhammad/) |
+| Customizing GitHub profile    | [Customizing Profile](#) |  |  [Lukman](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
 | Working with GitHub in VS Code| [GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github) |  | TBD |
-| Customizing GitHub profile    | [Customizing Profile](#) |  |  [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
 | GitHub for Collaboration      | [Advaced GitHub](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/advancedgithub.md) |  |  [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)|
 | Google Colab                  | [Google Colab](#) | | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)|
 | Generative AI                 |  |  | TBD|
