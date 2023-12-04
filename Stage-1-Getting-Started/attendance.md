@@ -21,59 +21,59 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 
 | Name                                                       |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |percentage |
 |:-----------------------------------------------------------|--------:|-------:|-------:|-------:|-------:|-------:|--------------------:|
-| Nyoru Sam                                       |    0    |        |      0  |        |        |        |                      |
-| Usman Muhammad                                  |    69    |        | 34       |        |        |        |                    |
-| Olawadere Taye                              |    0    |        |        0|        |        |        |                       |
-| Quadri Ganiu Olawale                        |  67      |        |        26|        |        |        |                         |
-| Jonathan Ntong Bala                          |     78  |        |        56|        |        |        |                         |
-| Albert Christopher                          |     0   |        |       0 |        |        |        |                         |
-| Umar Faruq Abdullahi                        |    0    |        |        0|        |        |        |                        |
-| Hafsat Bibi                                 |   0     |        |        0|        |        |        |                        |
-| Mutala Gbembegu Jamal-Deen                  |   68     |        |        12|        |        |        |                         |
-| Sanagri Habiba Muhammad                     |    52    |        |        51|        |        |        |                         |
-| Muazu Muhammad Shuaibu                      |     0   |        |        0|        |        |        |                         |
-| Musa Adamu                                  |    91    |        |        56|        |        |        |                         |
-| Muhammad Usman                              |    77    |        |        0|        |        |        |                         |
-| Muhammad Saleh Ibrahim                      |    48    |        |        21|        |        |        |                        |
-| Zarah Malah Kachala                         |    0    |        |        0|        |        |        |                         |
-| Abdullahi Garba Mohammed                    |    74    |        |        38|        |        |        |                         |
-| Rabiu Usman Sani                            |      23   |        |    0|       |        |       |                     |         
-| Sadisu Rabiu Khamis                         |     0    |        |    0|         |        |           |                        | 
-| Ishaq Ibrahim                               |   0      |        |   0 |         |        |           |                        | 
-| Abubakar Salisu Bashir                      |     81    |        |   56 |         |        |           |                       | 
-| Sadiq Muhammad Aliyu                        |    0     |        |    56|         |        |           |                        | 
-| Yunus Isah                                  |    0     |        |    0|         |        |           |                        | 
-| Auwal Ismail Musa                           |   0      |        |    0|         |        |           |                        | 
-| Ibrahim Ali                                 |  0       |        |    0|         |        |           |                        | 
-| Ibrahim Dazeen Danjuma                      |    0     |        |    0|         |        |           |                        | 
-| Abbas Adam Abba                             |    75     |        |    51|         |        |           |                       | 
-| Habib Yusuf                                 |     26    |        |    11|         |        |           |                       | 
-| Salau                                       |  0  |        |    0|         |        |           |                             | 
-| Zainab Ya'u Abdulkadir                       | 57     |        | 54   |         |        |           |                          | 
-| Faud Sani Ibrahim                           |      0   |        |  0  |         |        |           |                        | 
-| Masud Abdul Yaqeen                          |     0    |        |   56 |         |        |           |                        | 
-| Ibrahim Abdullahi Aliyu                     |     87    |        |    56|         |        |           |                       | 
-| UmaralFaruq Isa Umar                        |     0    |        |    0|         |        |           |                     | 
-| Rahma Aliyu Yusuf                           |     39    |        |   0 |         |        |           |                       | 
-| Abubakar Sabiu                              |      0   |        | 55   |         |        |           |                        | 
-| Shariff Olalekan Muddassir                           |    49     |        | 53   |         |        |           |                       | 
-| Naziru Abdussalam Ibrahim                   |     78    |        |  53  |         |        |           |                       | 
-| Musbahu Umar Yakubu                         |     74    |        | 56   |         |        |           |                       | 
-| Ibrahim Suleiman Hussain                    |     75    |        |  18  |         |        |           |                       | 
-| Muhammadu Hamza Yalwa                       |     28    |        | 6   |         |        |           |                       | 
-| Fatima Ado Musa                             |     69    |        | 56   |         |        |           |                       | 
-| Usman Idris Usman                           |    70     |        |  57  |         |        |           |                       | 
-| Fauziyya Sani Yunusa                        |     70    |        | 0   |         |        |           |                       | 
-| Shafiu Muhammad                             |    0     |        | 0   |         |        |           |                        | 
-| Muhammad Mujahid Haruna                     |      0   |        |0    |         |        |           |                        | 
-| Halima Mahmoud                        |    81     |        |  56  |         |        |           |                             | 
-| Abubakar Aminu                        |    57     |        | 0   |         |        |           |                             | 
-| Shamsuddeen Salihu                    |   57      |        | 0   |         |        |           |                             | 
-| Abubakar Yakubu Zandam                |     75    |        |  45  |         |        |           |                             | 
-| Salisu Ibrahim                        |     39    |        |   57 |         |        |           |                             | 
-| Fatima Usman Muhammad                 |      68   |        |  43  |         |        |           |                             | 
-| Nasiru Mahadi                         |     49    |        |  56  |         |        |           |                             | 
-| Adamu Hassan Ali                      |    0     |        |    0|         |        |           |                             | 
+| Nyoru Sam                                       |    0    |   0     |      0  |        |        |        |                      |
+| Usman Muhammad                                  |    69    |    67    | 34       |        |        |        |                    |
+| Olawadere Taye                              |    0    |    0    |        0|        |        |        |                       |
+| Quadri Ganiu Olawale                        |  67      |    69    |        26|        |        |        |                         |
+| Jonathan Ntong Bala                          |     78  |   69     |        56|        |        |        |                         |
+| Albert Christopher                          |     0   |    0    |       0 |        |        |        |                         |
+| Umar Faruq Abdullahi                        |    0    |     0   |        0|        |        |        |                        |
+| Hafsat Bibi                                 |   0     |      0  |        0|        |        |        |                        |
+| Mutala Gbembegu Jamal-Deen                  |   68     |      68  |        12|        |        |        |                         |
+| Sanagri Habiba Muhammad                     |    52    |    55    |        51|        |        |        |                         |
+| Muazu Muhammad Shuaibu                      |     0   |     0   |        0|        |        |        |                         |
+| Musa Adamu                                  |    91    |     69   |        56|        |        |        |                         |
+| Muhammad Usman                              |    77    |   0     |        0|        |        |        |                         |
+| Muhammad Saleh Ibrahim                      |    48    |    42    |        21|        |        |        |                        |
+| Zarah Malah Kachala                         |    0    |     0   |        0|        |        |        |                         |
+| Abdullahi Garba Mohammed                    |    74    |      60  |        38|        |        |        |                         |
+| Rabiu Usman Sani                            |      23   |  0      |    0|       |        |       |                     |         
+| Sadisu Rabiu Khamis                         |     0    |    0    |    0|         |        |           |                        | 
+| Ishaq Ibrahim                               |   0      |    0    |   0 |         |        |           |                        | 
+| Abubakar Salisu Bashir                      |     81    |   63     |   56 |         |        |           |                       | 
+| Sadiq Muhammad Aliyu                        |    0     |     63   |    56|         |        |           |                        | 
+| Yunus Isah                                  |    0     |    0    |    0|         |        |           |                        | 
+| Auwal Ismail Musa                           |   0      |    0    |    0|         |        |           |                        | 
+| Ibrahim Ali                                 |  0       |    0    |    0|         |        |           |                        | 
+| Ibrahim Dazeen Danjuma                      |    0     |    0    |    0|         |        |           |                        | 
+| Abbas Adam Abba                             |    75     |    67    |    51|         |        |           |                       | 
+| Habib Yusuf                                 |     26    |   68     |    11|         |        |           |                       | 
+| Salau                                       |  0  |     0   |    0|         |        |           |                             | 
+| Zainab Ya'u Abdulkadir                       | 57     |  41      | 54   |         |        |           |                          | 
+| Faud Sani Ibrahim                           |      0   |   0     |  0  |         |        |           |                        | 
+| Masud Abdul Yaqeen                          |     0    |   40     |   56 |         |        |           |                        | 
+| Ibrahim Abdullahi Aliyu                     |     87    |    11    |    56|         |        |           |                       | 
+| UmaralFaruq Isa Umar                        |     0    |    0    |    0|         |        |           |                     | 
+| Rahma Aliyu Yusuf                           |     39    |   59     |   0 |         |        |           |                       | 
+| Abubakar Sabiu                              |      0   |     11   | 55   |         |        |           |                        | 
+| Shariff Olalekan Muddassir                           |    49     |  0      | 53   |         |        |           |                       | 
+| Naziru Abdussalam Ibrahim                   |     78    |     69   |  53  |         |        |           |                       | 
+| Musbahu Umar Yakubu                         |     74    |   66     | 56   |         |        |           |                       | 
+| Ibrahim Suleiman Hussain                    |     75    |    39    |  18  |         |        |           |                       | 
+| Muhammadu Hamza Yalwa                       |     28    |  20      | 6   |         |        |           |                       | 
+| Fatima Ado Musa                             |     69    |    66    | 56   |         |        |           |                       | 
+| Usman Idris Usman                           |    70     |   70    |  57  |         |        |           |                       | 
+| Fauziyya Sani Yunusa                        |     70    |   0    | 0   |         |        |           |                       | 
+| Shafiu Muhammad                             |    0     |     0   | 0   |         |        |           |                        | 
+| Muhammad Mujahid Haruna                     |      0   |    0    |0    |         |        |           |                        | 
+| Halima Mahmoud                        |    81     |   70   |  56  |         |        |           |                             | 
+| Abubakar Aminu                        |    0    |    0    | 0   |         |        |           |                             | 
+| Shamsuddeen Salihu                    |   57      |   58     | 0   |         |        |           |                             | 
+| Abubakar Yakubu Zandam                |     75    |   69     |  45  |         |        |           |                             | 
+| Salisu Ibrahim                        |     39    |    38    |   57 |         |        |           |                             | 
+| Fatima Usman Muhammad                 |      68   |     61   |  43  |         |        |           |                             | 
+| Nasiru Mahadi                         |     49    |     64 |  56  |         |        |           |                             | 
+| Adamu Hassan Ali                      |    0     |    0    |    0|         |        |           |                             | 
 | Bashir Iliyasu Bashir                 |    76     |        |    11|         |        |           |                             | 
 | Umar Aliyu Ibrahim                    |    79     |        |    74|         |        |           |                             | 
 | Shafiu Muhammad                       |    0     |        |    0|         |        |           |                             | 
