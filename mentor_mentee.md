@@ -66,7 +66,7 @@ The following table lists the pairings of mentors and fellows for each group in 
 |  | Sani Bala Usman | Kaduna |
 |  | Fatima Tukur | kaduna |
 |  | Ibrahim Manasseh | Kaduna |
-| Ahmadu Bello            |   Muhammad Khalid                  |    Katsina             |  Muhammad Ibrahim Isah    |
+| Ahmadu Bello            |  Musa Muhammad Khalid                  |    Katsina             |  Muhammad Ibrahim Isah    |
 |  | Ibrahim Abbas | Katsina         | Lawal Aminu Saleh    |
 |  | Safiyanu Ibrahim                | Katsina           | 
 |  | Salmanu Muntari | Katsina |
