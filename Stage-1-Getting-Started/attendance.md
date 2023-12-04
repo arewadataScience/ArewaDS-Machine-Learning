@@ -29,7 +29,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Albert Christopher                          |     0   |    0    |       0 |        |        |        |                         |
 | Umar Faruq Abdullahi                        |    0    |     0   |        0|        |        |        |                        |
 | Hafsat Bibi                                 |   0     |      0  |        0|        |        |        |                        |
-| Mutala Gbembegu Jamal-Deen                  |   68     |      68  |        12|        |        |        |                         |
+| Mutala Gbembegu Jamal-Deen                  |   68     |      68  |        57|        |        |        |                         |
 | Sanagri Habiba Muhammad                     |    52    |    55    |        51|        |        |        |                         |
 | Muazu Muhammad Shuaibu                      |     0   |     0   |        0|        |        |        |                         |
 | Musa Adamu                                  |    91    |     69   |        56|        |        |        |                         |
