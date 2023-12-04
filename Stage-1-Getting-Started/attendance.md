@@ -74,69 +74,69 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Fatima Usman Muhammad                 |      68   |     61   |  43  |         |        |           |                             | 
 | Nasiru Mahadi                         |     49    |     64 |  56  |         |        |           |                             | 
 | Adamu Hassan Ali                      |    0     |    0    |    0|         |        |           |                             | 
-| Bashir Iliyasu Bashir                 |    76     |        |    11|         |        |           |                             | 
-| Umar Aliyu Ibrahim                    |    79     |        |    74|         |        |           |                             | 
-| Shafiu Muhammad                       |    0     |        |    0|         |        |           |                             | 
-| Muhammad Mujahid Haruan               |     0    |        |    0|         |        |           |                             | 
-| Ahmad Saad                            |     31    |        |    34|         |        |           |                             | 
-| Yahaya Muhammad                       |      50   |        |    57|         |        |           |                             | 
-| Gideon Markus                         |      0   |        |    55|         |        |           |                             | 
-| Abubakar Sadiq Suleiman               |    80     |        |    59|         |        |           |                             | 
-| Zidan Musa Modibbo                    |    73     |        |   56 |         |        |           |                             | 
-| Hajara Muhammad Ladan                 |    79     |        |    51|         |        |           |                          | 
-| Sadiya Abdullahi Ladan                |     45    |        |    13|         |        |           |                            | 
-| Yusuf Yakubu Yusuf                    |    71     |        |    56|         |        |           |                             | 
-| Bello Abdullahi                       |    78     |        |    56|         |        |           |                             | 
-| Nana Firdausi Abdulrahim            |     70    |        |   0 |         |        |           |                            | 
-| Surajo Adamu                          |    0     |        |   0 |         |        |           |                             | 
-| Salisu s Zubairu                      |      0   |        |    0|         |        |           |                             | 
-| Sani Bala Usman                       |     0    |        |    0|         |        |           |                             | 
-| Fatima Tukur                          |     0    |        |    0|         |        |           |                             | 
-| Ibrahim Manasseh                      |     44    |        |    39|         |        |           |                             | 
-| Musa Muhammad Khalid                  |     0    |        |    54|         |        |           |                             | 
-| Ibrahim Abbas                         |    68     |        |    0|         |        |           |                             | 
-|   Safiyanu Ibrahim                    |    73     |        |   0 |         |        |           |                             | 
-| Salmanu Muntari                       |    60     |        |    56|         |        |           |                             | 
-| Ali Saleh                             |     60    |        |    3|         |        |           |                             | 
-| Hauwa'u Zakariya'u Ibrahim            |       68  |        |    53|         |        |           |                            | 
-| Abdulkadir Abubakar Abubakar          |     0    |        |    0|         |        |           |                             | 
-| Abubakar Ruwa                         |    0     |        |    0|         |        |           |                             | 
-| Zarau Bello Baidu                     |  74       |        |    56|         |        |           |                             | 
-| Abubakar G. Saleh                     |   79      |        |    0|         |        |           |                             | 
-| Usman Muhammad Shehu                  |    69     |        |    0|         |        |           |                             | 
-| Abdullahi Mujaheed Saleh             |     81    |        |    57|         |        |           |                             | 
-| Fa'iz Ibrahim Jibia                  |    76     |        |    56|         |        |           |                             | 
-| Wenoumi Rejoice                      |      0   |        |    0|         |        |           |                             | 
-| Abubakar Abubakar Al-amin            |      61   |        |    44|         |        |           |                             | 
-| Aliyu Abubakar Lamido                |     59    |        |    23|         |        |           |                             | 
-| Umar Faruk Ibrahim                   |    73     |        |    0|         |        |           |                             | 
-| Weddy Nkatha Murithi                 |   0      |        |    0|         |        |           |                             | 
-| Haleemah Hamzah                      |     0    |        |    0|         |        |           |                             | 
-| Kasali Yusuf Oloriegbe               |   0      |        |    0|         |        |           |                             | 
-| Amori Umar Faruq                     |    0     |        |    0|         |        |           |                             | 
-| Oladimeji Williams                   |   0      |        |    0|         |        |           |                             | 
-| Precious Golden Atuonwu              |     60    |        |    0|         |        |           |                             | 
-| Obianuju Lilian Onuoha               |       78  |        |    18|         |        |           |                            | 
-| Abdulrasheed Ayinde Abdulraheem      |    78     |        |    56|         |        |           |                             | 
-| Olayinka Babalola                    |    76     |        |    50|         |        |           |                             | 
-| Faisal Mustapha Muhammad             |    71     |        |    51|         |        |           |                           | 
-| Abdullateef Mubarak                  |     61    |        |    53|         |        |           |                             |
-| Umar Shehu                           |    71     |        |    57|         |        |           |                             | 
-| Abdulrahman Ahmed O.                 |      84   |        |    45|         |        |           |                             | 
-| Muhammadurabiu Halimat oyiza         |   8      |        |   56 |         |        |           |                | 
-| Usman Adamu Muhammad                 |   76      |        |    0|         |        |           |                             | 
-| Peter Dalatu                         |   0      |        |    17|         |        |           |                             | 
-| Abubakar Idi                          |    69     |        |    55|         |        |           |                             | 
-| Fikertemariam  Mekonnen               |     67   |        |    0|         |        |           |                             | 
-| Mufida Garba Yaro                     |    69     |        |    56|         |        |           |                             | 
-| Fa'iza Adam Kankarofi                 |   15      |        |    0|         |        |           |                             | 
-| Hadiza Shettima                       |     0    |        |    0|         |        |           |                             | 
-| Amina Abdulazeez Mamman               |     56    |        |    56|         |        |           |      | 
-| Zainab Ya'u Ibrahim                    |       71   |                  |54           | |         |           |           | 
-|  Nana Firdausi Abdulrahim              |      70    |            |        0      |            |            |            |
-| Khadijah Ibrahim Balarabe              |     78    |           |          38|            |        |       |          |
-| Muhammad Dahiru Usman                  |      77    |           |          46|          |           |         |         |
-|  Zaharaddeen Nura Ibrahim              |      78    |          |        56 |         |          |     |          |
-| Sani Aji                               |       76      |             |    57        |           |        |           |        | 
-|  Adewoye Saheed Damilola               |  71       |        |            54|            |          |           |          |
-| Salome Danjuma Mammanjabs               |     70       |      |        55|          |            |            |            |
+| Bashir Iliyasu Bashir                 |    76     |    67  |    11|         |        |           |                             | 
+| Umar Aliyu Ibrahim                    |    79     |    65    |    74|         |        |           |                             | 
+| Shafiu Muhammad                       |    0     |   0    |    0|         |        |           |                             | 
+| Muhammad Mujahid Haruan               |     0    |   0    |    0|         |        |           |                             | 
+| Ahmad Saad                            |     31    |    33   |    34|         |        |           |                             | 
+| Yahaya Muhammad                       |      50   |     69  |    57|         |        |           |                             | 
+| Gideon Markus                         |      0   |    60    |    55|         |        |           |                             | 
+| Abubakar Sadiq Suleiman               |    80     |   69  |    59|         |        |           |                             | 
+| Zidan Musa Modibbo                    |    73     |     71   |   56 |         |        |           |                             | 
+| Hajara Muhammad Ladan                 |    79     | 68       |    51|         |        |           |                          | 
+| Sadiya Abdullahi Ladan                |     45    |    47    |    13|         |        |           |                            | 
+| Yusuf Yakubu Yusuf                    |    71     |    69    |    56|         |        |           |                             | 
+| Bello Abdullahi                       |    78     |    70    |    56|         |        |           |                             | 
+| Nana Firdausi Abdulrahim            |     70    |     0   |   0 |         |        |           |                            | 
+| Surajo Adamu                          |    0     |     0  |   0 |         |        |           |                             | 
+| Salisu s Zubairu                      |      0   |   0  |    0|         |        |           |                             | 
+| Sani Bala Usman                       |     0    |    0    |    0|         |        |           |                             | 
+| Fatima Tukur                          |     0    |     0   |    0|         |        |           |                             | 
+| Ibrahim Manasseh                      |     44    |   54   |    39|         |        |           |                             | 
+| Musa Muhammad Khalid                  |     0    |    56    |    54|         |        |           |                             | 
+| Ibrahim Abbas                         |    68     |    57    |    0|         |        |           |                             | 
+|   SUfiyanu Ibrahim                    |    73     |   33     |   0 |         |        |           |                             | 
+| Salmanu Muntari                       |    60     |    66    |    56|         |        |           |                             | 
+| Ali Saleh                             |     60    |    56    |    3|         |        |           |                             | 
+| Hauwa'u Zakariya'u Ibrahim            |       68  |    52    |    53|         |        |           |                            | 
+| Abdulkadir Abubakar Abubakar          |     0    |    0    |    0|         |        |           |                             | 
+| Abubakar Ruwa                         |    0     |    0    |    0|         |        |           |                             | 
+| Zarau Bello Baidu                     |  74       |     57   |    56|         |        |           |                             | 
+| Abubakar G. Saleh                     |   79      |    70    |    0|         |        |           |                             | 
+| Usman Muhammad Shehu                  |    69     |  67   |    0|         |        |           |                             | 
+| Mujaheed Abdullahi Saleh             |     81    |    69    |    57|         |        |           |                             | 
+| Fa'iz Ibrahim Jibia                  |    76     |    72   |    56|         |        |           |                             | 
+| Wenoumi Rejoice                      |      0   |     0   |    0|         |        |           |                             | 
+| Abubakar Abubakar Al-amin            |      61   |   40    |    44|         |        |           |                             | 
+| Aliyu Abubakar Lamido                |     59    |    43    |    23|         |        |           |                             | 
+| Umar Faruk Ibrahim                   |    73     |    0  |    0|         |        |           |                             | 
+| Weddy Nkatha Murithi                 |   0      |     0  |    0|         |        |           |                             | 
+| Haleemah Hamzah                      |     0    |     0   |    0|         |        |           |                             | 
+| Kasali Yusuf Oloriegbe               |   0      |     0   |    0|         |        |           |                             | 
+| Amori Umar Faruq                     |    0     |    0    |    0|         |        |           |                             | 
+| Oladimeji Williams                   |   0      |    0    |    0|         |        |           |                             | 
+| Precious Golden Atuonwu              |     60    |    60    |    0|         |        |           |                             | 
+| Obianuju Lilian Onuoha               |       78  |    66    |    18|         |        |           |                            | 
+| Abdulrasheed Ayinde Abdulraheem      |    78     |    66    |    56|         |        |           |                             | 
+| Olayinka Babalola                    |    76     |    56    |    50|         |        |           |                             | 
+| Faisal Mustapha Muhammad             |    71     |     69   |    51|         |        |           |                           | 
+| Abdullateef Mubarak                  |     61    |   66     |    53|         |        |           |                             |
+| Umar Shehu                           |    71     |    70  |    57|         |        |           |                             | 
+| Abdulrahman Ahmed O.                 |      84   |    70   |    45|         |        |           |                             | 
+| Halimat oyiza Muhammadurabiu          |   8      |   61     |   56 |         |        |           |                | 
+| Usman Adamu Muhammad                 |   76      |   64    |    0|         |        |           |                             | 
+| Peter Dalatu                         |   0      |     0   |    17|         |        |           |                             | 
+| Abubakar Idi                          |    69     |    61    |    55|         |        |           |                             | 
+| Fikertemariam  Mekonnen               |     67   |   69     |    0|         |        |           |                             | 
+| Mufida Garba Yaro                     |    69     |   69     |    56|         |        |           |                             | 
+| Fa'iza Adam Kankarofi                 |   15      |     0   |    0|         |        |           |                             | 
+| Hadiza Shettima                       |     0    |     0   |    0|         |        |           |                             | 
+| Amina Abdulazeez Mamman               |     56    |    0    |    56|         |        |           |      | 
+| Zainab Ya'u Ibrahim                    |       71   |    68  |54           | |         |           |           | 
+|  Nana Firdausi Abdulrahim              |      70    |    0   |        0      |            |            |            |
+| Khadijah Ibrahim Balarabe              |     78    |       69    |          38|            |        |       |          |
+| Muhammad Dahiru Usman                  |      77    |      70     |       46|          |           |         |         |
+|  Zaharaddeen Nura Ibrahim              |      78    |       67   |        56 |         |          |     |          |
+| Sani Aji                               |       76      |   68      |    57        |           |        |           |        | 
+|  Adewoye Saheed Damilola               |  71       |    65    |            54|            |          |           |          |
+| Salome Danjuma Mammanjabs               |     70       |   70   |        55|          |            |            |            |
