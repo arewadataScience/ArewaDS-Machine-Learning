@@ -102,7 +102,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Abdulkadir Abubakar Abubakar          |     0    |    0    |    0|         0|        |           |                             | 
 | Abubakar Ruwa                         |    0     |    0    |    0|         0|        |           |                             | 
 | Zarau Bello Baidu                     |  74       |     57   |    56|       60  |        |           |                             | 
-| Abubakar G. Saleh                     |   79      |    70    |    0|         60|        |           |                             | 
+| Abubakar G. Saleh                     |   79      |    70    |    56|         60|        |           |                             | 
 | Usman Muhammad Shehu                  |    69     |  67   |    0|        26 |        |           |                             | 
 | Mujaheed Abdullahi Saleh             |     81    |    69    |    57|       24  |        |           |                             | 
 | Fa'iz Ibrahim Jibia                  |    76     |    72   |    56|    64     |        |           |                             | 
