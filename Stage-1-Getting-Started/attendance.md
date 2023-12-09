@@ -41,7 +41,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Sadisu Rabiu Khamis                         |     0    |    0    |    0|         0|        |           |                        | 
 | Ishaq Ibrahim                               |   0      |    0    |   0 |         0|        |           |                        | 
 | Abubakar Salisu Bashir                      |     81    |   63     |   56 |    64     |        |           |                       | 
-| Sadiq Muhammad Aliyu                        |    0     |     63   |    56|       0  |        |           |                        | 
+| Sadiq Muhammad Aliyu                        |    0     |     63   |    56|       60  |        |           |                        | 
 | Yunus Isah                                  |    0     |    0    |    0|         0|        |           |                        | 
 | Auwal Ismail Musa                           |   0      |    0    |    0|        0 |        |           |                        | 
 | Ibrahim Ali                                 |  0       |    0    |    0|         0|        |           |                        | 
