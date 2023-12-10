@@ -5,9 +5,9 @@
 ArewaDS website: https://arewadatascience.github.io
 
 
-# Table of Contents
+# Table of Contents (Arewa DS) 
 
-- [Table of Contents](#table-of-contents)
+- [Table of Contents (Arewa DS)](#table-of-contents-arewa-ds)
 - [Arewa Data Science and Machine Learning Curriculum!](#arewa-data-science-and-machine-learning-curriculum)
     - [Key Features:](#key-features)
     - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
