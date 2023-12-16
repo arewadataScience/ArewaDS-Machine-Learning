@@ -140,4 +140,4 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Sani Aji                               |       76      |   68      |    57        |  63         |        |           |        | 
 |  Adewoye Saheed Damilola               |  71       |    65    |            54|         63   |          |           |          |
 | Salome Danjuma Mammanjabs               |     70       |   70   |        55|         56 |            |            |            |
-| Ali Lawal Muazu  |          |              |             |            |             |            |           |
+| Ali Lawal Muazu  |     54     |         71     |       77      |        55    |             |            |           |
