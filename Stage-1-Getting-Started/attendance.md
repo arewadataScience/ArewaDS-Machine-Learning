@@ -21,7 +21,7 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 
 | Name                                                       |   25/11 |   26/11 |   02/12|   03/12 |   09/12 |  10/12 |Remark|
 |:-----------------------------------------------------------|--------:|-------:|-------:|-------:|-------:|-------:|--------------------:|
-| Nyoru Sam                                       |    0    |   0     |      0  |    0    |        |        |                      |
+| Nyoru Sam                                       |    0    |   0     |      0  |    0    |        |        |   0                   |
 | Usman Muhammad                                  |    69    |    67    | 34       |  0      |        |        |                    |
 | Olawadere Taye                              |    0    |    0    |        0|        0|        |        |                       |
 | Quadri Ganiu Olawale                        |  67      |    69    |        26|      16 |        |        |                         |
