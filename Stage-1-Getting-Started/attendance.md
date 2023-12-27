@@ -133,8 +133,8 @@ This document outlines the attendance requirements for fellows in Stage 1 of our
 | Hadiza Shettima                       |     0    |     0   |    0|    0     |        |      0     |                             | 
 | Amina Abdulazeez Mamman               |     56    |    50    |    56|   58      |        |     56      |      | 
 | Zainab Ya'u Ibrahim                    |       71   |    68  |54       |     62|         |      56     |           | 
-|  Nana Firdausi Abdulrahim              |      70    |    0   |        0      | 0           |    0        |            |
-| Khadijah Ibrahim Balarabe              |     78    |       69    |          38| 64           |   38     |       |          |
+|  Nana Firdausi Abdulrahim              |      70    |    0   |        0      | 0           |         |    0        |
+| Khadijah Ibrahim Balarabe              |     78    |       69    |          38| 64           |       |    38   |          |
 | Muhammad Dahiru Usman                  |      77    |      70     |       46|    53      |           |     56    |         |
 |  Zaharaddeen Nura Ibrahim              |      78    |       67   |        56 |     60    |          |  56   |          |
 | Sani Aji                               |       76      |   68      |    57        |  63         |        |    57       |        | 
