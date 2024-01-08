@@ -150,15 +150,15 @@ The second part of the fellowship is all about Data Science. You'll learn to cle
 
 | Topic                             | Learning Objectives                                                                                                     | Lesson Resources                        | Mentor |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |
-| Defining Data Science             | Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data.              | [Introduction to Data Science](https://github.com/arewadataScience/ArewaDS-Machine-Learning/1-introduction/README.md)       | TBD    |
-| Defining Data                     | Introduction to data classification and common data sources.                                                            | [Understanding Data Types](#)           | TBD    |
-| Data Preparation                  | Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](#)        | TBD    |
-| Visualizing Quantities            | Learn to use Matplotlib to visualize data, such as bird populations.                                                    | [Visualizing with Matplotlib](#)        | TBD    |
-| Visualizing Distributions of Data | Visualize observations and trends within intervals.                                                                     | [Data Distributions Visualization](#)   | TBD    |
-| Visualizing Proportions           | Visualize discrete and grouped percentages.                                                                             | [Proportions Visualization](#)          | TBD    |
-| Visualizing Relationships         | Visualize connections and correlations between datasets and variables.                                                  | [Relationships Visualization](#)        | TBD    |
-| Meaningful Visualizations         | Create valuable visualizations for effective problem-solving and insights.                                              | [Creating Meaningful Visualizations](#) | TBD    |
-| Communication                     | Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](#)         | TBD    |
+| Defining Data Science             | Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data.              | [Introduction to Data Science](1-Introduction/README.md)       | TBD    |
+| Defining Data                     | Introduction to data classification and common data sources.                                                            | [Understanding Data Types](2-Working-With-Data/README.md)           | TBD    |
+| Data Preparation                  | Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](2-Working-With-Data/08-data-preparation/README.md)        | TBD    |
+| Visualizing Quantities            | Learn to use Matplotlib to visualize data, such as bird populations.                                                    | [Visualizing with Matplotlib](3-Data-Visualization/09-visualization-quantities/README.md)        | TBD    |
+| Visualizing Distributions of Data | Visualize observations and trends within intervals.                                                                     | [Data Distributions Visualization](3-Data-Visualization/10-visualization-distributions/README.md)   | TBD    |
+| Visualizing Proportions           | Visualize discrete and grouped percentages.                                                                             | [Proportions Visualization](3-Data-Visualization/11-visualization-proportions/README.md)          | TBD    |
+| Visualizing Relationships         | Visualize connections and correlations between datasets and variables.                                                  | [Relationships Visualization](3-Data-Visualization/12-visualization-relationships/README.md)        | TBD    |
+| Meaningful Visualizations         | Create valuable visualizations for effective problem-solving and insights.                                              | [Creating Meaningful Visualizations](3-Data-Visualization/13-meaningful-visualizations/README.md) | TBD    |
+| Communication                     | Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](4-Data-Science-Lifecycle/16-communication/README.md)         | TBD    |
 
 
 ## Stage 3: Machine Learning 
