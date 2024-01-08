@@ -6,7 +6,7 @@ ArewaDS website: https://arewadatascience.github.io
 
 # Table of Contents (Arewa DS)
 
-- [Table of Contents](#table-of-contents)
+- [Table of Contents (Arewa DS)](#table-of-contents-arewa-ds)
 - [Arewa Data Science and Machine Learning Curriculum!](#arewa-data-science-and-machine-learning-curriculum)
     - [Key Features:](#key-features)
     - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
@@ -150,7 +150,7 @@ The second part of the fellowship is all about Data Science. You'll learn to cle
 
 | Topic                             | Learning Objectives                                                                                                     | Lesson Resources                        | Mentor |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |
-| Defining Data Science             | Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data.              | [Introduction to Data Science](#)       | TBD    |
+| Defining Data Science             | Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data.              | [Introduction to Data Science](/introduction/README.md)       | TBD    |
 | Defining Data                     | Introduction to data classification and common data sources.                                                            | [Understanding Data Types](#)           | TBD    |
 | Data Preparation                  | Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](#)        | TBD    |
 | Visualizing Quantities            | Learn to use Matplotlib to visualize data, such as bird populations.                                                    | [Visualizing with Matplotlib](#)        | TBD    |
