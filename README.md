@@ -144,7 +144,7 @@ Here's the challenge you'll be undertaking:
 
 ## Stage 2: Data Science
 
-**Duration: 6 weeks**  | [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md) | 
+**Duration: 6 weeks**  | [attendance list](#) | 
 
 The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. In addition to the technical skills, fellows are expected to complete the ["Writing in the Sciences"](https://www.coursera.org/learn/sciwrite) course on Coursera to hone their ability to communicate scientific findings effectively.
 
