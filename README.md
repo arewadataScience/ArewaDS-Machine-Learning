@@ -153,8 +153,6 @@ The second part of the fellowship is all about Data Science. You'll learn to cle
 |         Blogging using Medium                          |  Learn how to start writing blogs using Medium                                                                 | [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd)  | Lukman|
 | Defining Data Science             | Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data.              | [Introduction to Data Science](1-Introduction/README.md)       | TBD    |
 | Defining Data                     | Introduction to data classification and common data sources.                                                            | [Understanding Data Types](2-Working-With-Data/README.md)           | TBD    |
-| Pandas, Numpy and Matplotlib      |             |||
-
 | Data Preparation                  | Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](2-Working-With-Data/08-data-preparation/README.md)        | TBD    |
 | Visualizing Quantities            | Learn to use Matplotlib to visualize data, such as bird populations.                                                    | [Visualizing with Matplotlib](3-Data-Visualization/09-visualization-quantities/README.md)        | TBD    |
 | Visualizing Distributions of Data | Visualize observations and trends within intervals.                                                                     | [Data Distributions Visualization](3-Data-Visualization/10-visualization-distributions/README.md)   | TBD    |
