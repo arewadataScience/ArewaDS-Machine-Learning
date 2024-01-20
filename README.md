@@ -148,6 +148,8 @@ Here's the challenge you'll be undertaking:
 
 The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. In addition to the technical skills, fellows are expected to complete the ["Writing in the Sciences"](https://www.coursera.org/learn/sciwrite) course on Coursera to hone their ability to communicate scientific findings effectively.
 
+Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary) and [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692).
+
 | Topic                             | Learning Objectives                                                                                                     | Lesson Resources                        | Mentor |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |
 |         Blogging using Medium                          |  Learn how to start writing blogs using Medium                                                                 | [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd)  | Lukman|
