@@ -107,7 +107,7 @@ Check out more about `NaN` and `None` from the [notebook](https://github.com/mic
 
 - **Detecting null values**: In `pandas`, the `isnull()` and `notnull()` methods are your primary methods for detecting null data. Both return Boolean masks over your data. We will be using `numpy` for `NaN` values:
 ```python
-import numpy as np
+import pandas as pd
 
 example1 = pd.Series([0, np.nan, '', None])
 example1.isnull()
