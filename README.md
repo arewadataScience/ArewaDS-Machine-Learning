@@ -150,10 +150,9 @@ The second part of the fellowship is all about Data Science. You'll learn to cle
 
 Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary) and [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692).
 
-| Topic                             | Learning Objectives and Topics                                                                                                  | Lesson Resources                        | Recording |Mentor | 
+| Topic                             | Learning Objectives and Topics                                                                                          | Lesson Resources                        | Recording |Mentor | 
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |------ |
-|     20/01/2024                         |  **Blogging using Medium:** Learn how to start writing blogs using Medium
-                                                                 | [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd) | Recording  | Lukman|
+|     20/01/2024                    |  **Blogging using Medium:** Learn how to start writing blogs using Medium| [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd) | Recording  | Lukman|
 | Defining Data Science             | Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data.              | [Introduction to Data Science](1-Introduction/README.md)       |     |  Dr Ibrahim 
 | Defining Data                     | Introduction to data classification and common data sources.                                                            | [Understanding Data Types](2-Working-With-Data/README.md)           |     |  Dr Ibrahim 
 | Data Preparation                  | Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](2-Working-With-Data/08-data-preparation/README.md)        | TBD    |
