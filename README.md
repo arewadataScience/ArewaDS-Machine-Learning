@@ -163,7 +163,7 @@ Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary
 |     17/02/2024        |  Visualizing Proportions: Visualize discrete and grouped percentages.                                                                             | [Proportions Visualization](3-Data-Visualization/11-visualization-proportions/README.md)          |     |
 |  18/02/2024       |  Visualizing Relationships : Visualize connections and correlations between datasets and variables.                                                  | [Relationships Visualization](3-Data-Visualization/12-visualization-relationships/README.md)        |     |
 |   18/02/2024      |  Meaningful Visualizations : Create valuable visualizations for effective problem-solving and insights.                                              | [Creating Meaningful Visualizations](3-Data-Visualization/13-meaningful-visualizations/README.md) |     |
-|                   |  Communication : Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](4-Data-Science-Lifecycle/16-communication/README.md)         |     |
+|     18/02/2024               |  Communication : Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](4-Data-Science-Lifecycle/16-communication/README.md)         |     |
 
 
 ## Stage 3: Machine Learning 
