@@ -1,0 +1,7 @@
+method_name: ensemble
+method_description: ensembled
+project_url: 
+publication_url: 
+bibtex: 
+team_name: Tübingen\-CL
+organization_or_affiliation: 

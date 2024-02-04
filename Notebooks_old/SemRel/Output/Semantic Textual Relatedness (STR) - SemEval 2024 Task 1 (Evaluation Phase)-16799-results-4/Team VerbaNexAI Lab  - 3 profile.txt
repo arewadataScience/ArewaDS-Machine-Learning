@@ -1,0 +1,12 @@
+Organization: None
+Team Name: VerbaNexAI Lab
+Team Members: Anderson Morillo 
+Daniel peña
+Juan Santos
+Edwin Puertas
+Method Name: None
+Method Description: 
+Contact Email: None
+Project URL: None
+Publication URL: None
+Bibtex: 

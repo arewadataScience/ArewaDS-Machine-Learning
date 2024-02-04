@@ -1,0 +1,11 @@
+Organization: None
+Team Name: NLP-LISAC
+Team Members: Abdessamad BENLAHBIB
+Hamza Alami
+Achraf Boumhidi
+Method Name: None
+Method Description: 
+Contact Email: None
+Project URL: None
+Publication URL: None
+Bibtex: 
