@@ -1,0 +1,32 @@
+{
+	"name": "ml-for-beginners",
+	"version": "1.0.0",
+	"description": "Machine Learning for Beginners - A Curriculum",
+	"main": "index.js",
+	"scripts": {
+		"convert": "node_modules/.bin/docsify-to-pdf"
+	},
+	"repository": {
+		"type": "git",
+		 "url": "git+https://github.com/arewadataScience/ML-4-Beginners-Arewa-Datascience.git"
+
+			},
+	"keywords": [
+		"machine",
+		"learning",
+		"ml",
+		"ai",
+		"curriculum"
+	],
+	"author": "Jen Looper and team",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/arewadataScience/ML-4-Beginners-Arewa-Datascience/issues"
+
+	},
+	"homepage": "https://github.com/arewadataScience/ML-4-Beginners-Arewa-Datascience#readme",
+
+	"devDependencies": {
+		"docsify-to-pdf": "0.0.5"
+	}
+}
