@@ -175,25 +175,32 @@ Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary
 In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
 
 
-| Topic                                         | Learning Objectives                                                                 | Lesson Resources | Mentor |
-| --------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------- | ------ |
-| Introduction to Machine Learning | Learn the basic concepts behind machine learning.                                   | [Lesson](Machine-Learning/1-Introduction/1-intro-to-ML/README.md)      | TBD    |
-| The History of Machine Learning               | Learn the history underlying this field.                                            | [Lesson](Machine-Learning/1-Introduction/2-history-of-ML/README.md)      | TBD    |
-| Techniques for Machine Learning               | Discover the techniques ML researchers use to build ML models.                      | [Lesson](Machine-Learning/1-Introduction/4-techniques-of-ML/README.md)      | TBD    |
-| Introduction to Regression                    | Get started with regression models using Python and Scikit-learn.                   | [Lesson](Machine-Learning/2-Regression/README.md)      | TBD    |
-| North American Pumpkin Prices 🎃               | Visualize and clean data; build linear, polynomial, and logistic regression models. | [Lesson](Machine-Learning/2-Regression/README.md)      | TBD    |
-| Introduction to Classification                | Introduction to data cleaning, preparation, and visualization for classification.   | [Lesson](Machine-Learning/4-Classification/README.md)      | TBD    |
-| Delicious Asian and Indian Cuisines 🍜         | Learn about classifiers; build a recommender web app using your model.              | [Lesson](Machine-Learning/4-Classification/4-Applied/README.md)      | TBD    |
-| Introduction to Clustering                    | Learn about clustering and data visualization.                                      | [Lesson](Machine-Learning/5-Clustering/1-Visualize/README.md)      | TBD    |
-| Exploring Nigerian Musical Tastes 🎧           | Explore the K-Means clustering method with music data.                              | [Lesson](Machine-Learning/5-Clustering/2-K-Means/README.md)      | TBD    |
-| Introduction to Natural Language Processing ☕️ | Learn the basics of NLP by building a simple bot.                                   | [Lesson](Machine-Learning/6-NLP/1-Introduction-to-NLP/README.md)      | TBD    |
-| Common NLP Tasks ☕️                            | Understand common tasks in NLP dealing with language structures.                    | [Lesson](Machine-Learning/6-NLP/README.md)      | TBD    |
-| Translation and Sentiment Analysis ♥️          | Perform translation and sentiment analysis with literary texts.                     | [Lesson](Machine-Learning/6-NLP/3-Translation-Sentiment/README.md)      | TBD    |
-| Romantic Hotels of Europe ♥️                   | Conduct sentiment analysis with European hotel reviews.                             | [Lesson](Machine-Learning/6-NLP/4-Hotel-Reviews-1/README.md)      | TBD    |
-| Introduction to Time Series Forecasting       | Learn the basics of time series forecasting.                                        | [Lesson](Machine-Learning/7-TimeSeries/README.md)      | TBD    |
-| Introduction to Reinforcement Learning        | Get introduced to reinforcement learning with Q-Learning.                           | [Lesson](Machine-Learning/8-Reinforcement/README.md)      | TBD    |
-| Introduction to Kaggle                        | Learn how to participate in Kaggle competition                                      | [Lesson](#)      | TBD    |
-| MLFlow**                        | Learn how to get started with MLflow                                  | [Lesson](#)      | TBD    |
+## Stage 3: Machine Learning
+
+**Duration: 8 weeks**
+
+In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
+
+| Date       | Topic                                           | Learning Objectives                                                                   | Lesson Resources                                                                 | Recording | Mentor |
+|------------|-------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------|--------|
+| 19/02/2024 | Introduction to Machine Learning               | Learn the basic concepts behind machine learning.                                     | [Lesson](Machine-Learning/1-Introduction/1-intro-to-ML/README.md)                | TBD       | TBD    |
+| 26/02/2024 | The History of Machine Learning                | Learn the history underlying this field.                                              | [Lesson](Machine-Learning/1-Introduction/2-history-of-ML/README.md)              | TBD       | TBD    |
+| 05/03/2024 | Techniques for Machine Learning                | Discover the techniques ML researchers use to build ML models.                        | [Lesson](Machine-Learning/1-Introduction/4-techniques-of-ML/README.md)           | TBD       | TBD    |
+| 12/03/2024 | Introduction to Regression                     | Get started with regression models using Python and Scikit-learn.                     | [Lesson](Machine-Learning/2-Regression/README.md)                                 | TBD       | TBD    |
+| 19/03/2024 | North American Pumpkin Prices 🎃                | Visualize and clean data; build linear, polynomial, and logistic regression models.  | [Lesson](Machine-Learning/2-Regression/README.md)                                 | TBD       | TBD    |
+| 26/03/2024 | Introduction to Classification                 | Introduction to data cleaning, preparation, and visualization for classification.    | [Lesson](Machine-Learning/4-Classification/README.md)                             | TBD       | TBD    |
+| 02/04/2024 | Delicious Asian and Indian Cuisines 🍜          | Learn about classifiers; build a recommender web app using your model.               | [Lesson](Machine-Learning/4-Classification/4-Applied/README.md)                   | TBD       | TBD    |
+| 09/04/2024 | Introduction to Clustering                     | Learn about clustering and data visualization.                                       | [Lesson](Machine-Learning/5-Clustering/1-Visualize/README.md)                     | TBD       | TBD    |
+| 16/04/2024 | Exploring Nigerian Musical Tastes 🎧            | Explore the K-Means clustering method with music data.                               | [Lesson](Machine-Learning/5-Clustering/2-K-Means/README.md)                       | TBD       | TBD    |
+| 23/04/2024 | Introduction to Natural Language Processing ☕️ | Learn the basics of NLP by building a simple bot.                                    | [Lesson](Machine-Learning/6-NLP/1-Introduction-to-NLP/README.md)                  | TBD       | TBD    |
+| 30/04/2024 | Common NLP Tasks ☕️                            | Understand common tasks in NLP dealing with language structures.                     | [Lesson](Machine-Learning/6-NLP/README.md)                                        | TBD       | TBD    |
+| 07/05/2024 | Translation and Sentiment Analysis ♥️          | Perform translation and sentiment analysis with literary texts.                      | [Lesson](Machine-Learning/6-NLP/3-Translation-Sentiment/README.md)                | TBD       | TBD    |
+| 14/05/2024 | Romantic Hotels of Europe ♥️                   | Conduct sentiment analysis with European hotel reviews.                              | [Lesson](Machine-Learning/6-NLP/4-Hotel-Reviews-1/README.md)                      | TBD       | TBD    |
+| 21/05/2024 | Introduction to Time Series Forecasting        | Learn the basics of time series forecasting.                                         | [Lesson](Machine-Learning/7-TimeSeries/README.md)                                 | TBD       | TBD    |
+| 28/05/2024 | Introduction to Reinforcement Learning         | Get introduced to reinforcement learning with Q-Learning.                            | [Lesson](Machine-Learning/8-Reinforcement/README.md)                              | TBD       | TBD    |
+| 04/06/2024 | Introduction to Kaggle                         | Learn how to participate in Kaggle competition                                       | [Lesson](#)                                                                       | TBD       | TBD    |
+| 11/06/2024 | MLFlow**                                       | Learn how to get started with MLflow                                                 | [Lesson](#)                                                                       | TBD       | TBD    |
+
 
 
 
