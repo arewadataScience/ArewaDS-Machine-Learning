@@ -208,7 +208,7 @@ In the final part of the fellowship, we'll focus on Machine Learning. You'll lea
 |            | Romantic Hotels of Europe ♥️: Conduct sentiment analysis with European hotel reviews.                              | Natural Language Processing     | [Lesson](Machine-Learning/6-NLP/4-Hotel-Reviews-1/README.md)                      | TBD       | TBD    |
 |            | Introduction to Time Series Forecasting: Learn the basics of time series forecasting.                                         | Time Series                     | [Lesson](Machine-Learning/7-TimeSeries/README.md)                                 | TBD       | TBD    |
 |            | Introduction to Reinforcement Learning: Get introduced to reinforcement learning with Q-Learning.                            | Reinforcement Learning          | [Lesson](Machine-Learning/8-Reinforcement/README.md)                              | TBD       | TBD    |
-|            | Introduction to Kaggle: Learn how to participate in Kaggle competition                                       | Kaggle                          | [Lesson](#)                                                                       | TBD       | TBD    |
+|            | Introduction to Kaggle: Learn how to participate in Kaggle competition                                       | Kaggle                          | [Lesson](https://machinelearningmastery.com/get-started-with-kaggle/)                                                                       | TBD       | TBD    |
 |            | MLFlow**: Learn how to get started with MLflow                                                 | MLFlow                           | [Lesson](#)                                                                       | TBD       | TBD    |
 
 
