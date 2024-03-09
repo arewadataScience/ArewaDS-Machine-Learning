@@ -20,6 +20,7 @@ ArewaDS website: https://arewadatascience.github.io
     - [30 Days of Python Challenge](#30-days-of-python-challenge)
   - [Stage 2: Data Science](#stage-2-data-science)
   - [Stage 3: Machine Learning](#stage-3-machine-learning)
+  - [Stage 3: Machine Learning](#stage-3-machine-learning-1)
   - [Career Services, Soft Skills and Mentorship](#career-services-soft-skills-and-mentorship)
 
 
@@ -179,7 +180,11 @@ In the final part of the fellowship, we'll focus on Machine Learning. You'll lea
 
 **Duration: 8 weeks**
 
-Recommended Book: [Machine Learning with PyTorch and Scikit-Learn Book](#) and [Youtube Series on this book chapters](https://www.youtube.com/playlist?list=PLr3-oFRsHRaZwmVUPMvnDUZV-j2zaK5zU).
+Recommended Book: 
+
+- [Machine Learning with PyTorch and Scikit-Learn Book](#) and [Youtube Series on this book chapters](https://www.youtube.com/playlist?list=PLr3-oFRsHRaZwmVUPMvnDUZV-j2zaK5zU).
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3e: Concepts, Tools, and Techniques to Build Intelligent Systems
 
 
 In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
