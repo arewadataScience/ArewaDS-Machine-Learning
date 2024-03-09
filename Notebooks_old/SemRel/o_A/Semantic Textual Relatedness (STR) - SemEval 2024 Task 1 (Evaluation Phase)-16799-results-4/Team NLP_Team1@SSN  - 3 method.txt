@@ -1,9 +1,0 @@
-method_name: Finetuned\ st5_large
-method_description: We\ have\ used\ SBERT\ deep\ neural\ network\ architecture\ with\ sentence\-t5\-large\ pretrained\ language\ model\ \(LM\)\ for\ tokenisation\ and\ fine\-tuning\ the\ model\.\ This\ is\ a\ sentence\-transformers\ model\ that\ maps\ sentences\ \&\ paragraphs\ to\ a\ 768\ dimensional\ dense\ vector\ space\ and\ works\ well\ for\ sentence\ similarity\ tasks\.\ The\ model\ uses\ only\ the\ encoder\ from\ a\ T5\-large\ model\.\ The\ weights\ are\ stored\ in\ FP16\.\
-\
-The\ model\ achieved\ 0\.824\ in\ Spearman\ correlation\ coefficient\ during\ the\ development\ phase\ after\ training\ the\ model\ for\ 9\ epochs\.\ The\ model\ was\ also\ tested\ with\ other\ multilingual\ models\ such\ as\ LaBSE\ \(0\.82\),\ paraphrase–multilingual–mpnet–base–v2\ \(0\.81\)\ and\ Indic\-Bert\(0\.72\)\ during\ the\ development\ phase\ but\ the\ sentence\-t5\-large\ performs\ the\ better\ textual\ similarity score\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: NLP_Team1@SSN
-organization_or_affiliation: SSN\ College\ Of\ Engineering

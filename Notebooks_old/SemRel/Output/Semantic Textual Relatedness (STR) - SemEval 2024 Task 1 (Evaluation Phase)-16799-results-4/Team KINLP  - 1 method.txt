@@ -1,7 +1,0 @@
-method_name: Translate\ them\ all
-method_description: The\ data\ from\ Track\ A\ is\ first\ translated\ into\ Kinyarwanda,\ then\ we\ fine\-tune\ and\ evaluate\ a\ Kinyarwanda\ specific\ model\ on\ the\ translated\ data\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: KINLP
-organization_or_affiliation: 

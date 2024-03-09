@@ -1,7 +1,0 @@
-method_name: Roberta_Base_Regress
-method_description: For\\\ our\\\ approach\\\ to\\\ the\\\ on\\\ semantic\\\ relatedness\\\ we\\\ utilized\\\ RoBERTa\\\ Base\\\ in\\\ a\\\ regressive\\\ manner\\\.\\\ the\\\ initial\\\ data\\\ preprocessing\\\ involves\\\ tokenizing\\\ sentences\\\ using\\\ RoBERTa's\\\ tokenizer\\\ and\\\ normalizing\\\ semantic\\\ relatedness\\\ scores\\\.\\\ The\\\ RoBERTa\\\ Base\\\ architecture\\\ is\\\ configured\\\ for\\\ regression,\\\ and\\\ during\\\ the\\\ fine\\\-tuning\\\ on\\\ the\\\ training\\\ set,\\\ we\\\ utilize\\\ Mean\\\ Squared\\\ Error\\\ loss\\\ and\\\ optimize\\\ with\\\ the\\\ Adam\\\ optimizer\\\.\\\ Evaluation\\\ on\\\ the\\\ validation\\\ set\\\ employs\\\ custom\\\ regression\\\ metrics,\\\ including\\\ Mean\\\ Squared\\\ Error\\\ \\\(MSE\\\),\\\ Mean\\\ Absolute\\\ Error\\\ \\\(MAE\\\),\\\ R\\\-squared\\\ \\\(R2\\\),\\\ and\\\ a\\\ specialized\\\ accuracy\\\ metric\\\ accounting\\\ for\\\ deviations\\\ within\\\ a\\\ threshold\\\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Sharif_SLPL
-organization_or_affiliation: Sharif\\\ University\\\ of\\\ Technology

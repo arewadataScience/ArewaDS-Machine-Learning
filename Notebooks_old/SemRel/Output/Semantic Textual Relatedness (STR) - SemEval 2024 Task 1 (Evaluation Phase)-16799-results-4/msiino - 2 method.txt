@@ -1,7 +1,0 @@
-method_name: all\\\-mpnet
-method_description: all\\\-mpnet\\\-zero\\\-shot
-project_url: 
-publication_url: 
-bibtex: 
-team_name: mpnet\-zero\-shot\-eng
-organization_or_affiliation: 

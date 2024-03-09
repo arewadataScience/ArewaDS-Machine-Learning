@@ -1,9 +1,0 @@
-method_name: Transformer\ Model
-method_description: In\ this\ competition\ our\ main\ goal\ is\ to\ find\ the\ semantic\ similarity\ between\ two\ sentences\.\ At\ first,\ we\ have\ preprocessed\ the\ train\ and\ test\ dataset\.\ To\ find\ similarity\ score\ we\ have\ used\ pretrained\ ‘all\-MiniLM\-L6\-v2’\ sentence\ transformer\.\ For\ training\ the\ model\ we\ have\ used\ the\ dataset\ given\ in\ the\ SemEval\ GitHub\.\ For\ validation\ we\ have\ used\ the\ dev\ dataset\ which\ was\ released\ with\ respective\ score\ after\ phase\ 1\.\
-We\ have\ finetuned\ the\ pretrained\ model\.\ For\ training\ the\ model\ we\ have\ used\ ‘CosineSimilarityLoss’\ as\ loss\ function\ to\ evaluate\ after\ each\ epoch\.\ The\ batch\ size\ is\ 16\ and\ after\ each\ iteration\ the\ data\ is\ shuffled\.\ The\ warm\ up\ step\ is\ set\ to\ 750\.\ The\ number\ of\ epochs\ is\ 10\.\ As\ optimizer\ we\ have\ used\ ‘AdamW’\ from\ PyTorch\.\ Learning\ rate\ is\ set\ to\ 0\.00001\.\ Weight\ decay\ of\ 0\.0000005\ is\ assigned\ to\ prevent\ overfitting\.\ The\ model\ is\ evaluated\ after\ every\ 100\ steps\ which\ is\ defined\ during\ training\.\ After\ training\ the\ model\ with\ our\ training\ set,\ we\ feed\ the\ test\ dataset\ in\ the\ model\ and\ get\ the\ respective\ similarity\ score\ accordingly\.\
-
-project_url: 
-publication_url: 
-bibtex: 
-team_name: SemanticCUETSync
-organization_or_affiliation: 

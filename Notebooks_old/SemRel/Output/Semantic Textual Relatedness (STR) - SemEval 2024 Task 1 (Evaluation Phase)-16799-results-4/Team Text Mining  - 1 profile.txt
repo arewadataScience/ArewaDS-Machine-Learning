@@ -1,9 +1,0 @@
-Organization: None
-Team Name: Text Mining
-Team Members: Ron Keinan
-Method Name: None
-Method Description: 
-Contact Email: None
-Project URL: None
-Publication URL: None
-Bibtex: 

@@ -1,9 +1,0 @@
-Organization: None
-Team Name: NLP_STR_teamS
-Team Members: Sls
-Method Name: None
-Method Description: 
-Contact Email: None
-Project URL: None
-Publication URL: None
-Bibtex: 

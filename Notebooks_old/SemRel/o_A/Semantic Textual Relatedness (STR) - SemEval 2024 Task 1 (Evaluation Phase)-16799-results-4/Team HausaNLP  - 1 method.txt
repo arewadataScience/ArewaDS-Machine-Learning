@@ -1,7 +1,0 @@
-method_name: mBERT\-base\-cased
-method_description: mBERT\-base\-cased\ is\ a\ derivative\ of\ BERT\ model\ trained\ on\ 104\ languages\.\ 
-project_url: 
-publication_url: 
-bibtex: 
-team_name: HausaNLP
-organization_or_affiliation: 

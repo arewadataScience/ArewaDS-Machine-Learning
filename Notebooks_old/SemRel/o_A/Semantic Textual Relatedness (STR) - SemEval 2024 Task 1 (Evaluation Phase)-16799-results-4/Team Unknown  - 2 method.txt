@@ -1,7 +1,0 @@
-method_name: RoBERTaAttentionRegr
-method_description: Leverage\\\ the\\\ pre\\\-trained\\\ RoBERTa\\\-base\\\ model\\\ to\\\ encode\\\ the\\\ semantic\\\ meaning\\\ of\\\ input\\\ sentence\\\ pairs\\\.\\\ Then\\\ the\\\ hidden\\\ states\\\ from\\\ the\\\ last\\\ RoBERTa\\\ layer\\\ are\\\ input\\\ to\\\ an\\\ attention\\\ neural\\\ network\\\ which\\\ computes\\\ context\\\ vector\\\ representations\\\ by\\\ taking\\\ a\\\ weighted\\\ average\\\ of\\\ the\\\ hidden\\\ states\\\.\\\ Finally,\\\ the\\\ regressor\\\ which\\\ is\\\ a\\\ feedforward\\\ neural\\\ network\\\ makes\\\ a\\\ semantic\\\ relatedness\\\ score\\\ prediction\\\ based\\\ on\\\ the\\\ context\\\ vectors\\\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Unknown
-organization_or_affiliation: 

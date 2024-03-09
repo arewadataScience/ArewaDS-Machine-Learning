@@ -1,7 +1,0 @@
-method_name: bert\-base\-uncased
-method_description: bert\-base\-uncased
-project_url: 
-publication_url: 
-bibtex: 
-team_name: HausaNLP
-organization_or_affiliation: 

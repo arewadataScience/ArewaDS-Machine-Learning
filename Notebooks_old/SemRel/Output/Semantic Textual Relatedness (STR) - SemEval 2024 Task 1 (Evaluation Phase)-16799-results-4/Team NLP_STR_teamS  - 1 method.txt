@@ -1,7 +1,0 @@
-method_name: BERT_MASK_Prediction
-method_description: Construct\ a\ new\ sentence,\ 'The\ correlation\ of\ the\ next\ two\ sentences\ \{sent0\}\ and\ \{sent1\}\ is\ \[MASK\]',\ \ where\ \[MASK\]\ is\ used\ to\ predict\ the\ correlation\ between\ the\ two\ sentences\.\ Training\ is\ performed\ based\ on\ the\ BERT\ model,\ and\ text\ data\ augmentation\ techniques\ are\ also\ employed\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: NLP_STR_teamS
-organization_or_affiliation: 

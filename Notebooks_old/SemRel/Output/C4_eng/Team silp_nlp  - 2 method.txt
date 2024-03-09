@@ -1,7 +1,0 @@
-method_name: xlm\\\-r\\\ cross
-method_description: xlm\\\-r\\\ cross\\\ language\\\ used\\\ for\\\ finetuned\\\ all\\\ language\\\ except\\\ current\\\ lanhuage
-project_url: 
-publication_url: 
-bibtex: 
-team_name: silp_nlp
-organization_or_affiliation: IIIT\-\ Allahabad

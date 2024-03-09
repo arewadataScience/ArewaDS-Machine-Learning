@@ -1,8 +1,0 @@
-method_name: mpnet\-base\ model
-method_description: \
-We\ use\ the\ pretrained\ microsoft/mpnet\-base\ model\.\ We\ transformed\ the\ pair\ of\ sentences,\ and\ later\ we\ calculated\ the\ cosine\ similarity\ measure\ to\ train\ a\ regression\ model\ using\ the\ Support\ Vector\ Machine\ regressor\ algorithm\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: INGEOTEC
-organization_or_affiliation: INFOTEC\ and\ CentroGeo\ \(Public\ Research\ Centers\)

@@ -1,7 +1,0 @@
-method_name: \-
-method_description: Siamese\ Network
-project_url: 
-publication_url: 
-bibtex: 
-team_name: YSP
-organization_or_affiliation: 

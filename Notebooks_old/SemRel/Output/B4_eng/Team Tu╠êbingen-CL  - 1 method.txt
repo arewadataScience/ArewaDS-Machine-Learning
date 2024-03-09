@@ -1,7 +1,0 @@
-method_name: ensemble
-method_description: ensembled\ unsupervised\ models\ 
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Tübingen\-CL
-organization_or_affiliation: Tübingen\-University

@@ -1,7 +1,0 @@
-method_name: topk\ pair\ encoding
-method_description: weak\ supervision\ of\ topk\ resampling\ with\ bert\ based\ models
-project_url: 
-publication_url: 
-bibtex: 
-team_name: team\ triplet
-organization_or_affiliation: 

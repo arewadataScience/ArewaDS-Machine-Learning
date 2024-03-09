@@ -1,7 +1,0 @@
-method_name: TrainSent\-English
-method_description: The\ training\ dataset\ provided\ is\ preprocessed\ and\ is\ then\ used\ to\ create\ a\ dataloader\ using\ pytorch\ for\ training\ purposes\.\ The\ model\ used\ for\ training\ the\ dataset\ is\ “all\-mpnet\-base\-v2”\ sentence\ transformers\.\ This\ model\ is\ used\ for\ processing\ textual\ data\ training\ on\ the\ provided\ dataset\.\ The\ loss\ is\ optimized\ using\ cosine\ similarity,\ and\ it's\ trained\ on\ 3\ epochs\.\ The\ model\ iterates\ through\ the\ sentence\ pairs\ from\ the\ dataset\ and\ then\ it\ computes\ the\ embeddings\ and\ the\ cosine\ similarity\ between\ the\ embeddings,\ and\ the\ resulting\ scores\ are\ calculated\.\ The\ model\ which\ is\ trained\ is\ used\ for\ computing\ the\ values\ on\ the\ test\ set\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: CAILMD\-23
-organization_or_affiliation: 

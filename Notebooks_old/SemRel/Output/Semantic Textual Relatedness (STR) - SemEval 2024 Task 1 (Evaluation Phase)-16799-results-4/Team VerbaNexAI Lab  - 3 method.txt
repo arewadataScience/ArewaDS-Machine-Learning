@@ -1,7 +1,0 @@
-method_name: no\ train\ embedding
-method_description: 4\\\ layers\\\ approach\\\ using,\\\ the\\\ first\\\ layer\\\ is\\\ lexical\\\ similarity,\\\ the\\\ second\\\ \\\ Knowledge\\\-oriented\\\ similarity,\\\ third\\\ Corpus\\\ oriented\\\ and\\\ the\\\ last\\\ one\\\ Sentence\\\ embedding,\\\ specially\\\ using\\\ lstm,\\\ fonemas\\\ and\\\ transmormer\\\ features\\\ in\\\ the\\\ last\\\ layer
-project_url: https://github\\\.com/VerbaNexAI/SemEval2024/tree/main/Taks_1
-publication_url: 
-bibtex: 
-team_name: VerbaNexAI\\\ Lab
-organization_or_affiliation: Universidad\\\ Tecnológica\\\ de Bolívar

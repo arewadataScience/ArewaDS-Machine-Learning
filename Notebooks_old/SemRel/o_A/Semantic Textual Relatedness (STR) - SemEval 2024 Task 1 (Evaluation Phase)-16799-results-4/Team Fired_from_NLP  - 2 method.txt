@@ -1,7 +1,0 @@
-method_name: Finetuning\\\ BERT
-method_description: Epochs:\\\ 12,\\\ Batch\\\ size:\\\ 8,\\\ Learning\\\ rate:\\\ 9e\\\-6
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Fired_from_NLP
-organization_or_affiliation: Chittagong\\\ University\\\ of\\\ Engineering\\\ and\\\ Technology\\\ \\\(CUET\\\)

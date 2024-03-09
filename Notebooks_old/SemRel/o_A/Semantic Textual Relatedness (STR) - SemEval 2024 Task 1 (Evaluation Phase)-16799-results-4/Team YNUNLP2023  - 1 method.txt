@@ -1,7 +1,0 @@
-method_name: Self\\\-Instruction
-method_description: Self\-Instruction\ Tuning\ in\ LLM
-project_url: https://github\.com/awei\-lwj/A\-Tiny\-C\-Interpreter
-publication_url: https://github\.com/awei\-lwj/A\-Tiny\-C\-Interpreter
-bibtex: 
-team_name: YNUNLP2023
-organization_or_affiliation: Yunnan\ University

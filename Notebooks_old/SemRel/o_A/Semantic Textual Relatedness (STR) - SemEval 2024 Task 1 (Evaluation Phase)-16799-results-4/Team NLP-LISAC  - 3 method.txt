@@ -1,7 +1,0 @@
-method_name: deberta
-method_description: microsoft/deberta\\\-v3\\\-large\\\ \\\-\\\ 5\\\ epochs\\\ \\\-\\\ 4\\\ batch\\\ size\\\ \\\-\\\ Whole\\\ data\\\ train\\\ and\\\ dev\\\ mixed\\\ shifted\\\ 150\\\ max\\\ token\\\ \\\-\\\ Huber\\\ Loss
-project_url: 
-publication_url: 
-bibtex: 
-team_name: NLP\-LISAC
-organization_or_affiliation: 

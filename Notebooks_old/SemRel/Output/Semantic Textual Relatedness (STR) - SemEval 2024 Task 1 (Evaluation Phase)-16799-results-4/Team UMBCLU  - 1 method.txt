@@ -1,7 +1,0 @@
-method_name: 
-method_description: 
-project_url: 
-publication_url: 
-bibtex: 
-team_name: 
-organization_or_affiliation: 

@@ -1,7 +1,0 @@
-method_name: BERT\+MT
-method_description: We\ used\ fine\-tuned\ BERT\ for\ English,\ and\ the\ same\ fine\-tuned\ BERT\ and\ machine\ translation\ for\ other\ languages\ except\ for\ Spanish\.\ For\ Spanish,\ we\ used\ a\ multilingual\ model\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: OZemi
-organization_or_affiliation: Waseda\ University

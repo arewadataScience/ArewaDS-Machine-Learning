@@ -1,7 +1,0 @@
-method_name: EnglishSent\-B
-method_description: In\ Track\ B\-English,\ given\ the\ unsupervised\ nature\ of\ the\ dataset,\ a\ pre\-trained\ BERT\-based\ uncased\ model\ is\ utilized\.\ This\ model,\ although\ not\ explicitly\ trained\ on\ an\ English\ semantic\ similarity\ dataset,\ is\ employed\ to\ tokenize\ and\ encode\ the\ input\ sentences\ from\ the\ dataset,\ resulting\ in\ embeddings\.\ Subsequently,\ the\ cosine\ similarity\ of\ these\ embeddings\ is\ computed\ to\ derive\ the\ similarity\ score
-project_url: 
-publication_url: 
-bibtex: 
-team_name: CAILMD\-23
-organization_or_affiliation: 

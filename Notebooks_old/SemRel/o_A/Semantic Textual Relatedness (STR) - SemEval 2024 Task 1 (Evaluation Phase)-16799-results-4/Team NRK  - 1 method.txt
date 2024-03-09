@@ -1,7 +1,0 @@
-method_name: DomAdt
-method_description: This\ research\ presents\ a\ robust\ methodology\ for\ enhancing\ semantic\ textual\ relatedness\ models\ through\ the\ integration\ of\ domain\ adaptation\ techniques\ and\ cross\-lingual\ modeling\.\ The\ proposed\ approach\ leverages\ a\ cross\-encoder\ architecture\ to\ measure\ the\ relatedness\ between\ pairs\ of\ text,\ with\ a\ focus\ on\ adapting\ the\ model\ to\ different\ domains\ and\ languages\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: NRK
-organization_or_affiliation: 

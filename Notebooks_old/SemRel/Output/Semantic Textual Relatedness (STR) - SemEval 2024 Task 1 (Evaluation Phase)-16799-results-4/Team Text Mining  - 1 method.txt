@@ -1,7 +1,0 @@
-method_name: BERT\ UC\ SVR\ noPP
-method_description: BERT\ uncased\ SVR\ regressor\ no\ preprocessing
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Text\ Mining
-organization_or_affiliation: 

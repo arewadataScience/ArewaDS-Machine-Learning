@@ -1,9 +1,0 @@
-Organization: 
-Team Name: 
-Team Members: None
-Method Name: 
-Method Description: 
-Contact Email: 
-Project URL: 
-Publication URL: 
-Bibtex: 

@@ -1,9 +1,0 @@
-Organization: None
-Team Name: NRK
-Team Members: Nguyen Tuan Kiet
-Method Name: None
-Method Description: 
-Contact Email: None
-Project URL: None
-Publication URL: None
-Bibtex: 

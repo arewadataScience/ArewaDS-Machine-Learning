@@ -1,7 +1,0 @@
-method_name: XGB\-M4\-A\-Eng
-method_description: XGBRegressor\-ft_mpnet\-ft_roberta\-ft_t5\-ft_gpt2
-project_url: 
-publication_url: 
-bibtex: 
-team_name: UAlbertaNLP
-organization_or_affiliation: University\ of\ Alberta

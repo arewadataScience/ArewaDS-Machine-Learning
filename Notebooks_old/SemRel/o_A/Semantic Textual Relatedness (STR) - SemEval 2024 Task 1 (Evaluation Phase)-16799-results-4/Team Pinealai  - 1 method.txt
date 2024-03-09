@@ -1,9 +1,0 @@
-method_name: Deep\ learning
-method_description: \ Probabilistic\ Syntactic\ and\ Similarity\ Ensemble\ \(PSSE\)\
-\
-The\ Probabilistic\ Syntactic\ and\ Similarity\ Ensemble\ \(PESE\)\ is\ a\ novel\ approach\ for\ semantic\ relatedness\ estimation\ between\ sentence\ pairs\.\ The\ method\ combines\ both\ syntactic\ probabilities\ and\ similarity\ metrics\ to\ capture\ intricate\ relationships\ between\ words\ and\ sentences
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Pineal\ Ai
-organization_or_affiliation: IPN\-CIC,\ Pinealai

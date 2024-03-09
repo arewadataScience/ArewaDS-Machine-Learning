@@ -1,7 +1,0 @@
-method_name: Sentence\-CROBI
-method_description: Sentence\-CROBI\ is\ an\ architecture\ that\ combines\ cross\-encoders\ and\ bi\-encoders\ to\ obtain\ a\ global\ representation\ of\ sentence\ pairs\.
-project_url: 
-publication_url: https://www\.mdpi\.com/2227\-7390/10/19/3578
-bibtex: 
-team_name: MBZUAI\-UNAM
-organization_or_affiliation: 

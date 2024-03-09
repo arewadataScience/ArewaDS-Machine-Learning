@@ -1,7 +1,0 @@
-method_name: all\-MiniLM\-L6\-v2
-method_description: The\ all\-MiniLM\-L6\-v2\ model\ is\ a\ lightweight\ transformer\-based\ model\ for\ semantic\ similarity\ comparison\ with\ optimized\ model\ size\ and\ faster\ inference\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: HausaNLP
-organization_or_affiliation: 

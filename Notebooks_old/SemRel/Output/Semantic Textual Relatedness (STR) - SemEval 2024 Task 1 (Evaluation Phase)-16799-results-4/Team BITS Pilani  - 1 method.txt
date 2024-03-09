@@ -1,8 +1,0 @@
-method_name: textembedding3large
-method_description: We\ use\ openai\ text\-embedding\-3\-large\ model\ to\ generate\ the\ embeddings\ for\ the\ pair\ of\ sentences\ and\ find\ the\ spearman\ similarity\ of\ them\ both\
-
-project_url: 
-publication_url: 
-bibtex: 
-team_name: BITS\ Pilani
-organization_or_affiliation: 

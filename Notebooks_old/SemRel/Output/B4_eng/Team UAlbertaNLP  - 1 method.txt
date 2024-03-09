@@ -1,7 +1,0 @@
-method_name: Linear\-M2\-B\-Eng
-method_description: linear\-norm\-bert\-roberta
-project_url: 
-publication_url: 
-bibtex: 
-team_name: UAlbertaNLP
-organization_or_affiliation: University\ of\ Alberta

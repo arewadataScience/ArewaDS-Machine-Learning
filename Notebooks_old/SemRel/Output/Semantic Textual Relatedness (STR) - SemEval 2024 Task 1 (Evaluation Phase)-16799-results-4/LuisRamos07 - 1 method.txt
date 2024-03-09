@@ -1,7 +1,0 @@
-method_name: SimiRel\ Vectors
-method_description: Similarity\ metrics\ were\ used\ as\ characteristics\.\ Cosine\ similarity\ metrics\ were\ used\ with\ TF\-IDF\ vectors\ and\ BERT\ representative\ vectors,\ in\ addition\ to\ using\ Jaccard\ distance\ and\ Word\ Mover’s\ distance\.\ Also,\ Multilayer\ Perceptron\ were\ used\ as\ predictor\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Pinealai
-organization_or_affiliation: 

@@ -1,7 +1,0 @@
-method_name: semantics_model
-method_description: epoch:01
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Roronoa_Zoro
-organization_or_affiliation: 

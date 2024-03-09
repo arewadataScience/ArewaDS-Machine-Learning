@@ -1,7 +1,0 @@
-method_name: Cross\-EnglishSent
-method_description: For\ Track\-C,\ given\ the\ cross\-linguistic\ learning\ methodology,\ we\ have\ used\ the\ labeled\ dataset\ of\ Espanol\ to\ obtain\ results\ on\ the\ English\ test\ dataset\ using\ cross\-linguistic\ learning\.\ Although\ multilingual\ models\ were\ employed\ to\ train\ the\ dataset\ in\ Espanol\ and\ for\ testing\ in\ English,\ the\ results\ weren’t\ as\ satisfactory\ as\ using\ machine\ translation\.\ So\ the\ translation\ of\ the\ Espanol\ dataset\ to\ English\ and\ then\ training\ was\ done\ \(3\ epochs\)\ using\ “all\-mpnet\-base\-v2”\ sentence\ transformers\.\ This\ model\ which\ is\ trained\ is\ used\ for\ computing\ the\ values\ on\ the\ test\ set\ and\ the\ development\ set\.
-project_url: 
-publication_url: 
-bibtex: 
-team_name: CAILMD\-23
-organization_or_affiliation: 

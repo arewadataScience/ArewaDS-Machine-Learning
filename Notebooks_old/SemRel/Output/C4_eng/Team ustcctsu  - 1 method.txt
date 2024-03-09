@@ -1,7 +1,0 @@
-method_name: rcdcSTR
-method_description: pretrained\ language\ model\ with\ vector\ transformation
-project_url: 
-publication_url: 
-bibtex: 
-team_name: rcdc
-organization_or_affiliation: 

@@ -1,7 +1,0 @@
-method_name: LoRa\ Cross\-Encoder
-method_description: The\ method\ uses\ cross\-encoders\ pretrained\ with\ STS\-B\ and\ fine\ tuned\ with\ LoRa\ adapter\.\ 
-project_url: 
-publication_url: 
-bibtex: 
-team_name: Warwick
-organization_or_affiliation: University\ of\ Warwick

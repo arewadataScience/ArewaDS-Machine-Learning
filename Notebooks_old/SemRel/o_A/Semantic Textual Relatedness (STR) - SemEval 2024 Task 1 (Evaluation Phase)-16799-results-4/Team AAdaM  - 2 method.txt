@@ -1,7 +1,0 @@
-method_name: AAdaM
-method_description: Data\\\ augmentation\\\ and\\\ adaptation
-project_url: 
-publication_url: 
-bibtex: 
-team_name: AAdaM
-organization_or_affiliation: 
