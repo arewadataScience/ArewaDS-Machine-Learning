@@ -179,7 +179,7 @@ In the final part of the fellowship, we'll focus on Machine Learning. You'll lea
 
 **Duration: 8 weeks**
 
-Recommended Book: [Machine Learning with PyTorch and Scikit-Learn Book](#) and [Youtube Series on this book chapters](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692).
+Recommended Book: [Machine Learning with PyTorch and Scikit-Learn Book](#) and [Youtube Series on this book chapters](https://www.youtube.com/playlist?list=PLr3-oFRsHRaZwmVUPMvnDUZV-j2zaK5zU).
 
 
 In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
