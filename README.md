@@ -191,6 +191,7 @@ In the final part of the fellowship, we'll focus on Machine Learning. You'll lea
 
 
 
+
 | Date       | Topic/Learning Objectives                                                                                              | Lesson Group                   | Lesson Resources                                                                 | Recording | Mentor |
 |------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------|-----------|--------|
 | 09/03/2024 | Introduction to Machine Learning: Learn the basic concepts behind machine learning.                                     | Introduction                     | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/5-Introduction-to-ML/1-intro-to-ML)                | [Recording](https://youtu.be/0ZnKNmKEMvc)       | Shamsuddeen   |
