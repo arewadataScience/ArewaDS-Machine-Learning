@@ -199,11 +199,10 @@ In the final part of the fellowship, we'll focus on Machine Learning. You'll lea
 | 16/03/2024    | Introduction to Regression: Get started with regression models using Python and Scikit-learn.                     | Regression                      | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/6-Regression)                                 | [Recording](https://youtu.be/Ld7qE7Zltmk)       | Ibrahim    |
 | 23/03/2024    | North American Pumpkin Prices 🎃: Visualize and clean data; build linear, polynomial, and logistic regression models.  | Regression                      | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/6-Regression)                                 | [Recording](https://youtu.be/wA6f-PjPtK8)       | Ibrahim    |
 |            | Introduction to Classification: Introduction to data cleaning, preparation, and visualization for classification.    | Classification                  | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/7-Classification
-![image](https://github.com/arewadataScience/ArewaDS-Machine-Learning/assets/38854463/31df2a47-78db-4195-8976-ba3fdace6b2f)
-)                             | TBD       | TBD    |
+![image](https://github.com/arewadataScience/ArewaDS-Machine-Learning/assets/38854463/31df2a47-78db-4195-8976-ba3fdace6b2f)                            | TBD       | TBD    |
 |            | Delicious Asian and Indian Cuisines 🍜: Learn about classifiers; build a recommender web app using your model.               | Classification                  | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/7-Classification
 ![image](https://github.com/arewadataScience/ArewaDS-Machine-Learning/assets/38854463/8eb69666-a93e-4487-adfd-ef9b9ce05ac6)
-)                   | TBD       | TBD    |
+              | TBD       | TBD    |
 |            | Introduction to Clustering: Learn about clustering and data visualization.                                       | Clustering                      | [Lesson](Machine-Learning/5-Clustering/1-Visualize/README.md)                     | TBD       | TBD    |
 |            | Exploring Nigerian Musical Tastes 🎧: Explore the K-Means clustering method with music data.                               | Clustering                      | [Lesson](Machine-Learning/5-Clustering/2-K-Means/README.md)                       | TBD       | TBD    |
 |            | Introduction to Natural Language Processing ☕️: Learn the basics of NLP by building a simple bot.                                    | Natural Language Processing     | [Lesson](Machine-Learning/6-NLP/1-Introduction-to-NLP/README.md)                  | TBD       | TBD    |
