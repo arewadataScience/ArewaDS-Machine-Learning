@@ -209,10 +209,11 @@ In the final part of the fellowship, we'll focus on Machine Learning. You'll lea
 |            | Introduction to Time Series Forecasting: Learn the basics of time series forecasting.                                         | Time Series                     | [Lesson](Machine-Learning/7-TimeSeries/README.md)                                 | [Recording1](https://youtu.be/gOcvb1_Z99Y) [Recording2](https://youtu.be/nocjGZ_pmSU)        | Zahraddeen Karami Lawal    |
 |            | Introduction to Reinforcement Learning: Get introduced to reinforcement learning with Q-Learning.                            | Reinforcement Learning          | [Lesson](Machine-Learning/8-Reinforcement/README.md)                              | [Recording](https://youtu.be/QrUrj2r71tU)       | Mustapha Abdullahi    |
 |            | A guide to Upwork freelancing                                                 | Upwork                           | [Lesson](#)    | [Recording](https://youtu.be/Ss1zMpht3ow)       | Munzali Alhassan    |
+|            | Completing DataCamp Data Scienec Certification                                | Data Science Certification       | [Lesson](#)    | [Recording](https://youtu.be/wWFHdIzWMp8)       | Lukman    |
 |            | Introduction to Kaggle: Learn how to participate in Kaggle competition                                       | Kaggle                          | [Lesson](https://machinelearningmastery.com/get-started-with-kaggle/)                                                                       | TBD       | TBD    |
 |            | MLFlow**: Learn how to get started with MLflow                                                 | MLFlow                           | [Lesson](#)                                                                       | TBD       | TBD    |
 
-
+https://youtu.be/wWFHdIzWMp8
 
 
 
