@@ -175,11 +175,6 @@ Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary
 
 In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
 
-
-## Stage 3: Machine Learning
-
-**Duration: 8 weeks**
-
 Recommended Book: 
 
 - [Machine Learning with PyTorch and Scikit-Learn Book](#) and [Youtube Series on this book chapters](https://www.youtube.com/playlist?list=PLr3-oFRsHRaZwmVUPMvnDUZV-j2zaK5zU).
