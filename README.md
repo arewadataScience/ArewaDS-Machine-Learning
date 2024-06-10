@@ -20,7 +20,6 @@ ArewaDS website: https://arewadatascience.github.io
     - [30 Days of Python Challenge](#30-days-of-python-challenge)
   - [Stage 2: Data Science](#stage-2-data-science)
   - [Stage 3: Machine Learning](#stage-3-machine-learning)
-  - [Stage 3: Machine Learning](#stage-3-machine-learning-1)
   - [Career Services, Soft Skills and Mentorship](#career-services-soft-skills-and-mentorship)
 
 
