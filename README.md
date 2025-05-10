@@ -151,9 +151,9 @@ Here's the challenge you'll be undertaking:
 
 **Duration: 6 weeks**  
 
-The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. 
+- The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. 
 
-Recommended Reading: [Python for Data Analysis](https://wesmckinney.com/book/) and [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/).
+- Recommended Reading: [Python for Data Analysis](https://wesmckinney.com/book/) and [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/).
 <!-- 
 | Date                          | Learning Objectives and Topics                                                                                          | Lesson Resources                        | Recording |Mentor | 
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |------ |
