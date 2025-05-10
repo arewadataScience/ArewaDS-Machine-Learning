@@ -165,7 +165,7 @@ Here's the challenge you'll be undertaking:
 
 **Duration: 6 weeks**  
 
-- The second part of the fellowship is all about Data Science. Y
+- The second part of the fellowship is all about Data Science. 
   
 - You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. 
 
