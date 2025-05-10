@@ -15,9 +15,6 @@ ArewaDS website: https://arewadatascience.github.io
   - [Graduation Requirements](#graduation-requirements)
   - [Fellowship Kickoff](#fellowship-kickoff)
   - [Stage 1: Getting Started](#stage-1-getting-started)
-    - [Learning How to Learn](#learning-how-to-learn)
-    - [Setup and Installation](#setup-and-installation)
-    - [30 Days of Python Challenge](#30-days-of-python-challenge)
   - [Stage 2: Data Science](#stage-2-data-science)
   - [Stage 3: Machine Learning](#stage-3-machine-learning)
   - [Career Services, Soft Skills and Mentorship](#career-services-soft-skills-and-mentorship)
@@ -71,15 +68,23 @@ You can find the list of accepted fellows, the mentor-mentee list, the recording
 
 | Component                   | Resource                                                                                                                                                                                  |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Accepted Fellows Page       | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                                                   |
-| Mentors/Mentee Info         | [mentor/mentee page](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/mentor_mentee.md)                                                                             |
-| Communication (Discord)    | [How to use Arewa Data Science Telegram Group](https://discord.gg/gg6ntVcgVf)                                |
+| Accepted Fellows Page       | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                           |
+| Communication (Discord)    | [How to use Arewa Data Science Discord Group](https://discord.gg/gg6ntVcgVf)                                |
+
+
+## Stage 1: Getting Started
+- The first stage in this fellowship is [Python Programming Fellowship](https://github.com/arewadataScience/python-programming-fellowship)
+
+- This stage must be completed before progressing to the next one.
+
+
+
 <!-- | Kickoff Recording Ethiqueet | [Link to Recording](https://www.youtube.com/watch?v=q6sQmF_nu6U)                                                                                                                          |
 | Kickoff Slides              | [Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=false&loop=false&delayms=3000) | -->
 
-
-We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
-
+<!-- 
+We are excited to have you on board and can't wait to see the amazing things you'll accomplish. -->
+<!-- 
 ## Stage 1: Getting Started
 
 | **Duration: 6 weeks**  | [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md) |
@@ -140,7 +145,7 @@ Here's the challenge you'll be undertaking:
 
 | Day  | Content                     | Link                                                                      |
 | ---- | --------------------------- | ------------------------------------------------------------------------- |
-| 1-30 | 30 Days of Python Challenge | [Start the Course](https://github.com/arewadataScience/30-Days-of-Python) |
+| 1-30 | 30 Days of Python Challenge | [Start the Course](https://github.com/arewadataScience/30-Days-of-Python) | -->
 
 ## Stage 2: Data Science
 
