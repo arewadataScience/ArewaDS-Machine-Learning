@@ -10,11 +10,11 @@ ArewaDS website: https://arewadatascience.github.io
 - [Arewa Data Science and Machine Learning Curriculum!](#arewa-data-science-and-machine-learning-curriculum)
     - [Key Features:](#key-features)
     - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
+  - [Stage 1: Getting Started](#stage-1-getting-started)
     - [Contact \& Community:](#contact--community)
   - [Welcome to Cohort 3.0 ArewaDS Fellowship](#welcome-to-cohort-30-arewads-fellowship)
   - [Graduation Requirements](#graduation-requirements)
-  - [Fellowship Kickoff](#fellowship-kickoff)
-  - [Stage 1: Getting Started](#stage-1-getting-started)
+  - [Stage 1: Getting Started](#stage-1-getting-started-1)
   - [Stage 2: Data Science](#stage-2-data-science)
   - [Stage 3: Machine Learning](#stage-3-machine-learning)
   - [Career Services, Soft Skills and Mentorship](#career-services-soft-skills-and-mentorship)
@@ -35,6 +35,20 @@ Our curriculum is carefully designed to guide participants through the basics of
 ### Interested in Joining the Fellowship?
 
 Applications for Cohort 3.0 have now closed, but we welcome you to participate in our sessions and access our materials for self-study. Stay updated on future cohorts and get the latest information by following us on our social media pages. Additionally, join our Telegram group for regular updates and insights into our fellowship program.
+
+You can find the list of accepted fellows below.
+
+
+| Component                   | Resource                                                                                                                                                                                  |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Accepted Fellows Page       | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                           |
+| Communication channel (Discord)    | [Click here to join our Discord channel](https://discord.gg/gg6ntVcgVf)                                |
+
+
+## Stage 1: Getting Started
+- The first stage in this fellowship is [Python Programming Fellowship](https://github.com/arewadataScience/python-programming-fellowship)
+
+
 
 ### Contact & Community:
 - Website: [Arewa Data Science Official Website](https://arewadatascience.github.io)
@@ -62,14 +76,14 @@ To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows
 
 - **Capstone Project**: Complete a capstone project that demonstrates the ability to apply learned skills to a real-world problem. The project must be approved by the ArewaDS Team.
 
-## Fellowship Kickoff
+<!-- ## Fellowship Kickoff
 
 You can find the list of accepted fellows, the mentor-mentee list, the recording of the kickoff event and the slides used during the presentation below.
 
 | Component                   | Resource                                                                                                                                                                                  |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accepted Fellows Page       | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                           |
-| Communication channel (Discord)    | [Click here to join our Discord channel](https://discord.gg/gg6ntVcgVf)                                |
+| Communication channel (Discord)    | [Click here to join our Discord channel](https://discord.gg/gg6ntVcgVf)                                | -->
 
 
 ## Stage 1: Getting Started
