@@ -153,7 +153,7 @@ Here's the challenge you'll be undertaking:
 
 The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. 
 
-Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary) and [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692).
+Recommended Reading: [Python for Data Analysis](https://wesmckinney.com/book/) and [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/).
 <!-- 
 | Date                          | Learning Objectives and Topics                                                                                          | Lesson Resources                        | Recording |Mentor | 
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |------ |
