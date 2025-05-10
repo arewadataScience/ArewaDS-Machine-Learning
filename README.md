@@ -33,7 +33,8 @@ Our curriculum is carefully designed to guide participants through the basics of
 
 ### Interested in Joining the Fellowship?
 
-Applications for Cohort 3.0 have now closed, but we welcome you to participate in our sessions and access our materials for self-study. Stay updated on future cohorts and get the latest information by following us on our social media pages. Additionally, join our Telegram group for regular updates and insights into our fellowship program.
+- Applications for Cohort 3.0 have now closed, but we welcome you to participate in our sessions and access our materials for self-study. 
+- Stay updated on future cohorts and get the latest information by following us on our social media pages. Additionally, join our Discord group for regular updates and insights into our fellowship program.
 
 You can find the list of accepted fellows below.
 
