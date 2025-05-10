@@ -10,11 +10,10 @@ ArewaDS website: https://arewadatascience.github.io
 - [Arewa Data Science and Machine Learning Curriculum!](#arewa-data-science-and-machine-learning-curriculum)
     - [Key Features:](#key-features)
     - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
-  - [Stage 1: Getting Started](#stage-1-getting-started)
     - [Contact \& Community:](#contact--community)
   - [Welcome to Cohort 3.0 ArewaDS Fellowship](#welcome-to-cohort-30-arewads-fellowship)
   - [Graduation Requirements](#graduation-requirements)
-  - [Stage 1: Getting Started](#stage-1-getting-started-1)
+  - [Stage 1: Getting Started](#stage-1-getting-started)
   - [Stage 2: Data Science](#stage-2-data-science)
   - [Stage 3: Machine Learning](#stage-3-machine-learning)
   - [Career Services, Soft Skills and Mentorship](#career-services-soft-skills-and-mentorship)
@@ -45,8 +44,8 @@ You can find the list of accepted fellows below.
 | Communication channel (Discord)    | [Click here to join our Discord channel](https://discord.gg/gg6ntVcgVf)                                |
 
 
-## Stage 1: Getting Started
-- The first stage in this fellowship is [Python Programming Fellowship](https://github.com/arewadataScience/python-programming-fellowship)
+<!-- ## Stage 1: Getting Started
+- The first stage in this fellowship is [Python Programming Fellowship](https://github.com/arewadataScience/python-programming-fellowship) -->
 
 
 
@@ -165,7 +164,9 @@ Here's the challenge you'll be undertaking:
 
 **Duration: 6 weeks**  
 
-- The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. 
+- The second part of the fellowship is all about Data Science. Y
+  
+- You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. 
 
 - Recommended Reading: [Python for Data Analysis](https://wesmckinney.com/book/) and [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/).
 <!-- 
