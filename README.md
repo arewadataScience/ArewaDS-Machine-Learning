@@ -11,7 +11,7 @@ ArewaDS website: https://arewadatascience.github.io
     - [Key Features:](#key-features)
     - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
     - [Contact \& Community:](#contact--community)
-  - [Welcome to Cohort 2.0 ArewaDS Fellowship](#welcome-to-cohort-20-arewads-fellowship)
+  - [Welcome to Cohort 3.0 ArewaDS Fellowship](#welcome-to-cohort-30-arewads-fellowship)
   - [Graduation Requirements](#graduation-requirements)
   - [Fellowship Kickoff](#fellowship-kickoff)
   - [Stage 1: Getting Started](#stage-1-getting-started)
@@ -37,7 +37,7 @@ Our curriculum is carefully designed to guide participants through the basics of
 
 ### Interested in Joining the Fellowship?
 
-Applications for Cohort 2.0 have now closed, but we welcome you to participate in our sessions and access our materials for self-study. Stay updated on future cohorts and get the latest information by following us on our social media pages. Additionally, join our Telegram group for regular updates and insights into our fellowship program.
+Applications for Cohort 3.0 have now closed, but we welcome you to participate in our sessions and access our materials for self-study. Stay updated on future cohorts and get the latest information by following us on our social media pages. Additionally, join our Telegram group for regular updates and insights into our fellowship program.
 
 ### Contact & Community:
 - Website: [Arewa Data Science Official Website](https://arewadatascience.github.io)
@@ -45,11 +45,11 @@ Applications for Cohort 2.0 have now closed, but we welcome you to participate i
 - [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
 
 
-## Welcome to Cohort 2.0 ArewaDS Fellowship
+## Welcome to Cohort 3.0 ArewaDS Fellowship
 
-Welcome to the Arewa Data Science and Machine Learning Cohort 2.0 Fellowship!. Whether you're just starting or looking to deepen your existing skills, our fellowship offers a structured path to mastering the fundamentals and advanced concepts. We've organized the fellowship into three main parts:
+Welcome to the Arewa Data Science and Machine Learning Cohort 3.0 Fellowship!. We've organized the fellowship into three main parts:
 
-- **[Stage 1: Getting Started](#stage-1-getting-started)** - You'll learn the basics, set up your tools, and prepare for what's ahead.
+- **[Stage 1: Python Programming for Data Science](#stage-1-getting-started)** - You'll learn the basics of pythons, set up your tools, and prepare for what's ahead. This stage is covered [here]()
 - **[Stage 2: Data Science](#stage-2-data-science)** - This part covers data handling, from cleaning to analyzing.
 - **[Stage 3: Machine Learning](#stage-3-machine-learning)** - Here, you'll dive into machine learning techniques and tools like Scikit-learn.
 
@@ -61,7 +61,7 @@ To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows
 
 - **Assignments and Medium BlogPost**: Submission of all required assignments and assigned blog post by the specified deadlines. Posts must meet the quality standards set by the mentors.
 
-- **Attendance**: Maintain a 90% attendance rate for weekly office hours (Saturday and Sunday). See [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md)
+<!-- - **Attendance**: Maintain a 90% attendance rate for weekly office hours (Saturday and Sunday). See [attendance list](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/attendance.md) -->
 
 - **Capstone Project**: Complete a capstone project that demonstrates the ability to apply learned skills to a real-world problem. The project must be approved by the ArewaDS Team.
 
@@ -73,9 +73,9 @@ You can find the list of accepted fellows, the mentor-mentee list, the recording
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accepted Fellows Page       | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                                                   |
 | Mentors/Mentee Info         | [mentor/mentee page](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/mentor_mentee.md)                                                                             |
-| Communication (Telegram)    | [How to use Arewa Data Science Telegram Group](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)                                |
-| Kickoff Recording Ethiqueet | [Link to Recording](https://www.youtube.com/watch?v=q6sQmF_nu6U)                                                                                                                          |
-| Kickoff Slides              | [Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=false&loop=false&delayms=3000) |
+| Communication (Discord)    | [How to use Arewa Data Science Telegram Group](https://discord.gg/gg6ntVcgVf)                                |
+<!-- | Kickoff Recording Ethiqueet | [Link to Recording](https://www.youtube.com/watch?v=q6sQmF_nu6U)                                                                                                                          |
+| Kickoff Slides              | [Link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=false&loop=false&delayms=3000) | -->
 
 
 We are excited to have you on board and can't wait to see the amazing things you'll accomplish.
