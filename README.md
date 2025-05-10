@@ -69,7 +69,7 @@ You can find the list of accepted fellows, the mentor-mentee list, the recording
 | Component                   | Resource                                                                                                                                                                                  |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accepted Fellows Page       | [Visit the Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                           |
-| Communication (Discord)    | [How to use Arewa Data Science Discord Group](https://discord.gg/gg6ntVcgVf)                                |
+| Communication channel (Discord)    | [Click here to join our Discord channel](https://discord.gg/gg6ntVcgVf)                                |
 
 
 ## Stage 1: Getting Started
@@ -149,12 +149,12 @@ Here's the challenge you'll be undertaking:
 
 ## Stage 2: Data Science
 
-**Duration: 6 weeks**  | [attendance list](#) | 
+**Duration: 6 weeks**  
 
-The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. In addition to the technical skills, fellows are expected to complete the ["Writing in the Sciences"](https://www.coursera.org/learn/sciwrite) course on Coursera to hone their ability to communicate scientific findings effectively.
+The second part of the fellowship is all about Data Science. You'll learn to clean, visualize, and analyze data, which are key steps in any data science project. 
 
 Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary) and [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692).
-
+<!-- 
 | Date                          | Learning Objectives and Topics                                                                                          | Lesson Resources                        | Recording |Mentor | 
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |------ |
 |     20/01/2024                    |  **Blogging using Medium:** Learn how to start writing blogs using Medium| [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd) | [Recording](https://youtu.be/Gt2D2eNWpxI)  | Lukman|
@@ -169,7 +169,24 @@ Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary
 |  18/02/2024       |  Visualizing Relationships : Visualize connections and correlations between datasets and variables.                                                  | [Relationships Visualization](3-Data-Visualization/12-visualization-relationships/README.md)        |  [Recording](https://youtu.be/BOH2Wjj01_Y?si=ZHLc6BnHfifs-S8K)   |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
 |   18/02/2024      |  Meaningful Visualizations : Create valuable visualizations for effective problem-solving and insights.                                              | [Creating Meaningful Visualizations](3-Data-Visualization/13-meaningful-visualizations/README.md) |  [Recording](https://youtu.be/BOH2Wjj01_Y?si=xMOGdBtmLizuoXWM&t=2062)    |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
 |     18/02/2024               |  Communication : Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](4-Data-Science-Lifecycle/16-communication/README.md)         |  [Recording](https://youtu.be/BOH2Wjj01_Y?si=ciD6l3iQ2xRVl5AG&t=2814)   |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
-| 3/03/2023               |  Learn how to us Quarto to create website                | [Quaro](https://quarto.org)         | [Recording](https://youtu.be/x81iEpqr9pw)    
+| 3/03/2023               |  Learn how to us Quarto to create website                | [Quaro](https://quarto.org)         | [Recording](https://youtu.be/x81iEpqr9pw)     -->
+
+
+| Learning Objectives and Topics                                                                                          | Lesson Resources                        | Recording | Mentor |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | --------- | ------ |
+| **Blogging using Medium:** Learn how to start writing blogs using Medium | [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd) | [Recording](https://youtu.be/Gt2D2eNWpxI)  | Lukman |
+| Learn the basic concepts behind data science and its relationship with AI, machine learning, and big data.              | [Introduction to Data Science](1-Introduction/README.md)       | [Recording](https://youtu.be/saH0U9SEtwQ)     | [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/) |
+| Introduction to data classification and common data sources.                                                            | [Understanding Data Types](2-Working-With-Data/README.md)           | [Recording](https://youtu.be/BJ-gNbfrJjI)   | [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/) |
+| Numpy | [Numpy Notebook](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Notebookss/Numpy.ipynb) \| [numpy-100-exercise](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/100_numpy_exercise.md)       | [Recording](https://youtu.be/wnd8W0A5VHI)    | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
+| Pandas.                                                            | [Pandas Notebook](#) \| [Pandas exerices](https://github.com/guipsamora/pandas_exercises)      | [Recording](https://youtu.be/UbUw6j0dICI)     | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
+| Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](2-Working-With-Data/08-data-preparation/README.md)        | [Recording](https://youtu.be/oim42n-84-4)     | [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/) |
+| Visualizing Quantities : Learn to use Matplotlib to visualize data, such as bird populations.                                                    | [Visualizing with Matplotlib](3-Data-Visualization/09-visualization-quantities/README.md)        | [Recording](https://youtu.be/yt0KFV8JPoI)     | [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/) |
+| Visualizing Distributions of Data: Visualize observations and trends within intervals.                                                                     | [Data Distributions Visualization](3-Data-Visualization/10-visualization-distributions/README.md)   | [Recording](https://youtu.be/_wRt_MNFxmI?si=nUWEojzqQufxkUOn&t=18)  | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
+| Visualizing Proportions: Visualize discrete and grouped percentages.                                                                             | [Proportions Visualization](3-Data-Visualization/11-visualization-proportions/README.md)          | [Recording](https://youtu.be/_wRt_MNFxmI?si=V7dfUdZ9myLx7Yct&t=2939)   | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
+| Visualizing Relationships : Visualize connections and correlations between datasets and variables.                                                  | [Relationships Visualization](3-Data-Visualization/12-visualization-relationships/README.md)        | [Recording](https://youtu.be/BOH2Wjj01_Y?si=ZHLc6BnHfifs-S8K)   | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
+| Meaningful Visualizations : Create valuable visualizations for effective problem-solving and insights.                                              | [Creating Meaningful Visualizations](3-Data-Visualization/13-meaningful-visualizations/README.md) | [Recording](https://youtu.be/BOH2Wjj01_Y?si=xMOGdBtmLizuoXWM&t=2062)    | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
+| Communication : Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](4-Data-Science-Lifecycle/16-communication/README.md)         | [Recording](https://youtu.be/BOH2Wjj01_Y?si=ciD6l3iQ2xRVl5AG&t=2814)   | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
+| Learn how to use Quarto to create a website                | [Quarto](https://quarto.org)         | [Recording](https://youtu.be/x81iEpqr9pw)     | |
 
 
 
