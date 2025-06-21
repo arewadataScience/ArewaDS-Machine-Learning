@@ -79,7 +79,7 @@ Even with the rotation of the labels set to 45 degrees, there are too many to re
 ```python
 plt.title('Max Wingspan in Centimeters')
 plt.ylabel('Wingspan (CM)')
-plt.tick_params(axis='both',which='both',labelbottom=False,bottom=False)
+plt.tick_params(axis='both',which='both',labelbottom=False,bottom=False) # plt.tick_params(...) disables both the bottom axis ticks and their corresponding labels.
 
 for i in range(len(birds)):
     x = birds['Name'][i]
